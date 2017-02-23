@@ -1,6 +1,7 @@
 # What I'm Reading and Listening To
 
 ## Papers
+- [Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data](https://arxiv.org/pdf/1611.02788.pdf)
 - [Latent Room-Temperature Tc in Cuprate Superconductors](https://arxiv.org/pdf/1702.05001.pdf)
 - [Logical Induction](https://intelligence.org/files/LogicalInduction.pdf)
 
