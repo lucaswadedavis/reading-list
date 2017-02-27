@@ -15,9 +15,12 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast)
 - [Talk Python To Me](https://talkpython.fm/)
 - [Linear Digressions](http://lineardigressions.com/)
+  - [Stein's Paradox](http://lineardigressions.com/episodes/2017/2/26/steins-paradox)
 - [a16z](http://a16z.com/podcasts/)
+  - [The Era of Mass Customization](http://a16z.com/2017/02/25/reedhastings-netflix-entertainment-internet-streaming-content/)
 - [Exponential View](https://soundcloud.com/exponentialview)
 - [Econ Talk](http://www.econtalk.org/)
+  - [Against Empathy](http://www.econtalk.org/archives/2017/02/paul_bloom_on_e.html)
 - [Common Sense](http://www.dancarlin.com/common-sense-home-landing-page/)
 - [Hardcore History](http://www.dancarlin.com/hardcore-history-59-the-destroyer-of-worlds/)
 - [Planet Money](http://www.npr.org/podcasts/510289/planet-money)
@@ -25,7 +28,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - [Seminars About Long Term Thinking](http://longnow.org/seminars/podcast/)
 
 ## Books
-- Homo Deus
+- [Homo Deus](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
 - Sapiens
 - Algorithms to Live By
 - Fooled by Randomness
