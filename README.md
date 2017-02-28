@@ -37,6 +37,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - Zero to One
 - The Hard Thing about Hard Things
 - The Effective Executive
+- [The Magic of Thinking Big](https://www.amazon.com/Magic-Thinking-Big-David-Schwartz/dp/0671646788)
 - How Not to Die
 - Dark Pools
 - The Spirit Level
@@ -49,7 +50,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - The Master Algorithm
 - How to Create a Mind
 - The Dead Hand
-- The Evolution of Everything
+- [The Evolution of Everything](https://www.amazon.com/Evolution-Everything-How-Ideas-Emerge/dp/0062296000)
 - Thinking Fast and Slow
 - Superforecasting
 - Venture Deals
