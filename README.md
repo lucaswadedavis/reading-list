@@ -20,6 +20,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
   - [Stein's Paradox](http://lineardigressions.com/episodes/2017/2/26/steins-paradox)
 - [a16z](http://a16z.com/podcasts/)
   - [The Era of Mass Customization](http://a16z.com/2017/02/25/reedhastings-netflix-entertainment-internet-streaming-content/)
+  - [Technology Mobility and the American Dream with Tyler Cowen](http://a16z.com/2017/03/01/tyler-cowen-complacent-class/)
 - [Exponential View](https://soundcloud.com/exponentialview)
 - [Econ Talk](http://www.econtalk.org/)
   - [Against Empathy](http://www.econtalk.org/archives/2017/02/paul_bloom_on_e.html)
@@ -32,14 +33,14 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 ## Books
 - [Homo Deus](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
 - Sapiens
-- Algorithms to Live By
+- [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1480560367)
 - Fooled by Randomness
 - The Black Swan
 - Antifragile
 - Zero to One
 - The Hard Thing about Hard Things
 - The Effective Executive
-- [The Magic of Thinking Big](https://www.amazon.com/Magic-Thinking-Big-David-Schwartz/dp/0671646788)
+- [The Magic of Thinking Big](https://www.amazon.com/Magic-Thinking-Big-David-Schwartz/dp/0671646788): Great except that it should be called "How to Get Your Shit Together".
 - How Not to Die
 - Dark Pools
 - The Spirit Level
