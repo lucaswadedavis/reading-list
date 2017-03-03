@@ -13,6 +13,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 
 ## Podcasts
 - [Software Engineering Daily](https://softwareengineeringdaily.com)
+  - [Parse, Ops, and Selling your Startup to FB](https://softwareengineeringdaily.com/2017/03/01/parse-and-operations-with-charity-majors/)
 - [Omega Tau](http://omegataupodcast.net/)
 - [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast)
 - [Talk Python To Me](https://talkpython.fm/)
@@ -45,7 +46,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - Dark Pools
 - The Spirit Level
 - Too Big to Fail
-- Fragile by Design
+- [Fragile by Design](https://www.amazon.com/Fragile-Design-Political-Princeton-Economic/dp/0691155240)
 - The Big Short
 - The Righteous Mind
 - Incognito
