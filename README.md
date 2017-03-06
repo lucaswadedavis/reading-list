@@ -15,6 +15,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - [Software Engineering Daily](https://softwareengineeringdaily.com)
   - [Parse, Ops, and Selling your Startup to FB](https://softwareengineeringdaily.com/2017/03/01/parse-and-operations-with-charity-majors/)
 - [Omega Tau](http://omegataupodcast.net/)
+  - [Complexity and Collapse](http://omegataupodcast.net/238-societal-complexity-part-ii-todays-perspective/)
 - [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast)
 - [Talk Python To Me](https://talkpython.fm/)
 - [Linear Digressions](http://lineardigressions.com/)
@@ -28,6 +29,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - [Common Sense](http://www.dancarlin.com/common-sense-home-landing-page/)
 - [Hardcore History](http://www.dancarlin.com/hardcore-history-59-the-destroyer-of-worlds/)
 - [Planet Money](http://www.npr.org/podcasts/510289/planet-money)
+  - [Dodd-Frank](http://www.npr.org/sections/money/2017/03/03/518389647/episode-757-strong-feelings-about-dodd-frank)
 - [Radiolab](http://www.radiolab.org/series/podcasts/)
 - [Seminars About Long Term Thinking](http://longnow.org/seminars/podcast/)
 
@@ -47,7 +49,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - The Spirit Level
 - Too Big to Fail
 - [Fragile by Design](https://www.amazon.com/Fragile-Design-Political-Princeton-Economic/dp/0691155240)
-- The Big Short
+- [The Big Short](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827)
 - The Righteous Mind
 - Incognito
 - Superintelligence
