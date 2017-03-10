@@ -17,6 +17,8 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
   - [Equity Compensation](https://softwareengineeringdaily.com/2017/03/02/equity-compensation-with-joshua-levy-and-joe-wallin/)
   - [Autoscaling at Heroku](https://softwareengineeringdaily.com/2017/02/28/heroku-autoscaling-with-andrew-gwozdziewycz/)
   - [Cloudbleed and the Sha-1 Collision](https://softwareengineeringdaily.com/2017/03/04/cloudbleed-and-sha-1-collision-with-max-burkhardt/)
+  - [Load Testing](https://softwareengineeringdaily.com/2017/03/08/load-testing-with-mark-gilbert/)
+  - [Prototype Manufacturing](https://softwareengineeringdaily.com/2017/03/03/prototype-manufacturing-with-jeff-mcalvay/)
 - [Omega Tau](http://omegataupodcast.net/)
   - [Complexity and Collapse](http://omegataupodcast.net/238-societal-complexity-part-ii-todays-perspective/)
 - [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast)
@@ -26,6 +28,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - [a16z](http://a16z.com/podcasts/)
   - [The Era of Mass Customization](http://a16z.com/2017/02/25/reedhastings-netflix-entertainment-internet-streaming-content/)
   - [Technology Mobility and the American Dream with Tyler Cowen](http://a16z.com/2017/03/01/tyler-cowen-complacent-class/)
+  - [The Genetics of Drug Testing](http://a16z.com/2017/03/06/genetics-drug-discovery-russ-altman/)
 - [Exponential View](https://soundcloud.com/exponentialview)
 - [Econ Talk](http://www.econtalk.org/)
   - [Against Empathy](http://www.econtalk.org/archives/2017/02/paul_bloom_on_e.html)
@@ -63,7 +66,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - Superintelligence
 - The Master Algorithm
 - How to Create a Mind
-- The Dead Hand
+- [The Dead Hand](https://www.amazon.com/Dead-Hand-Untold-Dangerous-Legacy/dp/0307387844)
 - [The Evolution of Everything](https://www.amazon.com/Evolution-Everything-How-Ideas-Emerge/dp/0062296000)
 - Thinking Fast and Slow
 - Superforecasting
