@@ -4,6 +4,7 @@
 Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 
 ## Papers
+- [Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf)
 - [Fractional Electrons in Liquid Helium?](https://archive.org/details/arxiv-cond-mat0012370)
 - [Electrons in Liquid Helium](https://www.brown.edu/research/labs/electron-bubble/sites/brown.edu.research.labs.electron-bubble/files/uploads/jsps%20review_08.pdf)
 - [Kolmogorov superposition theorem for image compression](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6403958)
