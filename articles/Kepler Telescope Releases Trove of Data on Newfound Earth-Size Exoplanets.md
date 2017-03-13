@@ -1,0 +1,1 @@
+<<<<img title="Kepler Telescope Releases Trove of Data on Newfound Earth-Size Exoplanets - Scientific American" src="https://www.scientificamerican.com/sciam/cache/file/FD14E6E5-4A77-496A-AA8351C2F0A0990C_agenda.jpeg?w=600
