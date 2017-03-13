@@ -1,0 +1,1 @@
+# [Nobel economist takes aim at rent-seeking banking and healthcare industries](http://www.marketwatch.com/story/nobel-economist-takes-aim-at-rent-seeking-banking-and-healthcare-industries-2017-03-06?siteid=rss)<br><br><<<<div><div id="article-body" itemprop="articleBody">
