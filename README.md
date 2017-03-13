@@ -19,7 +19,10 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
   - [Cloudbleed and the Sha-1 Collision](https://softwareengineeringdaily.com/2017/03/04/cloudbleed-and-sha-1-collision-with-max-burkhardt/)
   - [Load Testing](https://softwareengineeringdaily.com/2017/03/08/load-testing-with-mark-gilbert/)
   - [Prototype Manufacturing](https://softwareengineeringdaily.com/2017/03/03/prototype-manufacturing-with-jeff-mcalvay/)
+  - [CQRS](https://softwareengineeringdaily.com/2017/03/10/using-cqrs-to-make-controllers-lean-with-derek-comartin/)
+  - [AI Implications](https://softwareengineeringdaily.com/2017/03/09/artificial-intelligence-implications-with-rumman-chowdhury/)
 - [Omega Tau](http://omegataupodcast.net/)
+  - [The Saturn V Launch Vehicle](http://omegataupodcast.net/239-the-saturn-v-launch-vehicle/)
   - [Complexity and Collapse](http://omegataupodcast.net/238-societal-complexity-part-ii-todays-perspective/)
 - [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast)
 - [Talk Python To Me](https://talkpython.fm/)
@@ -50,7 +53,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1480560367)
 - Fooled by Randomness
 - The Black Swan
-- Antifragile
+- [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
 - Zero to One
 - The Hard Thing about Hard Things
 - The Effective Executive
