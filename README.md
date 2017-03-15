@@ -1,7 +1,7 @@
 # What I'm Reading and Listening To
 
 ## Articles
-Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
+Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues) and more recently the [Articles](https://github.com/lucaswadedavis/reading-list/tree/master/articles) directory.
 
 ## Papers
 - [Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf)
@@ -73,7 +73,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues)
 - [The Dead Hand](https://www.amazon.com/Dead-Hand-Untold-Dangerous-Legacy/dp/0307387844)
 - [The Evolution of Everything](https://www.amazon.com/Evolution-Everything-How-Ideas-Emerge/dp/0062296000)
 - Thinking Fast and Slow
-- Superforecasting
+- [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718)
 - Venture Deals
 - The Martian
 - Whole Earth Discipline
