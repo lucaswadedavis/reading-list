@@ -22,6 +22,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues) and mo
   - [Prototype Manufacturing](https://softwareengineeringdaily.com/2017/03/03/prototype-manufacturing-with-jeff-mcalvay/)
   - [CQRS](https://softwareengineeringdaily.com/2017/03/10/using-cqrs-to-make-controllers-lean-with-derek-comartin/)
   - [AI Implications](https://softwareengineeringdaily.com/2017/03/09/artificial-intelligence-implications-with-rumman-chowdhury/)
+  - [Cloud Native Investing](https://softwareengineeringdaily.com/2017/03/13/cloud-native-investing-with-lenny-pruss/)
 - [Omega Tau](http://omegataupodcast.net/)
   - [The Saturn V Launch Vehicle](http://omegataupodcast.net/239-the-saturn-v-launch-vehicle/)
   - [Complexity and Collapse](http://omegataupodcast.net/238-societal-complexity-part-ii-todays-perspective/)
@@ -29,6 +30,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues) and mo
 - [Talk Python To Me](https://talkpython.fm/)
 - [Linear Digressions](http://lineardigressions.com/)
   - [Stein's Paradox](http://lineardigressions.com/episodes/2017/2/26/steins-paradox)
+  - [Finding and Studying Trolls with Jigsaw Tools](http://lineardigressions.com/episodes/2017/3/12/finding-and-studying-wikipedia-trolls)
 - [a16z](http://a16z.com/podcasts/)
   - [The Era of Mass Customization](http://a16z.com/2017/02/25/reedhastings-netflix-entertainment-internet-streaming-content/)
   - [Technology Mobility and the American Dream with Tyler Cowen](http://a16z.com/2017/03/01/tyler-cowen-complacent-class/)
@@ -44,11 +46,12 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues) and mo
 - [Planet Money](http://www.npr.org/podcasts/510289/planet-money)
   - [Dodd-Frank](http://www.npr.org/sections/money/2017/03/03/518389647/episode-757-strong-feelings-about-dodd-frank)
 - [Radiolab](http://www.radiolab.org/series/podcasts/)
+  - [9 Volt Nirvana](http://www.radiolab.org/story/9-volt-nirvana/)
 - [Seminars About Long Term Thinking](http://longnow.org/seminars/podcast/)
   - [Nature is Rebounding on Land](http://longnow.org/seminars/02015/jan/13/nature-rebounding-land-and-ocean-sparing-through-concentrating-human-activities/)
   - [Will Wright and Brian Eno: Compression and Emergence](http://longnow.org/seminars/02006/jun/26/playing-with-time/)
 
-## Books
+## Books I Have Read
 - [Homo Deus](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
 - Sapiens
 - [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1480560367)
@@ -77,3 +80,6 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues) and mo
 - Venture Deals
 - The Martian
 - Whole Earth Discipline
+
+## Books I Want to Read
+ - [Seeing Like a State](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153)
