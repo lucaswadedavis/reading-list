@@ -14,6 +14,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues) and mo
 
 ## Podcasts
 - [Software Engineering Daily](https://softwareengineeringdaily.com)
+  - [Multiagent Systems](https://softwareengineeringdaily.com/2017/03/21/multiagent-systems-with-peter-stone/)
   - [Parse, Ops, and Selling your Startup to FB](https://softwareengineeringdaily.com/2017/03/01/parse-and-operations-with-charity-majors/)
   - [Equity Compensation](https://softwareengineeringdaily.com/2017/03/02/equity-compensation-with-joshua-levy-and-joe-wallin/)
   - [Autoscaling at Heroku](https://softwareengineeringdaily.com/2017/02/28/heroku-autoscaling-with-andrew-gwozdziewycz/)
@@ -32,6 +33,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues) and mo
   - [Stein's Paradox](http://lineardigressions.com/episodes/2017/2/26/steins-paradox)
   - [Finding and Studying Trolls with Jigsaw Tools](http://lineardigressions.com/episodes/2017/3/12/finding-and-studying-wikipedia-trolls)
 - [a16z](http://a16z.com/podcasts/)
+  - [Why storage is important in 2017](http://a16z.com/2017/03/20/storage-memory-infrastructure/)
   - [The Era of Mass Customization](http://a16z.com/2017/02/25/reedhastings-netflix-entertainment-internet-streaming-content/)
   - [Technology Mobility and the American Dream with Tyler Cowen](http://a16z.com/2017/03/01/tyler-cowen-complacent-class/)
   - [The Genetics of Drug Testing](http://a16z.com/2017/03/06/genetics-drug-discovery-russ-altman/)
@@ -39,6 +41,7 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues) and mo
 - [Econ Talk](http://www.econtalk.org/)
   - [Against Empathy](http://www.econtalk.org/archives/2017/02/paul_bloom_on_e.html)
 - [Waking Up: The Sam Harris Podcast](https://www.samharris.org/podcast)
+  - [Interview with Yuval Harari](https://www.samharris.org/podcast/item/reality-and-the-imagination)
   - [Living with Robots](https://www.samharris.org/podcast/item/living-with-robots)
 - [Common Sense](http://www.dancarlin.com/common-sense-home-landing-page/)
 - [Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
@@ -81,5 +84,5 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues) and mo
 - The Martian
 - Whole Earth Discipline
 
-## Books I Want to Read
+## Books I Should Read
  - [Seeing Like a State](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153)
