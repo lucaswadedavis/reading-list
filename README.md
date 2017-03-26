@@ -87,3 +87,17 @@ Check the [Issues](https://github.com/lucaswadedavis/reading-list/issues) and mo
 
 ## Books I Should Read
  - [Seeing Like a State](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153)
+ - [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
+ - [Six Admendments : How and Why We Should Change the Constitution](https://www.amazon.com/Six-Amendments-Should-Change-Constitution/dp/0316373729/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1490552299&sr=1-1-spell&keywords=six+admendments)
+ - [Age of Ambition: Chasing Fortune, Truth, and Faith in the New China](https://www.amazon.com/Age-Ambition-Chasing-Fortune-Truth/dp/0374535272/ref=sr_1_1?s=books&ie=UTF8&qid=1490552316&sr=1-1&keywords=Age+of+Ambition%3A+Chasing+Fortune%2C+Truth%2C+and+Faith+in+the+New+China)
+ - [The New Jim Crow: Mass Incarceration in the Age of Colorblindness](https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431/ref=sr_1_1?s=books&ie=UTF8&qid=1490552336&sr=1-1&keywords=the+new+jim+crow)
+ - [No Good Men Among the Living: America, the Taliban, and the War through Afghan Eyes](https://www.amazon.com/No-Good-Men-Among-Living/dp/1250069262/ref=sr_1_1?s=books&ie=UTF8&qid=1490552361&sr=1-1&keywords=no+good+men+among+the+living)
+ - [Beyond the Hundredth Meridian: John Wesley Powell and the Second Opening of the West ](https://www.amazon.com/Beyond-Hundredth-Meridian-Wesley-Opening/dp/0140159940/ref=sr_1_1?s=books&ie=UTF8&qid=1490552389&sr=1-1&keywords=beyond+the+100th+meridian)
+ - [The Great Escape: Health, Wealth, and the Origins of Inequality](https://www.amazon.com/Great-Escape-Health-Origins-Inequality/dp/0691165629/ref=sr_1_3?s=books&ie=UTF8&qid=1490552416&sr=1-3&keywords=the+great+escape)
+ - [Success and Luck: Good Fortune and the Myth of Meritocracy ](https://www.amazon.com/Success-Luck-Good-Fortune-Meritocracy/dp/0691167400/ref=sr_1_1?ie=UTF8&qid=1490552433&sr=8-1&keywords=good+fortune+and+the+myth+of+meritocracy)
+ - [Pig Tales: An Omnivores Quest for Sustainable Meat](https://www.amazon.com/Pig-Tales-Omnivores-Quest-Sustainable/dp/0393352935/ref=sr_1_1?ie=UTF8&qid=1490552482&sr=8-1&keywords=pig+tales)
+ - [The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War](https://www.amazon.com/Rise-Fall-American-Growth-Princeton/dp/0691147728)
+ - [Evicted: Poverty and Profit in the American City](https://www.amazon.com/Evicted-Poverty-Profit-American-City/dp/0553447459/ref=sr_1_1?s=books&ie=UTF8&qid=1490552520&sr=1-1&keywords=evicted)
+ - [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593/ref=sr_1_1?s=books&ie=UTF8&qid=1490552535&sr=1-1&keywords=the+undoing+project)
+ - [The World Until Yesterday: What Can We Learn from Traditional Societies](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1490552552&sr=1-1&keywords=the+world+until+yesterday)
+ - [Strangers in Their Own Land: Anger and Mourning on the American Right](https://www.amazon.com/Strangers-Their-Own-Land-Mourning/dp/1620972255/ref=sr_1_1?s=books&ie=UTF8&qid=1490552565&sr=1-1&keywords=strangers+in+their+own+land)
