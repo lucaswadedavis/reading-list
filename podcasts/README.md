@@ -30,6 +30,8 @@
   - [Interview with Yuval Harari](https://www.samharris.org/podcast/item/reality-and-the-imagination)
   - [Living with Robots](https://www.samharris.org/podcast/item/living-with-robots)
 - [Common Sense](http://www.dancarlin.com/common-sense-home-landing-page/)
+- The Ruben Report
+  - [Bryan Caplan on Anarcho Capitalism](https://player.fm/series/the-rubin-report/ep-72-bryan-caplan)
 - [Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
   - [Nuclear Game Theory During the Cold War](http://www.dancarlin.com/hardcore-history-59-the-destroyer-of-worlds/)
 - [Planet Money](http://www.npr.org/podcasts/510289/planet-money)
