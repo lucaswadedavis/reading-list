@@ -1,0 +1,33 @@
+## [Physicists discover flaws in superconductor theory](https://www.sciencedaily.com/releases/2016/04/160408102223.htm)
+
+University of Houston physicists report finding major theoretical flaws in the generally accepted understanding of how a superconductor traps and holds a magnetic field. More than 50 years ago, C.P. Bean, a scientist at General Electric, developed a theoretical explanation known as the "Bean Model" or "Critical State Model."
+
+The basic property of superconductors is that they represent zero "resistance" to electrical circuits. In a way, they are the opposite of toasters, which resist electrical currents and thereby convert energy into heat. Superconductors consume zero energy and can store it for a long period of time. Those that store magnetic energy -- known as "trapped field magnets" or TFMs -- can behave like a magnet.
+
+In the Journal of Applied Physics, from AIP Publishing, the researchers describe experiments whose results exhibited "significant deviations" from those of the Critical State Model. They revealed unexpected new behavior favorable to practical applications, including the possibility of using TFMs in myriad new ways.
+
+Much of modern technology is already based on magnets. "Without magnets, we'd lack generators [electric lights and toasters], motors [municipal water supplies, ship engines], magnetrons [microwave ovens], and much more," said Roy Weinstein, lead author of the study, and professor of physics emeritus and research professor at the University of Houston.
+
+Generally, the performance of a device based on magnets improves as the strength of the magnet increases, up to the square of the increase. In other words, if a magnet is 25 times stronger, the device's performance can range from 25 to 625 times better.
+
+TFMs are clearly intriguing, but their use has been largely held back by the challenge of getting the magnetic field into the superconductor. "A more tractable problem is the need to cool the superconductor to the low temperature at which it superconducts," Weinstein explained.
+
+"Bean assumed the superconductor had zero resistance and that the basic laws of electromagnetism, developed circa 1850, were correct," Weinstein said. "And he was able to predict how and where an external magnetic field would enter a superconductor."
+
+The method widely used today is to apply a magnetic field to a superconductor via a pulse field magnet after the superconductor is cooled. Bean's model predicted, and until now experiments confirmed, that to push as much magnetic field as possible into a superconductor, the pulsed field must be at least twice as strong, and more typically over 3.2 times as strong, as the resulting field of the TFM.
+
+But, this severely limits the applicability of TFMs. "It's difficult and expensive to produce fields of more than 12 tesla," said Weinstein. "If Bean's theory held true, this cost and practicality barrier would limit TFMs used within products to a maximum of typically 3.75 tesla."
+
+Minor problems with Bean's Critical State Model emerged shortly after it was published, according to Weinstein. Any chink in theoretical armor is worthy of an exploratory experiment, and this is what motivated Weinstein and his colleagues.
+
+They discovered that for certain constraints on a magnetic pulse, Bean's model is far off base, and a significantly different spatial distribution of field occurs. "Great increases in field occur suddenly, in a single leap, whereas Bean's model predicts a steady, slow increase," Weinstein said.
+
+All of this new, unexpected behavior is repeatable and controllable. "The most encouraging is that we can now produce full-strength TFMs with a pulse strength 1.0 times that of the TFM," he added.
+
+"By using our newly discovered methods, the maximum TFM field is now 12 tesla," said Weinstein. "A motor, if made in a fixed size, can produce 3.2 times the torque. Alternatively, the motor can be designed to produce the same amount of torque, but have its volume reduced by more than 10 times. This reduction in materials can result in great cost savings."
+
+The researchers are still within the "early days" of this work and have already disproven their first thoughts concerning what is causing their results. "We're now essentially spelunking in a dark cave without lights -- it's frustrating, but exciting," Weinstein said.
+
+In terms of applications for their discovery, the researchers suggest the ability to replace a $100,000 low-temperature superconducting magnet in a research X-ray machine with a $300 TFM, or possibly replace a motor with one that is a quarter of the size of an existing one. There are many other potential applications, such as an energy-efficient ore separator, noncontact magnetic gears that will not wear or require repair, a red blood separator with 50 percent improved yield, and even an automated docking system for spacecraft.
+
+Weinstein and colleagues are now searching for fast, short-term support that will allow them to continue their research to explain this new phenomenon. "While we now know enough to apply our new discovery to significantly improve a large number of devices, we don't yet fully know what's going on in terms of the basic laws of physics," he noted.
