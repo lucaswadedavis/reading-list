@@ -6,6 +6,7 @@
 - [Kolmogorov superposition theorem for image compression](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6403958)
 - [Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data](https://arxiv.org/pdf/1611.02788.pdf)
 - [Latent Room-Temperature Tc in Cuprate Superconductors](https://arxiv.org/pdf/1702.05001.pdf)
+- [Experimental Detection of the Gravitomagnetic London Moment](https://arxiv.org/pdf/gr-qc/0603033.pdf)
 - [Logical Induction](https://intelligence.org/files/LogicalInduction.pdf)
 
 # Papers I Should Read
