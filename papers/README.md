@@ -8,5 +8,6 @@
 - [Latent Room-Temperature Tc in Cuprate Superconductors](https://arxiv.org/pdf/1702.05001.pdf)
 - [Experimental Detection of the Gravitomagnetic London Moment](https://arxiv.org/pdf/gr-qc/0603033.pdf)
 - [Logical Induction](https://intelligence.org/files/LogicalInduction.pdf)
+- [How and Why Government, Universities, and Industry Create Domestic Labor Shortages of Scientists and High-Tech Workers](https://www.ineteconomics.org/uploads/papers/Weinstein-GUI_NSF_SG_Complete_INET.pdf)
 
 # Papers I Should Read
