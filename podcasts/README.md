@@ -1,5 +1,7 @@
 # Podcasts I Have Listened To
 - [Software Engineering Daily](https://softwareengineeringdaily.com)
+  - [zCash](https://softwareengineeringdaily.com/tag/zcash/)
+  - [Product Development](https://softwareengineeringdaily.com/2017/03/27/product-development-with-cullen-zandstra/)
   - [Multiagent Systems](https://softwareengineeringdaily.com/2017/03/21/multiagent-systems-with-peter-stone/)
   - [Parse, Ops, and Selling your Startup to FB](https://softwareengineeringdaily.com/2017/03/01/parse-and-operations-with-charity-majors/)
   - [Equity Compensation](https://softwareengineeringdaily.com/2017/03/02/equity-compensation-with-joshua-levy-and-joe-wallin/)
@@ -11,6 +13,7 @@
   - [AI Implications](https://softwareengineeringdaily.com/2017/03/09/artificial-intelligence-implications-with-rumman-chowdhury/)
   - [Cloud Native Investing](https://softwareengineeringdaily.com/2017/03/13/cloud-native-investing-with-lenny-pruss/)
 - [Omega Tau](http://omegataupodcast.net/)
+  - [Electric Propulsion of Spacecraft](http://omegataupodcast.net/241-electric-propulsion-of-spacecraft/)
   - [The Saturn V Launch Vehicle](http://omegataupodcast.net/239-the-saturn-v-launch-vehicle/)
   - [Complexity and Collapse](http://omegataupodcast.net/238-societal-complexity-part-ii-todays-perspective/)
 - [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast)
@@ -25,6 +28,7 @@
   - [The Genetics of Drug Testing](http://a16z.com/2017/03/06/genetics-drug-discovery-russ-altman/)
 - [Exponential View](https://soundcloud.com/exponentialview)
 - [Econ Talk](http://www.econtalk.org/)
+  - [Building the Skyline](http://www.econtalk.org/archives/2017/03/jason_barr_on_b.html)
   - [Against Empathy](http://www.econtalk.org/archives/2017/02/paul_bloom_on_e.html)
 - [Waking Up: The Sam Harris Podcast](https://www.samharris.org/podcast)
   - [Interview with Yuval Harari](https://www.samharris.org/podcast/item/reality-and-the-imagination)
