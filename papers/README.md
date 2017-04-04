@@ -11,3 +11,4 @@
 - [How and Why Government, Universities, and Industry Create Domestic Labor Shortages of Scientists and High-Tech Workers](https://www.ineteconomics.org/uploads/papers/Weinstein-GUI_NSF_SG_Complete_INET.pdf)
 
 # Papers I Should Read
+[BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
