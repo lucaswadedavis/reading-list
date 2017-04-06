@@ -1,5 +1,6 @@
 # Podcasts I Have Listened To
 - [Software Engineering Daily](https://softwareengineeringdaily.com)
+  - [API Design](https://softwareengineeringdaily.com/tag/api-design-standards/)
   - [zCash](https://softwareengineeringdaily.com/tag/zcash/)
   - [Product Development](https://softwareengineeringdaily.com/2017/03/27/product-development-with-cullen-zandstra/)
   - [Multiagent Systems](https://softwareengineeringdaily.com/2017/03/21/multiagent-systems-with-peter-stone/)
@@ -19,15 +20,18 @@
 - [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast)
 - [Talk Python To Me](https://talkpython.fm/)
 - [Linear Digressions](http://lineardigressions.com/)
+  - [An Intro to Stanley and self-driving cars](http://lineardigressions.com/episodes/2017/4/2/an-introduction-to-stanley-the-first-self-driving-car)
   - [Stein's Paradox](http://lineardigressions.com/episodes/2017/2/26/steins-paradox)
   - [Finding and Studying Trolls with Jigsaw Tools](http://lineardigressions.com/episodes/2017/3/12/finding-and-studying-wikipedia-trolls)
 - [a16z](http://a16z.com/podcasts/)
+  - [Cryptocurrencies](http://a16z.com/2017/04/03/cryptocurrencies-protocols-appcoins/)
   - [Why storage is important in 2017](http://a16z.com/2017/03/20/storage-memory-infrastructure/)
   - [The Era of Mass Customization](http://a16z.com/2017/02/25/reedhastings-netflix-entertainment-internet-streaming-content/)
   - [Technology Mobility and the American Dream with Tyler Cowen](http://a16z.com/2017/03/01/tyler-cowen-complacent-class/)
   - [The Genetics of Drug Testing](http://a16z.com/2017/03/06/genetics-drug-discovery-russ-altman/)
 - [Exponential View](https://soundcloud.com/exponentialview)
 - [Econ Talk](http://www.econtalk.org/)
+  - [Why Americans are Proud to Pay Taxes](http://www.econtalk.org/archives/2017/04/vanessa_william.html)
   - [Building the Skyline](http://www.econtalk.org/archives/2017/03/jason_barr_on_b.html)
   - [Against Empathy](http://www.econtalk.org/archives/2017/02/paul_bloom_on_e.html)
 - [Waking Up: The Sam Harris Podcast](https://www.samharris.org/podcast)
@@ -45,5 +49,7 @@
 - [Seminars About Long Term Thinking](http://longnow.org/seminars/podcast/)
   - [Nature is Rebounding on Land](http://longnow.org/seminars/02015/jan/13/nature-rebounding-land-and-ocean-sparing-through-concentrating-human-activities/)
   - [Will Wright and Brian Eno: Compression and Emergence](http://longnow.org/seminars/02006/jun/26/playing-with-time/)
+- Rationally Speaking
+  - [Will MacAskill and Moral Uncertainty](http://rationallyspeakingpodcast.org/show/rs-181-william-macaskill-on-moral-uncertainty.html)
 
 # Podcasts I Should Listen To
