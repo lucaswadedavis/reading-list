@@ -12,3 +12,4 @@
 
 # Papers I Should Read
 [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
+[A loophole in universal photo spectrum solves the cosmological lithium problem](https://arxiv.org/abs/1502.01250)
