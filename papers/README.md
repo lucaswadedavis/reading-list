@@ -15,3 +15,4 @@
 - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
 - [A loophole in universal photo spectrum solves the cosmological lithium problem](https://arxiv.org/abs/1502.01250)
 - [Stochastic Gradient Estimation](http://www.dtic.mil/dtic/tr/fulltext/u2/a438511.pdf)
+- [Multi-Agent Diverse Generative Adversarial Networks](https://arxiv.org/pdf/1704.02906.pdf)
