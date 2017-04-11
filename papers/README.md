@@ -9,7 +9,9 @@
 - [Experimental Detection of the Gravitomagnetic London Moment](https://arxiv.org/pdf/gr-qc/0603033.pdf)
 - [Logical Induction](https://intelligence.org/files/LogicalInduction.pdf)
 - [How and Why Government, Universities, and Industry Create Domestic Labor Shortages of Scientists and High-Tech Workers](https://www.ineteconomics.org/uploads/papers/Weinstein-GUI_NSF_SG_Complete_INET.pdf)
+- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf)
 
 # Papers I Should Read
 - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
 - [A loophole in universal photo spectrum solves the cosmological lithium problem](https://arxiv.org/abs/1502.01250)
+- [Stochastic Gradient Estimation](http://www.dtic.mil/dtic/tr/fulltext/u2/a438511.pdf)
