@@ -1,0 +1,3 @@
+## Bolt from the blue: Lightning doesn’t form like we thought
+  
+  [https://www.newscientist.com/article/mg23431210-500-electric-atmosphere-how-lightning-is-born-shocking-discovery-rewriting-the-story-of-lightning/?utm_campaign=RSS|NSNS](https://www.newscientist.com/article/mg23431210-500-electric-atmosphere-how-lightning-is-born-shocking-discovery-rewriting-the-story-of-lightning/?utm_campaign=RSS|NSNS)
