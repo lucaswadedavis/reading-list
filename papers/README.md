@@ -17,3 +17,5 @@
 - [A loophole in universal photo spectrum solves the cosmological lithium problem](https://arxiv.org/abs/1502.01250)
 - [Stochastic Gradient Estimation](http://www.dtic.mil/dtic/tr/fulltext/u2/a438511.pdf)
 - [Multi-Agent Diverse Generative Adversarial Networks](https://arxiv.org/pdf/1704.02906.pdf)
+- [RobustFill: Neural Program Learning under Noisy I/O](https://arxiv.org/pdf/1703.07469.pdf)
+- [Electro-Acoustic Behavior of the Mitotic Spindle: A Semi-Classical Coarse-Grained Model](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086501)
