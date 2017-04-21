@@ -20,12 +20,15 @@
 - Superintelligence
 - The Master Algorithm
 - How to Create a Mind
+- [Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis](https://www.amazon.com/Phenomena-Governments-Investigations-Extrasensory-Psychokinesis/dp/0316349364)
 - [The Dead Hand](https://www.amazon.com/Dead-Hand-Untold-Dangerous-Legacy/dp/0307387844)
 - [The Evolution of Everything](https://www.amazon.com/Evolution-Everything-How-Ideas-Emerge/dp/0062296000)
 - Thinking Fast and Slow
 - [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718)
 - Venture Deals
 - The Martian
+- [We are Legion (We are Bob)](https://www.amazon.com/We-Are-Legion-Bob-Bobiverse/dp/1680680587/ref=sr_1_1?s=books&ie=UTF8&qid=1492790983&sr=1-1&keywords=we+are+legion)
+- [For We are Many](https://www.amazon.com/We-Are-Many-Bobiverse/dp/1680680595/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1680680595&pd_rd_r=VRV7PXWTDP3Q1298Y7SF&pd_rd_w=Z0OUc&pd_rd_wg=Y1gjb&psc=1&refRID=VRV7PXWTDP3Q1298Y7SF)
 - Whole Earth Discipline
 
 # Books I Should Read
