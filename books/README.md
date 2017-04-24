@@ -5,6 +5,7 @@
 - Fooled by Randomness
 - The Black Swan
 - [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+- [The Fourth Turning](https://www.amazon.com/Fourth-Turning-American-Prophecy-Rendezvous/dp/0767900464)
 - Zero to One
 - The Hard Thing about Hard Things
 - The Effective Executive
@@ -26,7 +27,7 @@
 - Thinking Fast and Slow
 - [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718)
 - Venture Deals
-- The Martian
+- [The Martian](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?s=books&ie=UTF8&qid=1493050583&sr=1-1&keywords=the+martian)
 - [We are Legion (We are Bob)](https://www.amazon.com/We-Are-Legion-Bob-Bobiverse/dp/1680680587/ref=sr_1_1?s=books&ie=UTF8&qid=1492790983&sr=1-1&keywords=we+are+legion)
 - [For We are Many](https://www.amazon.com/We-Are-Many-Bobiverse/dp/1680680595/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1680680595&pd_rd_r=VRV7PXWTDP3Q1298Y7SF&pd_rd_w=Z0OUc&pd_rd_wg=Y1gjb&psc=1&refRID=VRV7PXWTDP3Q1298Y7SF)
 - Whole Earth Discipline
