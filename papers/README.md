@@ -1,4 +1,5 @@
 # Papers I Have Read
+- [A simple guide to chaos and complexity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2465602/)
 - [Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf)
 - [Fractional Electrons in Liquid Helium?](https://archive.org/details/arxiv-cond-mat0012370)
 - [Electrons in Liquid Helium](https://www.brown.edu/research/labs/electron-bubble/sites/brown.edu.research.labs.electron-bubble/files/uploads/jsps%20review_08.pdf)
