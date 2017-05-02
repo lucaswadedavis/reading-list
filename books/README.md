@@ -27,6 +27,7 @@
 - Thinking Fast and Slow
 - [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718)
 - Venture Deals
+- [Success and Luck: Good Fortune and the Myth of Meritocracy ](https://www.amazon.com/Success-Luck-Good-Fortune-Meritocracy/dp/0691167400/ref=sr_1_1?ie=UTF8&qid=1490552433&sr=8-1&keywords=good+fortune+and+the+myth+of+meritocracy)
 - [The Martian](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?s=books&ie=UTF8&qid=1493050583&sr=1-1&keywords=the+martian)
 - [We are Legion (We are Bob)](https://www.amazon.com/We-Are-Legion-Bob-Bobiverse/dp/1680680587/ref=sr_1_1?s=books&ie=UTF8&qid=1492790983&sr=1-1&keywords=we+are+legion)
 - [For We are Many](https://www.amazon.com/We-Are-Many-Bobiverse/dp/1680680595/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1680680595&pd_rd_r=VRV7PXWTDP3Q1298Y7SF&pd_rd_w=Z0OUc&pd_rd_wg=Y1gjb&psc=1&refRID=VRV7PXWTDP3Q1298Y7SF)
@@ -41,7 +42,6 @@
  - [No Good Men Among the Living: America, the Taliban, and the War through Afghan Eyes](https://www.amazon.com/No-Good-Men-Among-Living/dp/1250069262/ref=sr_1_1?s=books&ie=UTF8&qid=1490552361&sr=1-1&keywords=no+good+men+among+the+living)
  - [Beyond the Hundredth Meridian: John Wesley Powell and the Second Opening of the West ](https://www.amazon.com/Beyond-Hundredth-Meridian-Wesley-Opening/dp/0140159940/ref=sr_1_1?s=books&ie=UTF8&qid=1490552389&sr=1-1&keywords=beyond+the+100th+meridian)
  - [The Great Escape: Health, Wealth, and the Origins of Inequality](https://www.amazon.com/Great-Escape-Health-Origins-Inequality/dp/0691165629/ref=sr_1_3?s=books&ie=UTF8&qid=1490552416&sr=1-3&keywords=the+great+escape)
- - [Success and Luck: Good Fortune and the Myth of Meritocracy ](https://www.amazon.com/Success-Luck-Good-Fortune-Meritocracy/dp/0691167400/ref=sr_1_1?ie=UTF8&qid=1490552433&sr=8-1&keywords=good+fortune+and+the+myth+of+meritocracy)
  - [Pig Tales: An Omnivores Quest for Sustainable Meat](https://www.amazon.com/Pig-Tales-Omnivores-Quest-Sustainable/dp/0393352935/ref=sr_1_1?ie=UTF8&qid=1490552482&sr=8-1&keywords=pig+tales)
  - [The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War](https://www.amazon.com/Rise-Fall-American-Growth-Princeton/dp/0691147728)
  - [Evicted: Poverty and Profit in the American City](https://www.amazon.com/Evicted-Poverty-Profit-American-City/dp/0553447459/ref=sr_1_1?s=books&ie=UTF8&qid=1490552520&sr=1-1&keywords=evicted)
