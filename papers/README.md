@@ -21,3 +21,4 @@
 - [RobustFill: Neural Program Learning under Noisy I/O](https://arxiv.org/pdf/1703.07469.pdf)
 - [Electro-Acoustic Behavior of the Mitotic Spindle: A Semi-Classical Coarse-Grained Model](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086501)
 - [Targeted Apoptosis of Senescent Cells Restores Tissue Homeostasis in Response to Chemotoxicity and Aging](http://www.cell.com/cell/fulltext/S0092-8674(17)30246-5)
+- [How and Why Deep Learning Works](https://arxiv.org/abs/1705.03921)
