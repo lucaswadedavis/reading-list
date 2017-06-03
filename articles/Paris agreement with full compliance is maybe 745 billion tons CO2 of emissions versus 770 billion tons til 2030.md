@@ -1,0 +1,3 @@
+## Paris agreement with full compliance is maybe 745 billion tons CO2 of emissions versus 770 billion tons til 2030
+  
+  [http://www.nextbigfuture.com/2017/06/paris-agreement-with-full-compliance-is-maybe-745-billion-tons-co2-of-emissions-versus-770-billion-tons-til-2030.html](http://www.nextbigfuture.com/2017/06/paris-agreement-with-full-compliance-is-maybe-745-billion-tons-co2-of-emissions-versus-770-billion-tons-til-2030.html)
