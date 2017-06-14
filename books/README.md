@@ -16,10 +16,11 @@
 - Too Big to Fail
 - [Fragile by Design](https://www.amazon.com/Fragile-Design-Political-Princeton-Economic/dp/0691155240)
 - [The Big Short](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827)
+- [Time Travel](https://www.amazon.com/Time-Travel-History-James-Gleick-ebook/dp/B01AQNYZ1U/ref=sr_1_3?ie=UTF8&qid=1497454870&sr=8-3&keywords=time+travel)
 - The Righteous Mind
 - Incognito
 - Superintelligence
-- The Master Algorithm
+- [The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708/ref=sr_1_1?ie=UTF8&qid=1497456044&sr=8-1&keywords=the+master+algorithm)
 - How to Create a Mind
 - [Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis](https://www.amazon.com/Phenomena-Governments-Investigations-Extrasensory-Psychokinesis/dp/0316349364)
 - [The Dead Hand](https://www.amazon.com/Dead-Hand-Untold-Dangerous-Legacy/dp/0307387844)
@@ -27,6 +28,7 @@
 - Thinking Fast and Slow
 - [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718)
 - Venture Deals
+- [Scale](https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms/dp/1594205582/ref=sr_1_2?ie=UTF8&qid=1497454881&sr=8-2&keywords=scale+%28book%29)
 - [Success and Luck: Good Fortune and the Myth of Meritocracy ](https://www.amazon.com/Success-Luck-Good-Fortune-Meritocracy/dp/0691167400/ref=sr_1_1?ie=UTF8&qid=1490552433&sr=8-1&keywords=good+fortune+and+the+myth+of+meritocracy)
 - [The Martian](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?s=books&ie=UTF8&qid=1493050583&sr=1-1&keywords=the+martian)
 - [We are Legion (We are Bob)](https://www.amazon.com/We-Are-Legion-Bob-Bobiverse/dp/1680680587/ref=sr_1_1?s=books&ie=UTF8&qid=1492790983&sr=1-1&keywords=we+are+legion)
