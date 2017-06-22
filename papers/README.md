@@ -19,7 +19,7 @@
 - [Order From Chaos: A Reconsideration of Fundamental Principles](https://arxiv.org/pdf/cond-mat/0411384.pdf)
 - [Specification of the Q Hypothesis: An Alternative Mathematical Foundation for Physics](https://arxiv.org/pdf/quant-ph/0607096.pdf)
 - [Schwinger’s Magnetic Model of Matter – Can It Help Us With Grand Unification?](https://arxiv.org/pdf/0707.2520.pdf)
-- [Bell’s Theorem, Many Worlds and Backwards-Time Physics: Not Just a Matter of Interpretation (https://arxiv.org/pdf/0801.1234.pdf)
+- [Bell’s Theorem, Many Worlds and Backwards-Time Physics: Not Just a Matter of Interpretation](https://arxiv.org/pdf/0801.1234.pdf)
 - [The Backwards-Time Interpretation of Quantum Mechanics – Revisited With Experiment](https://arxiv.org/pdf/quant-ph/0008036.pdf)
 - [Direct counterfactual communication via quantum Zeno effect](http://www.pnas.org/content/114/19/4920)
 - [Suppression of spontaneous decay at optical frequencies: Test of vacuum-field anisotropy in confined space](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.58.666)
