@@ -1,0 +1,3 @@
+## New T-Shirt Sewing Robot Can Make As Many Shirts Per Hour As 17 Factory Workers
+  
+  [https://hardware.slashdot.org/story/17/08/30/2152209/new-t-shirt-sewing-robot-can-make-as-many-shirts-per-hour-as-17-factory-workers?utm_source=rss1.0mainlinkanon](https://hardware.slashdot.org/story/17/08/30/2152209/new-t-shirt-sewing-robot-can-make-as-many-shirts-per-hour-as-17-factory-workers?utm_source=rss1.0mainlinkanon)
