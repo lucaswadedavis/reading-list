@@ -1,0 +1,3 @@
+## Moving Every Half Hour Could Help Limit Effects of Sedentary Lifestyle, Says Study
+  
+  [https://science.slashdot.org/story/17/09/11/2126242/moving-every-half-hour-could-help-limit-effects-of-sedentary-lifestyle-says-study?utm_source=rss1.0mainlinkanon](https://science.slashdot.org/story/17/09/11/2126242/moving-every-half-hour-could-help-limit-effects-of-sedentary-lifestyle-says-study?utm_source=rss1.0mainlinkanon)
