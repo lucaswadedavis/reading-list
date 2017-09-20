@@ -1,0 +1,3 @@
+## 50 Electric solar Sail powered nanocraft proposed for exploring 300 asteroids at total cost of $75 million
+  
+  [https://www.nextbigfuture.com/2017/09/50-electric-solar-sail-powered-nanocraft-proposed-for-exploring-300-asteroids-at-total-cost-of-75-million.html](https://www.nextbigfuture.com/2017/09/50-electric-solar-sail-powered-nanocraft-proposed-for-exploring-300-asteroids-at-total-cost-of-75-million.html)
