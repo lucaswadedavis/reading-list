@@ -1,0 +1,3 @@
+## Evidence Suggests Updated Timeline Towards Yellowstone's Supervolcano Eruption
+  
+  [https://science.slashdot.org/story/17/10/11/211250/evidence-suggests-updated-timeline-towards-yellowstones-supervolcano-eruption?utm_source=rss1.0mainlinkanon](https://science.slashdot.org/story/17/10/11/211250/evidence-suggests-updated-timeline-towards-yellowstones-supervolcano-eruption?utm_source=rss1.0mainlinkanon)
