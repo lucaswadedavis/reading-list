@@ -1,0 +1,3 @@
+## China spending US$3.3 billion on molten salt nuclear reactors for faster aircraft carriers and in flying drones
+  
+  [https://www.nextbigfuture.com/2017/12/china-spending-us3-3-billion-on-molten-salt-nuclear-reactors-for-faster-aircraft-carriers-and-in-flying-drones.html](https://www.nextbigfuture.com/2017/12/china-spending-us3-3-billion-on-molten-salt-nuclear-reactors-for-faster-aircraft-carriers-and-in-flying-drones.html)
