@@ -1,0 +1,3 @@
+## Road map to clean energy using laser beam ignition of boron-hydrogen fusion
+  
+  [https://www.cambridge.org/core/journals/laser-and-particle-beams/article/road-map-to-clean-energy-using-laser-beam-ignition-of-boronhydrogen-fusion/8BE057DC1BC9E0A588FB3ABAA993078C](https://www.cambridge.org/core/journals/laser-and-particle-beams/article/road-map-to-clean-energy-using-laser-beam-ignition-of-boronhydrogen-fusion/8BE057DC1BC9E0A588FB3ABAA993078C)
