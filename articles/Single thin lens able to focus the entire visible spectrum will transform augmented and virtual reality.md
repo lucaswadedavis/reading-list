@@ -1,0 +1,3 @@
+## Single thin lens able to focus the entire visible spectrum will transform augmented and virtual reality
+  
+  [https://www.nextbigfuture.com/2018/01/single-thin-lens-able-to-focus-the-entire-visible-spectrum-will-transform-augmented-and-virtual-reality.html](https://www.nextbigfuture.com/2018/01/single-thin-lens-able-to-focus-the-entire-visible-spectrum-will-transform-augmented-and-virtual-reality.html)
