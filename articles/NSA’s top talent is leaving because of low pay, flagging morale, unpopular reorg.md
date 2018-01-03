@@ -1,0 +1,3 @@
+## NSA’s top talent is leaving because of low pay, flagging morale, unpopular reorg
+  
+  [https://www.washingtonpost.com/world/national-security/the-nsas-top-talent-is-leaving-because-of-low-pay-and-battered-morale/2018/01/02/ff19f0c6-ec04-11e7-9f92-10a2203f6c8d_story.html?utm_term=.0388eaf826c3](https://www.washingtonpost.com/world/national-security/the-nsas-top-talent-is-leaving-because-of-low-pay-and-battered-morale/2018/01/02/ff19f0c6-ec04-11e7-9f92-10a2203f6c8d_story.html?utm_term=.0388eaf826c3)
