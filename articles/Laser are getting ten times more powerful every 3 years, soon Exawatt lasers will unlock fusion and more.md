@@ -1,0 +1,3 @@
+## Laser are getting ten times more powerful every 3 years, soon Exawatt lasers will unlock fusion and more
+  
+  [https://www.nextbigfuture.com/2018/01/laser-are-getting-ten-times-more-powerful-every-3-years-soon-exawatt-lasers-will-unlock-fusion-and-more.html](https://www.nextbigfuture.com/2018/01/laser-are-getting-ten-times-more-powerful-every-3-years-soon-exawatt-lasers-will-unlock-fusion-and-more.html)
