@@ -1,0 +1,3 @@
+## Breaking Up Amazon, Google, Apple, and Facebook Could Save Capitalism, NYU Professor Says
+  
+  [https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=rss1.0mainlinkanon](https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=rss1.0mainlinkanon)
