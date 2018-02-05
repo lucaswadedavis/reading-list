@@ -1,0 +1,3 @@
+## Russian Supernuclear robotic submarine would trigger a mega-tsunami to wipe out Florida and east coast of the USA
+  
+  [https://www.nextbigfuture.com/2018/02/russian-supernuclear-robotic-submarine-would-trigger-a-mega-tsunami-to-wipe-out-florida-and-east-coast-of-the-usa.html](https://www.nextbigfuture.com/2018/02/russian-supernuclear-robotic-submarine-would-trigger-a-mega-tsunami-to-wipe-out-florida-and-east-coast-of-the-usa.html)
