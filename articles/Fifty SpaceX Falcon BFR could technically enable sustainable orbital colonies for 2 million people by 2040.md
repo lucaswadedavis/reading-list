@@ -1,0 +1,3 @@
+## Fifty SpaceX Falcon BFR could technically enable sustainable orbital colonies for 2 million people by 2040
+  
+  [https://www.nextbigfuture.com/2018/02/fifty-spacex-falcon-bfr-could-technically-enable-sustainable-orbital-colonies-for-2-million-people-by-2040.html](https://www.nextbigfuture.com/2018/02/fifty-spacex-falcon-bfr-could-technically-enable-sustainable-orbital-colonies-for-2-million-people-by-2040.html)
