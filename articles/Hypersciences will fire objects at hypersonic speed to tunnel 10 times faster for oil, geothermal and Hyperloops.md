@@ -1,0 +1,3 @@
+## Hypersciences will fire objects at hypersonic speed to tunnel 10 times faster for oil, geothermal and Hyperloops
+  
+  [https://www.nextbigfuture.com/2018/03/hypersciences-will-fire-objects-at-hypersonic-speed-to-tunnel-10-times-faster-for-oil-geothermal-and-hyperloops.html](https://www.nextbigfuture.com/2018/03/hypersciences-will-fire-objects-at-hypersonic-speed-to-tunnel-10-times-faster-for-oil-geothermal-and-hyperloops.html)
