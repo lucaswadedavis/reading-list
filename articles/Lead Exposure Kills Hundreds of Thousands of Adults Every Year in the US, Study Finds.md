@@ -1,0 +1,3 @@
+## Lead Exposure Kills Hundreds of Thousands of Adults Every Year in the US, Study Finds
+  
+  [https://science.slashdot.org/story/18/03/19/227259/lead-exposure-kills-hundreds-of-thousands-of-adults-every-year-in-the-us-study-finds?utm_source=rss1.0mainlinkanon](https://science.slashdot.org/story/18/03/19/227259/lead-exposure-kills-hundreds-of-thousands-of-adults-every-year-in-the-us-study-finds?utm_source=rss1.0mainlinkanon)
