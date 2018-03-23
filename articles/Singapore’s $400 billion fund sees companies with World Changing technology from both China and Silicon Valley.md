@@ -1,0 +1,3 @@
+## Singapore’s $400 billion fund sees companies with World Changing technology from both China and Silicon Valley
+  
+  [https://www.nextbigfuture.com/2018/03/singapores-400-billion-fund-sees-companies-with-world-changing-technology-from-both-china-and-silicon-valley.html](https://www.nextbigfuture.com/2018/03/singapores-400-billion-fund-sees-companies-with-world-changing-technology-from-both-china-and-silicon-valley.html)
