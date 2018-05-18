@@ -1,0 +1,3 @@
+## Google's Selfish Ledger is an Unsettling Vision of Silicon Valley Social Engineering
+  
+  [https://tech.slashdot.org/story/18/05/17/1343235/googles-selfish-ledger-is-an-unsettling-vision-of-silicon-valley-social-engineering?utm_source=rss1.0mainlinkanon](https://tech.slashdot.org/story/18/05/17/1343235/googles-selfish-ledger-is-an-unsettling-vision-of-silicon-valley-social-engineering?utm_source=rss1.0mainlinkanon)
