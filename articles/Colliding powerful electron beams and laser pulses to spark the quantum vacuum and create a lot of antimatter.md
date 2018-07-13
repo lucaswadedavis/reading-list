@@ -1,0 +1,3 @@
+## Colliding powerful electron beams and laser pulses to spark the quantum vacuum and create a lot of antimatter
+  
+  [https://www.nextbigfuture.com/2018/07/colliding-powerful-electron-beams-and-laser-pulses-to-spark-the-quantum-vacuum-and-create-a-lot-of-antimatter.html](https://www.nextbigfuture.com/2018/07/colliding-powerful-electron-beams-and-laser-pulses-to-spark-the-quantum-vacuum-and-create-a-lot-of-antimatter.html)
