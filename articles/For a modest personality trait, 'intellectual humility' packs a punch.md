@@ -1,4 +1,0 @@
-# [For a modest personality trait, 'intellectual humility' packs a punch](https://www.sciencedaily.com/releases/2017/03/170317082517.htm)
-
-    'Intellectual humility' has been something of a wallflower among personality traits, receiving far less attention than such brash qualities as egotism or hostility. Yet this little-studied characteristic may influence people's decision-making abilities in politics, health and other arenas, says new research. In a time of high partisanship, intellectual humility -- an awareness that one's beliefs may be wrong -- is nonpartisan. Researchers found essentially no difference in levels of the trait between liberals and conservatives.
-  

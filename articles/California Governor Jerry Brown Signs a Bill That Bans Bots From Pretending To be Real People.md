@@ -1,3 +1,0 @@
-## California Governor Jerry Brown Signs a Bill That Bans Bots From Pretending To be Real People
-  
-  [https://news.slashdot.org/story/18/10/02/163220/california-governor-jerry-brown-signs-a-bill-that-bans-bots-from-pretending-to-be-real-people?utm_source=rss1.0mainlinkanon](https://news.slashdot.org/story/18/10/02/163220/california-governor-jerry-brown-signs-a-bill-that-bans-bots-from-pretending-to-be-real-people?utm_source=rss1.0mainlinkanon)

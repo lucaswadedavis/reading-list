@@ -1,3 +1,0 @@
-## Arbitrary Deadlines Are the Enemy of Creativity, According to Harvard Research
-  
-  [https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0mainlinkanon](https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0mainlinkanon)

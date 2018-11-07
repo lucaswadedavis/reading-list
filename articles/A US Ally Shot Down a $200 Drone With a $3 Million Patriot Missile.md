@@ -1,4 +1,0 @@
-# [A US Ally Shot Down a $200 Drone With a $3 Million Patriot Missile](https://tech.slashdot.org/story/17/03/17/1136220/a-us-ally-shot-down-a-200-drone-with-a-3-million-patriot-missile?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-    An anonymous reader shares a report on The Verge: Earlier this week, General David Perkins, the commander of the US Army Training and Doctrine Command (TRADOC) spoke at the Association of the US Army's Global Force symposium, where he discussed the threats that the US military would begin to face in the coming years. One notable example is how a US ally recently shot down a $200 consumer drone with a $3.4 million worth Patriot Missile. Perkins' talk during the symposium focused on the complexity of a military organization in the field, and how the interconnected nature of air, ground, and sea forces can lead to a fragmented response to a threat between the commanders who are in charge of specific areas. \[...\]
-  

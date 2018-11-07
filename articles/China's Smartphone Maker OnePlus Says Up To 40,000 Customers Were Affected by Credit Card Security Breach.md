@@ -1,3 +1,0 @@
-## China's Smartphone Maker OnePlus Says Up To 40,000 Customers Were Affected by Credit Card Security Breach
-  
-  [https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=rss1.0mainlinkanon](https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=rss1.0mainlinkanon)

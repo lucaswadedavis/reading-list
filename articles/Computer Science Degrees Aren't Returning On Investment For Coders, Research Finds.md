@@ -1,3 +1,0 @@
-## Computer Science Degrees Aren't Returning On Investment For Coders, Research Finds
-  
-  [https://developers.slashdot.org/story/17/09/20/2048237/computer-science-degrees-arent-returning-on-investment-for-coders-research-finds?utm_source=rss1.0mainlinkanon](https://developers.slashdot.org/story/17/09/20/2048237/computer-science-degrees-arent-returning-on-investment-for-coders-research-finds?utm_source=rss1.0mainlinkanon)

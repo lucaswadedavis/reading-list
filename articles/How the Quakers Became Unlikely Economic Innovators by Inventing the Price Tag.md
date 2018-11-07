@@ -1,3 +1,0 @@
-## How the Quakers Became Unlikely Economic Innovators by Inventing the Price Tag
-  
-  [https://news.slashdot.org/story/18/04/15/1742208/how-the-quakers-became-unlikely-economic-innovators-by-inventing-the-price-tag?utm_source=rss1.0mainlinkanon](https://news.slashdot.org/story/18/04/15/1742208/how-the-quakers-became-unlikely-economic-innovators-by-inventing-the-price-tag?utm_source=rss1.0mainlinkanon)

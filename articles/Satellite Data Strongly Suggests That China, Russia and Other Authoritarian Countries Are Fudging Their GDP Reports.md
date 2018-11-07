@@ -1,3 +1,0 @@
-## Satellite Data Strongly Suggests That China, Russia and Other Authoritarian Countries Are Fudging Their GDP Reports
-  
-  [https://yro.slashdot.org/story/18/05/18/1339246/satellite-data-strongly-suggests-that-china-russia-and-other-authoritarian-countries-are-fudging-their-gdp-reports?utm_source=rss1.0mainlinkanon](https://yro.slashdot.org/story/18/05/18/1339246/satellite-data-strongly-suggests-that-china-russia-and-other-authoritarian-countries-are-fudging-their-gdp-reports?utm_source=rss1.0mainlinkanon)

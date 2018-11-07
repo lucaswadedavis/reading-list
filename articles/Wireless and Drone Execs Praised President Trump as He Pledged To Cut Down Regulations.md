@@ -1,3 +1,0 @@
-## Wireless and Drone Execs Praised President Trump as He Pledged To Cut Down Regulations
-  
-  [https://politics.slashdot.org/story/17/06/22/2048245/wireless-and-drone-execs-praised-president-trump-as-he-pledged-to-cut-down-regulations?utm_source=rss1.0mainlinkanon](https://politics.slashdot.org/story/17/06/22/2048245/wireless-and-drone-execs-praised-president-trump-as-he-pledged-to-cut-down-regulations?utm_source=rss1.0mainlinkanon)

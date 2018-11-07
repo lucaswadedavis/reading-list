@@ -1,3 +1,0 @@
-## Astronomers Detect Four Earth-Sized Planets Orbiting The Nearest Sun-Like Star
-  
-  [https://science.slashdot.org/story/17/08/10/2225257/astronomers-detect-four-earth-sized-planets-orbiting-the-nearest-sun-like-star?utm_source=rss1.0mainlinkanon](https://science.slashdot.org/story/17/08/10/2225257/astronomers-detect-four-earth-sized-planets-orbiting-the-nearest-sun-like-star?utm_source=rss1.0mainlinkanon)

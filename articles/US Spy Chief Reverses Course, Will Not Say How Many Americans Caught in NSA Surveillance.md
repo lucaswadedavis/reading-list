@@ -1,3 +1,0 @@
-## US Spy Chief Reverses Course, Will Not Say How Many Americans Caught in NSA Surveillance
-  
-  [https://it.slashdot.org/story/17/06/07/2139208/us-spy-chief-reverses-course-will-not-say-how-many-americans-caught-in-nsa-surveillance?utm_source=rss1.0mainlinkanon](https://it.slashdot.org/story/17/06/07/2139208/us-spy-chief-reverses-course-will-not-say-how-many-americans-caught-in-nsa-surveillance?utm_source=rss1.0mainlinkanon)

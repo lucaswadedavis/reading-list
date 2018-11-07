@@ -1,3 +1,0 @@
-## SpaceX BFR will allow people to work and live in space and the hardest parts of engine development are done
-  
-  [https://www.nextbigfuture.com/2018/09/spacex-bfr-will-allow-people-to-work-and-live-in-space-and-the-hardest-parts-of-engine-development-are-done.html](https://www.nextbigfuture.com/2018/09/spacex-bfr-will-allow-people-to-work-and-live-in-space-and-the-hardest-parts-of-engine-development-are-done.html)

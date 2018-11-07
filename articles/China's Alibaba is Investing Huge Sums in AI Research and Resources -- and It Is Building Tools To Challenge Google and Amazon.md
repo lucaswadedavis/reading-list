@@ -1,3 +1,0 @@
-## China's Alibaba is Investing Huge Sums in AI Research and Resources -- and It Is Building Tools To Challenge Google and Amazon
-  
-  [https://news.slashdot.org/story/18/03/09/204224/chinas-alibaba-is-investing-huge-sums-in-ai-research-and-resources----and-it-is-building-tools-to-challenge-google-and-amazon?utm_source=rss1.0mainlinkanon](https://news.slashdot.org/story/18/03/09/204224/chinas-alibaba-is-investing-huge-sums-in-ai-research-and-resources----and-it-is-building-tools-to-challenge-google-and-amazon?utm_source=rss1.0mainlinkanon)

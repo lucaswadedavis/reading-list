@@ -1,3 +1,0 @@
-## IBM overcomes von Neumann bottleneck for AI hundreds of time faster using hundreds of times less energy
-  
-  [https://www.nextbigfuture.com/2018/06/ibm-overcomes-von-neumann-bottleneck-for-ai-hundreds-of-time-faster-using-hundreds-of-times-less-energy.html](https://www.nextbigfuture.com/2018/06/ibm-overcomes-von-neumann-bottleneck-for-ai-hundreds-of-time-faster-using-hundreds-of-times-less-energy.html)

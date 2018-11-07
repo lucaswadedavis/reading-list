@@ -1,3 +1,0 @@
-## UK aircraft carrier defenses can only handle missiles that are half the speed of new Russian hypersonic missiles
-  
-  [http://www.nextbigfuture.com/2017/05/uk-aircraft-carrier-defenses-can-only-handle-missiles-that-are-half-the-speed-of-new-russian-hypersonic-missiles.html](http://www.nextbigfuture.com/2017/05/uk-aircraft-carrier-defenses-can-only-handle-missiles-that-are-half-the-speed-of-new-russian-hypersonic-missiles.html)

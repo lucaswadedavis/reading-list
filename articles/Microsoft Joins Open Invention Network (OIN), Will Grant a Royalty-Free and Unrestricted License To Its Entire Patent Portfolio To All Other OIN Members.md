@@ -1,3 +1,0 @@
-## Microsoft Joins Open Invention Network (OIN), Will Grant a Royalty-Free and Unrestricted License To Its Entire Patent Portfolio To All Other OIN Members
-  
-  [https://news.slashdot.org/story/18/10/10/1435204/microsoft-joins-open-invention-network-oin-will-grant-a-royalty-free-and-unrestricted-license-to-its-entire-patent-portfolio-to-all-other-oin-members?utm_source=rss1.0mainlinkanon](https://news.slashdot.org/story/18/10/10/1435204/microsoft-joins-open-invention-network-oin-will-grant-a-royalty-free-and-unrestricted-license-to-its-entire-patent-portfolio-to-all-other-oin-members?utm_source=rss1.0mainlinkanon)

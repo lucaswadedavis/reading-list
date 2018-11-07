@@ -1,3 +1,0 @@
-## X-SpaceX Raptor designer has ready for development designs for nuclear rocket that will be up to 7 times better than BFR
-  
-  [https://www.nextbigfuture.com/2018/07/x-spacex-raptor-designer-has-ready-for-development-designs-for-nuclear-rocket-that-will-be-2-7-times-better-than-bfr.html](https://www.nextbigfuture.com/2018/07/x-spacex-raptor-designer-has-ready-for-development-designs-for-nuclear-rocket-that-will-be-2-7-times-better-than-bfr.html)

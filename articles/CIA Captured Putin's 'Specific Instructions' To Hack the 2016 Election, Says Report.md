@@ -1,3 +1,0 @@
-## CIA Captured Putin's 'Specific Instructions' To Hack the 2016 Election, Says Report
-  
-  [https://yro.slashdot.org/story/17/12/15/029247/cia-captured-putins-specific-instructions-to-hack-the-2016-election-says-report?utm_source=rss1.0mainlinkanon](https://yro.slashdot.org/story/17/12/15/029247/cia-captured-putins-specific-instructions-to-hack-the-2016-election-says-report?utm_source=rss1.0mainlinkanon)

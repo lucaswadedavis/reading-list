@@ -1,3 +1,0 @@
-## GV, Formerly Known as Google Ventures, For Years Has Used an Algorithm That Effectively Permits or Prohibits Both New and Follow-on Investments
-  
-  [https://tech.slashdot.org/story/18/07/19/1647243/gv-formerly-known-as-google-ventures-for-years-has-used-an-algorithm-that-effectively-permits-or-prohibits-both-new-and-follow-on-investments?utm_source=rss1.0mainlinkanon](https://tech.slashdot.org/story/18/07/19/1647243/gv-formerly-known-as-google-ventures-for-years-has-used-an-algorithm-that-effectively-permits-or-prohibits-both-new-and-follow-on-investments?utm_source=rss1.0mainlinkanon)

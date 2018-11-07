@@ -1,3 +1,0 @@
-## Apple To Soon Let Podcast Creators and Advertisers See What Listeners Actually Like
-  
-  [https://apple.slashdot.org/story/17/06/12/0249219/apple-to-soon-let-podcast-creators-and-advertisers-see-what-listeners-actually-like?utm_source=rss1.0mainlinkanon](https://apple.slashdot.org/story/17/06/12/0249219/apple-to-soon-let-podcast-creators-and-advertisers-see-what-listeners-actually-like?utm_source=rss1.0mainlinkanon)

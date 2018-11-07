@@ -1,3 +1,0 @@
-## Learning to Perform a Perched Landing Using Deep Reinforcement Learning
-  
-  [https://link.springer.com/epdf/10.1007/s10846-017-0696-1?author_access_token=BEvJgzY3QauUddBuQAus2ve4RwlQNchNByi7wbcMAY5xhRRqI6HVNnXt8Pgp850SnuV5ue6mUo3Jc7FIP5FgLmqk34Wob3oqyuGtkg7E_1T0dg02IYhfY-3dvb8R9zEmaGzTogYCIXm4O4vZ_tSGnA==](https://link.springer.com/epdf/10.1007/s10846-017-0696-1?author_access_token=BEvJgzY3QauUddBuQAus2ve4RwlQNchNByi7wbcMAY5xhRRqI6HVNnXt8Pgp850SnuV5ue6mUo3Jc7FIP5FgLmqk34Wob3oqyuGtkg7E_1T0dg02IYhfY-3dvb8R9zEmaGzTogYCIXm4O4vZ_tSGnA==)

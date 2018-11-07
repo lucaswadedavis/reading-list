@@ -1,3 +1,0 @@
-## Softbank Vision is to invest a trillion dollars in at least a thousand Unicorns over the next ten years
-  
-  [https://www.nextbigfuture.com/2018/01/softbank-vision-is-to-invest-a-trillion-dollars-in-at-least-a-thousand-unicorns-over-the-next-ten-years.html](https://www.nextbigfuture.com/2018/01/softbank-vision-is-to-invest-a-trillion-dollars-in-at-least-a-thousand-unicorns-over-the-next-ten-years.html)

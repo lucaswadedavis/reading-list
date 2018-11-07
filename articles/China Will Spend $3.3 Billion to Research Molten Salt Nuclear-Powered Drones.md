@@ -1,3 +1,0 @@
-## China Will Spend $3.3 Billion to Research Molten Salt Nuclear-Powered Drones
-  
-  [https://hardware.slashdot.org/story/17/12/16/0259240/china-will-spend-33-billion-to-research-molten-salt-nuclear-powered-drones?utm_source=rss1.0mainlinkanon](https://hardware.slashdot.org/story/17/12/16/0259240/china-will-spend-33-billion-to-research-molten-salt-nuclear-powered-drones?utm_source=rss1.0mainlinkanon)

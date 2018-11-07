@@ -1,3 +1,0 @@
-## Sergey Brin Is Reportedly Building 'Massive Airship' In NASA Research Center
-  
-  [https://science.slashdot.org/story/17/04/26/0029256/sergey-brin-is-reportedly-building-massive-airship-in-nasa-research-center?utm_source=rss1.0mainlinkanon](https://science.slashdot.org/story/17/04/26/0029256/sergey-brin-is-reportedly-building-massive-airship-in-nasa-research-center?utm_source=rss1.0mainlinkanon)

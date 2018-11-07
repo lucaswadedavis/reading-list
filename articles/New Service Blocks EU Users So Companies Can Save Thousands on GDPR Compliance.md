@@ -1,3 +1,0 @@
-## New Service Blocks EU Users So Companies Can Save Thousands on GDPR Compliance
-  
-  [https://yro.slashdot.org/story/18/05/07/1056215/new-service-blocks-eu-users-so-companies-can-save-thousands-on-gdpr-compliance?utm_source=rss1.0mainlinkanon](https://yro.slashdot.org/story/18/05/07/1056215/new-service-blocks-eu-users-so-companies-can-save-thousands-on-gdpr-compliance?utm_source=rss1.0mainlinkanon)

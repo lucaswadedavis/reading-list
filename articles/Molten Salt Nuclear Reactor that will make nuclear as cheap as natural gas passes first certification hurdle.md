@@ -1,3 +1,0 @@
-## Molten Salt Nuclear Reactor that will make nuclear as cheap as natural gas passes first certification hurdle
-  
-  [https://www.nextbigfuture.com/2017/11/molten-salt-nuclear-reactor-that-will-make-nuclear-as-cheap-as-natural-gas-passes-first-certification-hurdle.html](https://www.nextbigfuture.com/2017/11/molten-salt-nuclear-reactor-that-will-make-nuclear-as-cheap-as-natural-gas-passes-first-certification-hurdle.html)

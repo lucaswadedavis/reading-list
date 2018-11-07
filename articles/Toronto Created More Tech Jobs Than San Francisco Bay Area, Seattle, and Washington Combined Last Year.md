@@ -1,3 +1,0 @@
-## Toronto Created More Tech Jobs Than San Francisco Bay Area, Seattle, and Washington Combined Last Year
-  
-  [https://news.slashdot.org/story/18/07/25/1639237/toronto-created-more-tech-jobs-than-san-francisco-bay-area-seattle-and-washington-combined-last-year?utm_source=rss1.0mainlinkanon](https://news.slashdot.org/story/18/07/25/1639237/toronto-created-more-tech-jobs-than-san-francisco-bay-area-seattle-and-washington-combined-last-year?utm_source=rss1.0mainlinkanon)

@@ -1,3 +1,0 @@
-## Spacefab bootstrapping higher resolution space telescopes and then manufacturing in space at asteroids
-  
-  [https://www.nextbigfuture.com/2017/11/spacefab-bootstrapping-higher-resolution-space-telescopes-and-then-manufacturing-in-space-at-asteroids.html](https://www.nextbigfuture.com/2017/11/spacefab-bootstrapping-higher-resolution-space-telescopes-and-then-manufacturing-in-space-at-asteroids.html)

@@ -1,3 +1,0 @@
-## Jeff Bezos Predicts We'll Have 1 Trillion Humans in the Solar System, and Blue Origin Wants To Help Get Us There
-  
-  [https://science.slashdot.org/story/18/10/15/1919247/jeff-bezos-predicts-well-have-1-trillion-humans-in-the-solar-system-and-blue-origin-wants-to-help-get-us-there?utm_source=rss1.0mainlinkanon](https://science.slashdot.org/story/18/10/15/1919247/jeff-bezos-predicts-well-have-1-trillion-humans-in-the-solar-system-and-blue-origin-wants-to-help-get-us-there?utm_source=rss1.0mainlinkanon)

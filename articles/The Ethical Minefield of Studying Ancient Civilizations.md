@@ -1,3 +1,0 @@
-## The Ethical Minefield of Studying Ancient Civilizations
-  
-  [https://motherboard.vice.com/en_us/article/9kgxjp/ebay-organized-crime-and-evangelical-christians-the-ethical-minefield-of-studying-ancient-civilizations-hobby-lobby-irisagrig-iraq](https://motherboard.vice.com/en_us/article/9kgxjp/ebay-organized-crime-and-evangelical-christians-the-ethical-minefield-of-studying-ancient-civilizations-hobby-lobby-irisagrig-iraq)

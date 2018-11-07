@@ -1,3 +1,0 @@
-## EMdrive inventor Shawyer’s latest information on military applications and superconducting EMDrive progress
-  
-  [https://www.nextbigfuture.com/2017/06/emdrive-inventor-shawyers-latest-information-on-military-applications-and-superconducting-emdrive-progress.html](https://www.nextbigfuture.com/2017/06/emdrive-inventor-shawyers-latest-information-on-military-applications-and-superconducting-emdrive-progress.html)
