@@ -1,0 +1,3 @@
+## Romania orders investigative journalists to disclose sources under GDPR
+  
+  [https://www.occrp.org/en/40-press-releases/presss-releases/8875-occrp-strongly-objects-to-romania-s-misuse-of-gdpr-to-muzzle-media?fbclid=IwAR3oyyn-S4AchYYnsQlw_jZASnHclQxLPwS66IsgF19W73WjtFXYU-FhuYM](https://www.occrp.org/en/40-press-releases/presss-releases/8875-occrp-strongly-objects-to-romania-s-misuse-of-gdpr-to-muzzle-media?fbclid=IwAR3oyyn-S4AchYYnsQlw_jZASnHclQxLPwS66IsgF19W73WjtFXYU-FhuYM)
