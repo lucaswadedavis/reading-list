@@ -7,11 +7,22 @@ if (process.argv.length <= 2) {
  
 var path = process.argv[2];
 
+const blacklist = [
+  'index.js',
+  'index.html',
+  'data.json',
+  'test.json'
+];
+
 let catalog = {};
  
 fs.readdir(path, function(err, items) {
     const files = []; 
     for (var i = 0; i < items.length; i++) {
+        if (blacklist.indexOf(items[i]) !== -1) {
+          console.log('ignoring ', items[i]);
+          continue;
+        }
         files.push(new Promise((resolve, reject) => {
           fs.readFile(items[i], (err, data) => {
             if (err) return reject(err);
