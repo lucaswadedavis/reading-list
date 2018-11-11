@@ -1,4 +1,23 @@
 # Books I Have Read
+- [Consilience](https://www.amazon.com/Consilience-Knowledge-Edward-Osborne-Wilson/dp/067976867X/ref=sr_1_1?ie=UTF8&qid=1541913392&sr=8-1&keywords=consilience)
+- [The Equations of Life](https://www.amazon.com/Equations-Life-Physics-Shapes-Evolution/dp/1541617592/ref=sr_1_1?ie=UTF8&qid=1541913414&sr=8-1&keywords=the+equations+of+life+how+physics+shapes+evolution)
+- [Seeing Like a State](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153)
+- [How to Change Your Mind](https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/1594204225/ref=sr_1_3?ie=UTF8&qid=1541913430&sr=8-3&keywords=how+to+change+your+mind)
+- [After On](https://www.amazon.com/After-Silicon-Valley-Rob-Reid/dp/1524798053/ref=sr_1_1?ie=UTF8&qid=1541913449&sr=8-1&keywords=after+on)
+- [The Book of Why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_3?ie=UTF8&qid=1541913463&sr=8-3&keywords=the+book+of+why)
+- [Maps of Meaning](https://www.amazon.com/Maps-Meaning-Architecture-Jordan-Peterson/dp/0415922224/ref=sr_1_1?ie=UTF8&qid=1541913481&sr=8-1&keywords=maps+of+meaning+jordan+peterson)
+- [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_3?ie=UTF8&qid=1541913499&sr=8-3&keywords=principles+ray+dalio)
+- [Radical Markets](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503/ref=sr_1_1?ie=UTF8&qid=1541913519&sr=8-1&keywords=radical+markets)
+- [What do you Think about Machines that Think](https://www.amazon.com/What-Think-About-Machines-That/dp/B00YFOIW3Y/ref=sr_1_1?ie=UTF8&qid=1541913537&sr=8-1&keywords=what+do+you+think+about+machines+that+think)
+- [The Structure of Scientific Revolutions](https://www.amazon.com/The-Structure-of-Scientific-Revolutions/dp/B002AHYJQC/ref=sr_1_1?ie=UTF8&qid=1541913550&sr=1-1&keywords=the+structure+of+scientific+revolutions)
+- [Chaos](https://www.amazon.com/Chaos-Making-a-New-Science/dp/B004LQ5E82/ref=sr_1_1?ie=UTF8&qid=1541913566&sr=1-1&keywords=chaos)
+- [Daemon](https://www.amazon.com/Daemon/dp/B001QCZTWA/ref=sr_1_1?ie=UTF8&qid=1541913578&sr=1-1&keywords=daemon)
+- [A Path Where No Man Thought](https://www.amazon.com/Path-Where-No-Man-Thought/dp/0394583078/ref=sr_1_1?ie=UTF8&qid=1541913593&sr=8-1&keywords=a+path+where+no+man+thought)
+- [Beyond Good and Evil](https://www.amazon.com/Beyond-Good-Evil-AmazonClassics/dp/B079J68BNL/ref=sr_1_2?ie=UTF8&qid=1541913663&sr=8-2&keywords=beyond+good+and+evil+audiobook)
+- [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
+- [The Red Queen](https://www.amazon.com/Red-Queen-Evolution-Human-Nature/dp/B004JLZBIW/ref=sr_1_6?ie=UTF8&qid=1541913715&sr=1-6&keywords=the+red+queen)
+- [On Intelligence](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533/ref=sr_1_3?ie=UTF8&qid=1541913733&sr=8-3&keywords=on+intelligence)
+ - [The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War](https://www.amazon.com/Rise-Fall-American-Growth-Princeton/dp/0691147728)
 - [Homo Deus](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
 - Sapiens
 - [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1480560367)
@@ -38,8 +57,6 @@
 - Whole Earth Discipline
 
 # Books I Should Read
- - [Seeing Like a State](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153)
- - [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
  - [Six Admendments : How and Why We Should Change the Constitution](https://www.amazon.com/Six-Amendments-Should-Change-Constitution/dp/0316373729/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1490552299&sr=1-1-spell&keywords=six+admendments)
  - [Age of Ambition: Chasing Fortune, Truth, and Faith in the New China](https://www.amazon.com/Age-Ambition-Chasing-Fortune-Truth/dp/0374535272/ref=sr_1_1?s=books&ie=UTF8&qid=1490552316&sr=1-1&keywords=Age+of+Ambition%3A+Chasing+Fortune%2C+Truth%2C+and+Faith+in+the+New+China)
  - [The New Jim Crow: Mass Incarceration in the Age of Colorblindness](https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431/ref=sr_1_1?s=books&ie=UTF8&qid=1490552336&sr=1-1&keywords=the+new+jim+crow)
@@ -47,7 +64,6 @@
  - [Beyond the Hundredth Meridian: John Wesley Powell and the Second Opening of the West ](https://www.amazon.com/Beyond-Hundredth-Meridian-Wesley-Opening/dp/0140159940/ref=sr_1_1?s=books&ie=UTF8&qid=1490552389&sr=1-1&keywords=beyond+the+100th+meridian)
  - [The Great Escape: Health, Wealth, and the Origins of Inequality](https://www.amazon.com/Great-Escape-Health-Origins-Inequality/dp/0691165629/ref=sr_1_3?s=books&ie=UTF8&qid=1490552416&sr=1-3&keywords=the+great+escape)
  - [Pig Tales: An Omnivores Quest for Sustainable Meat](https://www.amazon.com/Pig-Tales-Omnivores-Quest-Sustainable/dp/0393352935/ref=sr_1_1?ie=UTF8&qid=1490552482&sr=8-1&keywords=pig+tales)
- - [The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War](https://www.amazon.com/Rise-Fall-American-Growth-Princeton/dp/0691147728)
  - [Evicted: Poverty and Profit in the American City](https://www.amazon.com/Evicted-Poverty-Profit-American-City/dp/0553447459/ref=sr_1_1?s=books&ie=UTF8&qid=1490552520&sr=1-1&keywords=evicted)
  - [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593/ref=sr_1_1?s=books&ie=UTF8&qid=1490552535&sr=1-1&keywords=the+undoing+project)
  - [The World Until Yesterday: What Can We Learn from Traditional Societies](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404/ref=sr_1_1?s=books&ie=UTF8&qid=1490552552&sr=1-1&keywords=the+world+until+yesterday)
