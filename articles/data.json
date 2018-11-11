@@ -1,12 +1,12 @@
 {
   "values": [
     {
-      "url": "video",
-      "text": "test test"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2018/11/spacex-falcon-9-block-5-certified-for-nasa-most-important-missions.html",
       "text": "SpaceX Falcon 9 block 5 certified for NASA most important missions"
+    },
+    {
+      "url": "https://www.wired.co.uk/article/farming-robots-small-robot-company-tractors",
+      "text": "How small robots may kill the tractor and make farming efficient"
     },
     {
       "url": "https://80000hours.org/articles/ml-engineering-career-transition-guide/",

@@ -37,12 +37,10 @@
       ],
       ajaxURL: './data.json',
       ajaxResponse: function(url, params, response) {
-        console.log(response.values.length);
         return response.values.map(rec => {
+          let article = rec.text;
           if (blacklist.indexOf(rec.url) === -1) {
-            const article = '[<a href="' + rec.url + '">link</a>] ' + rec.text;
-          } else {
-            const article = rec.text;
+            article = '[<a href="' + rec.url + '">link</a>] ' + rec.text;
           }
           return { article };  
         });
