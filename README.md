@@ -1,7 +1,7 @@
 # What I'm Reading and Listening To
 
 ## Articles
-Check the [Articles](https://github.com/lucaswadedavis/reading-list/tree/master/articles) directory, and for a few older articles (before I had my current system) the [Issues](https://github.com/lucaswadedavis/reading-list/issues). I've got a Rube Goldberg machine composed of Feedly Pro, IFTTT, and Google Cloud Functions that fills this thing up with blog posts and essays I read, so the format is slightely different from the other directories, which I populate manually.
+Check the [Articles](https://github.com/lucaswadedavis/reading-list/tree/master/articles) directory or [this crazy thing](https://lucaswadedavis.github.io/reading-list/articles/), and for a few older articles (before I had my current system) the [Issues](https://github.com/lucaswadedavis/reading-list/issues). I've got a Rube Goldberg machine composed of Feedly Pro, IFTTT, and Google Cloud Functions that fills this thing up with blog posts and essays I read, so the format is slightely different from the other directories, which I populate manually.
 
 ## Papers
 Check the [Papers](https://github.com/lucaswadedavis/reading-list/tree/master/papers) directory.
