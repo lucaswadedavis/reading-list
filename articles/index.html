@@ -37,7 +37,6 @@
       ],
       ajaxURL: './data.json',
       ajaxResponse: function(url, params, response) {
-        console.log(response.values.length);
         return response.values.map(rec => {
           let article = rec.text;
           if (blacklist.indexOf(rec.url) === -1) {
