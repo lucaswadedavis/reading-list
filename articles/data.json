@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.microsoft.com/en-us/research/publication/responsible-bots/",
+      "text": "Microsoft Releases Guidelines for Developers of Conversational AI"
+    },
+    {
       "url": "https://www.nextbigfuture.com/2018/11/momentus-will-provide-space-transportation-with-plasma-water-propulsion.html",
       "text": "Momentus plasma water propulsion will two to three times better than chemical rockets"
     },
