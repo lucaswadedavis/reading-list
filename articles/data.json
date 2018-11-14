@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://magenta.tensorflow.org/studio",
+      "text": "Magenta Studio (Beta): Music Generation Using Tensorflow"
+    },
+    {
       "url": "https://www.ouster.io/blog-posts/2018/11/8/how-multi-beam-flash-lidar-works",
       "text": "How Multi-Beam Flash Lidar Works"
     },
