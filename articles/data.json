@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/tensorspace-team/tensorspace",
+      "text": "Show HN: TensorSpace.js – Neural network 3D visualization framework"
+    },
+    {
       "url": "https://magenta.tensorflow.org/studio",
       "text": "Magenta Studio (Beta): Music Generation Using Tensorflow"
     },
