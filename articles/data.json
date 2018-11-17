@@ -1,6 +1,118 @@
 {
   "values": [
     {
+      "url": "https://www.bloomberg.com/opinion/articles/2018-11-15/unicorns-starting-their-own-vcs-welcome-to-peak-tech",
+      "text": "Unicorns are setting up their own venture capital funds"
+    },
+    {
+      "url": "https://www.math.toronto.edu/drorbn/Gallery/KnottedObjects/PlanetHopf/index2.html",
+      "text": "Planet Hopf"
+    },
+    {
+      "url": "http://crowlspace.com/?p=3083",
+      "text": "A Water Economy in Space: Some Quick Numbers"
+    },
+    {
+      "url": "https://github.com/rtctunnel/rtctunnel",
+      "text": "Show HN: RTCTunnel, build network tunnels over WebRTC"
+    },
+    {
+      "url": "https://gizmodo.com/plans-revealed-for-enormous-particle-collider-in-china-1830444169",
+      "text": "Plans Revealed for Enormous Particle Collider in China"
+    },
+    {
+      "url": "http://slatestarcodex.com/2018/11/16/the-economic-perspective-on-moral-standards/",
+      "text": "The Economic Perspective On Moral Standards"
+    },
+    {
+      "url": "https://www.teamgantt.com/art-science-of-leading-projects",
+      "text": "The Art and Science of Leading Projects"
+    },
+    {
+      "url": "https://it.slashdot.org/story/18/11/16/0035240/remote-workers-can-get-a-cushy-apartment-free-office-space-and-10k-if-they-move-to-tulsa?utm_source=rss1.0mainlinkanon",
+      "text": "Remote Workers Can Get a Cushy Apartment, Free Office Space, and $10K If They Move To Tulsa"
+    },
+    {
+      "url": "https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/",
+      "text": "Estimating the chances of something that hasn’t happened yet"
+    },
+    {
+      "url": "https://www.perthnow.com.au/business/construction/was-fastbrick-robot-building-home-in-three-days-a-world-first-ng-b881021385z",
+      "text": "Western Australia’s Fastbrick robot building home in three days a ‘world-first’"
+    },
+    {
+      "url": "https://www.sanyamkapoor.com/machine-learning/autograd-magic/",
+      "text": "The magic of Automatic Differentiation"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/scientists-spot-giant-crater-hidden-under-greenlands-ice/",
+      "text": "Scientists Spot Giant Crater Hidden Under Greenland's Ice"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2018/11/181115093324.htm",
+      "text": "NASA learns more about interstellar visitor 'Oumuamua"
+    },
+    {
+      "url": "https://spacenews.com/u-s-army-kicks-off-new-small-satellite-program/",
+      "text": "U.S. Army kicks off new small satellite program"
+    },
+    {
+      "url": "https://www.oodaloop.com/briefs/2018/11/14/pentagon-researchers-test-worst-case-scenario-attack-on-u-s-power-grid/",
+      "text": "Pentagon Researchers Test ‘Worst-Case Scenario’ Attack on U.S. Power Grid"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/publication/responsible-bots/",
+      "text": "Microsoft Releases Guidelines for Developers of Conversational AI"
+    },
+    {
+      "url": "https://www.nextbigfuture.com/2018/11/momentus-will-provide-space-transportation-with-plasma-water-propulsion.html",
+      "text": "Momentus plasma water propulsion will two to three times better than chemical rockets"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2018/11/181114132040.htm",
+      "text": "Cold Super-Earth found orbiting closest single star to Sun"
+    },
+    {
+      "url": "https://science.slashdot.org/story/18/11/14/1852206/united-nations-considers-a-test-ban-on-evolution-warping-gene-drives?utm_source=rss1.0mainlinkanon",
+      "text": "United Nations Considers a Test Ban on Evolution-Warping Gene Drives"
+    },
+    {
+      "url": "https://github.com/tensorspace-team/tensorspace",
+      "text": "Show HN: TensorSpace.js – Neural network 3D visualization framework"
+    },
+    {
+      "url": "https://magenta.tensorflow.org/studio",
+      "text": "Magenta Studio (Beta): Music Generation Using Tensorflow"
+    },
+    {
+      "url": "https://www.ouster.io/blog-posts/2018/11/8/how-multi-beam-flash-lidar-works",
+      "text": "How Multi-Beam Flash Lidar Works"
+    },
+    {
+      "url": "https://marian42.itch.io/wfc",
+      "text": "Infinite procedurally-generated city with the Wave Function Collapse algorithm"
+    },
+    {
+      "url": "https://www.ouster.io/blog-posts/2018/11/8/how-multi-beam-flash-lidar-works",
+      "text": "How Multi-Beam Flash Lidar Works"
+    },
+    {
+      "url": "https://marian42.itch.io/wfc",
+      "text": "Infinite procedurally-generated city with the Wave Function Collapse algorithm"
+    },
+    {
+      "url": "https://www.newscientist.com/article/2185188-china-may-have-developed-a-quantum-radar-that-can-spot-stealth-planes/?utm_campaign=RSS|NSNS",
+      "text": "China may have developed a quantum radar that can spot stealth planes"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2018/11/181112095948.htm",
+      "text": "AI capable of outlining in a single chart information from thousands of scientific papers"
+    },
+    {
+      "url": "https://flowingdata.com/2018/11/12/visualization-research-for-non-researchers/",
+      "text": "Visualization research for non-researchers"
+    },
+    {
       "url": "https://www.nextbigfuture.com/2018/11/orbital-kinetic-bombardment-gets-close-to-nuclear-on-damage-and-cost.html",
       "text": "Orbital Kinetic Bombardment gets close to nuclear on damage and cost"
     },
