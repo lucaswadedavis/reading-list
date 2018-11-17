@@ -36,7 +36,11 @@
         {title:"Article", field:"article", formatter: 'html', headerFilter: "input"},
       ],
       ajaxURL: './data.json',
-      ajaxResponse: function(url, params, response) {
+      dataFiltered: function (filters, rows) {
+        let container = document.getElementById('filtered-number');
+        container.innerText = rows.length;
+      },
+      ajaxResponse: function (url, params, response) {
         return response.values.map(rec => {
           let article = rec.text;
           if (blacklist.indexOf(rec.url) === -1) {
