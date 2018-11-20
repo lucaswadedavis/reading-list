@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://hasura.io/diy-graphql-baas",
+      "text": "Show HN: Set up a production ready GraphQL backend in a few minutes"
+    },
+    {
       "url": "https://www.scientificamerican.com/article/colorful-asteroids-near-neptune-reveal-a-solar-system-conundrum/",
       "text": "Colorful Asteroids Near Neptune Reveal a Solar System Conundrum"
     },
