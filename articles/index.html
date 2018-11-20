@@ -21,6 +21,7 @@
   <body>
     <div class="root">
       <h1>Reading List</h1>
+      <p id="filtered-number"></p>
       <p>
         The filterable list of articles below represents all the articles I've bookmarked for reading over the last few years. It's dynamically updated by a Rube Goldberg machine of Feedly Pro, IFTTT, and Google Cloud Functions all feeding into this <a href="https://github.com/lucaswadedavis/reading-list">Github repo</a>.
       </p>
@@ -29,6 +30,7 @@
   </body>
   <script type="text/javascript">
     const blacklist = ['', 'pdf', 'video', 'audio'];
+    let container = document.getElementById('filtered-number');
     var table = new Tabulator("#example-table", {
       height: '100%',
       layout:"fitColumns", //fit columns to width of table (optional)
@@ -37,8 +39,7 @@
       ],
       ajaxURL: './data.json',
       dataFiltered: function (filters, rows) {
-        let container = document.getElementById('filtered-number');
-        container.innerText = rows.length;
+        if (container && container.innerText) container.innerText = rows.length;
       },
       ajaxResponse: function (url, params, response) {
         return response.values.map(rec => {
