@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://aws.amazon.com/blogs/aws/aws-ground-station-ingest-and-process-data-from-orbiting-satellites/",
+      "text": "AWS Ground Station – Ingest and Process Data from Orbiting Satellites"
+    },
+    {
       "url": "https://hardware.slashdot.org/story/18/11/26/2254204/amazon-launches-cloud-based-robotics-testing-platform?utm_source=rss1.0mainlinkanon",
       "text": "Amazon Launches Cloud-Based Robotics Testing Platform"
     },
