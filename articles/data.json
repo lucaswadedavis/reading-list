@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://aws.amazon.com/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/",
+      "text": "AWS Firecracker Open Source: Secure and Fast MicroVM for Serverless Computing"
+    },
+    {
       "url": "https://www.bloomberg.com/news/videos/2018-11-25/psychedelic-mushrooms-treat-depression-video",
       "text": "Psychedelic Mushrooms Treat Depression"
     },
