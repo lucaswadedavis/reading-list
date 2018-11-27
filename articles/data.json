@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://101.datascience.community/2018/11/27/amazon-launches-machine-learning-university/",
+      "text": "Amazon Launches Machine Learning University"
+    },
+    {
       "url": "https://aws.amazon.com/blogs/aws/aws-ground-station-ingest-and-process-data-from-orbiting-satellites/",
       "text": "AWS Ground Station – Ingest and Process Data from Orbiting Satellites"
     },
