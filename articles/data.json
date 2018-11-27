@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://kk.org/cooltools/the-art-of-game",
+      "text": "The Art of Game Design"
+    },
+    {
       "url": "https://aws.amazon.com/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/",
       "text": "AWS Firecracker Open Source: Secure and Fast MicroVM for Serverless Computing"
     },
