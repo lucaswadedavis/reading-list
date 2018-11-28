@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://aws.amazon.com/managed-blockchain/",
+      "text": "Amazon Managed Blockchain -Easily create and manage scalable blockchain networks"
+    },
+    {
       "url": "http://hackaday.com/2018/11/27/amazon-creates-distributed-satellite-ground-stations/",
       "text": "Amazon Creates Distributed Satellite Ground Stations"
     },
