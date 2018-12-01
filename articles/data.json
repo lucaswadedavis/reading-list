@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/alertlogic/erllambda",
+      "text": "Erllambda: Run Erlang and Elixir in AWS Lambda"
+    },
+    {
       "url": "https://www.newscientist.com/article/2187018-nasa-spacecraft-osiris-rex-set-to-start-mission-at-asteroid-bennu/?utm_campaign=RSS|NSNS",
       "text": "NASA spacecraft OSIRIS-REx set to start mission at asteroid Bennu"
     },
