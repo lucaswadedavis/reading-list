@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.theguardian.com/society/2018/dec/02/journal-of-controversial-ideas-jeff-mcmahan-peter-singer-francesca-minerva-identity-politics",
+      "text": "Three academics are launching a new journal for arguments to be made anonymously"
+    },
+    {
       "url": "https://github.com/alertlogic/erllambda",
       "text": "Erllambda: Run Erlang and Elixir in AWS Lambda"
     },
