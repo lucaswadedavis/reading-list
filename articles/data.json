@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://deepmind.com/blog/alphafold/",
+      "text": "AlphaFold: Using AI for scientific discovery"
+    },
+    {
       "url": "https://www.nextbigfuture.com/2018/12/first-four-of-perhaps-hundreds-of-captured-oumuamua-size-interstellar-objects-found.html",
       "text": "First Four of Perhaps Hundreds of Captured Oumuamua-size Interstellar Objects Found"
     },
