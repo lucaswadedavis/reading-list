@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://stripe.com/atlas/guides/scaling-eng",
+      "text": "Guide to scaling engineering organizations"
+    },
+    {
       "url": "https://flowingdata.com/2018/12/04/same-facts-but-different-stories-an-illustration/",
       "text": "Same facts but different stories, an illustration"
     },
