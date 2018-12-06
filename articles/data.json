@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.openai.com/quantifying-generalization-in-reinforcement-learning/",
+      "text": "Quantifying Generalization in Reinforcement Learning"
+    },
+    {
       "url": "https://richg42.blogspot.com/2018/10/types-of-tech-companies.html",
       "text": "Tech company patterns"
     },
