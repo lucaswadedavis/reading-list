@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.failory.com",
+      "text": "Show HN: Failory 2.0 – Learn How to Build a Profitable Startup"
+    },
+    {
       "url": "https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9",
       "text": "The cold start problem: how to build your machine learning portfolio"
     },
