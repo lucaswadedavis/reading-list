@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.openai.com/science-of-ai/",
+      "text": "How AI Training Scales"
+    },
+    {
       "url": "https://stackoverflow.com/questions/53776317/actions-on-google-storing-training-phrases-localy",
       "text": "Actions on Google Storing Training Phrases localy"
     },
