@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.wired.com/story/mastermind-cia-disguise/",
+      "text": "How the CIA Trains Spies to Hide in Plain Sight"
+    },
+    {
       "url": "https://techcrunch.com/2018/12/14/facebook-open-sources-pytext-natural-language-processing-framework/",
       "text": "Facebook open-sources PyText NLP framework"
     },
