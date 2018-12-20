@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://arxiv.org/abs/1703.00045##",
+      "text": "Knowledge from small number of debates outperforms wisdom of large crowds (2017)"
+    },
+    {
       "url": "http://blog.aragon.one/tips-and-tricks-to-get-started-with-solidity/",
       "text": "Tips and tricks to get started with Solidity"
     },
