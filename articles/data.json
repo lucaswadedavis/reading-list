@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://grail.cs.washington.edu/projects/wakeup/",
+      "text": "Photo Wake-Up: 3D Character Animation from a Single Photo"
+    },
+    {
       "url": "https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/",
       "text": "The Wavefunction Collapse Algorithm explained very clearly"
     },
