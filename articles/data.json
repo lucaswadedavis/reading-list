@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://www.researchcoders.com/",
+      "text": "ResearchCoders: Find ideas from the scientific community for coding projects"
+    },
+    {
       "url": "https://www.getguesstimate.com/",
       "text": "Guesstimate – A Spreadsheet for things that aren't certain"
     },
