@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da",
+      "text": "Wittgenstein’s theories are the basis of all modern NLP"
+    },
+    {
       "url": "http://mail.openjdk.java.net/pipermail/amber-spec-experts/2019-January/000945.html",
       "text": "We need more keywords"
     },
