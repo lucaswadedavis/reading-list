@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://framagit.org/Gabe/farmnet",
+      "text": "Show HN: FarmNet, an open-source LoRA agricultural sensing/actuation network"
+    },
+    {
       "url": "https://blog.smartdec.net/the-dark-side-of-zero-knowledge-undetectable-backdoor-in-zk-snark-a9093ffe49bf",
       "text": "The Dark Side of Zero Knowledge: Undetectable Backdoor in Zk-SNARK"
     },
