@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.weforum.org/agenda/2017/01/which-countries-are-on-the-right-track-according-to-their-citizens/",
+      "text": "Which countries are on the right track, according to their citizens? (2017)"
+    },
+    {
       "url": "https://framagit.org/Gabe/farmnet",
       "text": "Show HN: FarmNet, an open-source LoRA agricultural sensing/actuation network"
     },
