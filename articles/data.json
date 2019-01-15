@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://developer.amazon.com/blogs/alexa/post/a7bb4a16-c86b-4019-b3f9-b0d663b87d30/new-method-for-compressing-neural-networks-better-preserves-accuracy#",
+      "text": "Method shrinks NNs by 90% with sub-1% accuracy dropoff, vs. 3.5% for prior SOA"
+    },
+    {
       "url": "https://www.weforum.org/agenda/2017/01/which-countries-are-on-the-right-track-according-to-their-citizens/",
       "text": "Which countries are on the right track, according to their citizens? (2017)"
     },
