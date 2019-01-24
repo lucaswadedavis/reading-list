@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/cloudfetch/cloudquery",
+      "text": "Show HN: CloudQuery – Turn any website to serverless API with SPA support"
+    },
+    {
       "url": "https://www.keyvalues.com/blog/what-exactly-do-developer-advocates-do?",
       "text": "What do developer advocates do?"
     },
