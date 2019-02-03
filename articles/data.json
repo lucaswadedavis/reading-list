@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://mermaidjs.github.io/mermaid-live-editor",
+      "text": "Mermaid – Generation of diagrams and flowcharts from text"
+    },
+    {
       "url": "https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/",
       "text": "What we've learned about hiring engineering managers"
     },
