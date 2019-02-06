@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://arxiv.org/abs/1902.01724",
+      "text": "AlphaStar: An Evolutionary Computation Perspective"
+    },
+    {
       "url": "https://www.askdata.com/product",
       "text": "Show HN: AskData – API to Translate Natural Language-2-Sql"
     },
