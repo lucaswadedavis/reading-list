@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://realpython.com/data-science-podcasts/",
+      "text": "The Ultimate List of Data Science Podcasts"
+    },
+    {
       "url": "https://arxiv.org/abs/1902.01724",
       "text": "AlphaStar: An Evolutionary Computation Perspective"
     },
