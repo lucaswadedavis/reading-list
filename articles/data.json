@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.pikapkg.com/blog/introducing-pika-pack/",
+      "text": "Pika/pack – NPM packaging, reimagined"
+    },
+    {
       "url": "https://rjlipton.wordpress.com/2019/02/06/an-old-but-cool-result/",
       "text": "An Old but Cool Result – Gödel's Lost Letter and P=NP"
     },
