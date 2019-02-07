@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.charlieharrington.com/novels-with-libraries",
+      "text": "Novels with giant, possibly magical, libraries"
+    },
+    {
       "url": "https://www.pikapkg.com/blog/introducing-pika-pack/",
       "text": "Pika/pack – NPM packaging, reimagined"
     },
