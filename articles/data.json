@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.floydhub.com/robotic-arm-control-deep-reinforcement-learning/",
+      "text": "Controlling a 2D Robotic Arm with Deep Reinforcement Learning"
+    },
+    {
       "url": "https://github.com/leon-ai/leon",
       "text": "Leon: An open-source personal assistant"
     },
