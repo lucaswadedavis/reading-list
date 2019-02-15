@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "text": "Sample cloud-native application with microservices"
+    },
+    {
       "url": "https://github.com/QBobWatson/gt-linalg",
       "text": "cannoneyed starred QBobWatson/gt-linalg"
     },
