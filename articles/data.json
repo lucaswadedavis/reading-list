@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://news.slashdot.org/story/19/02/17/1433214/bill-and-melinda-gates-textbooks-are-becoming-obsolete?utm_source=rss1.0mainlinkanon",
+      "text": "Bill and Melinda Gates: Textbooks Are Becoming Obsolete"
+    },
+    {
       "url": "https://blog.dgraph.io/post/why-google-needed-graph-serving-system/",
       "text": "Google needed to build a graph serving system"
     },
