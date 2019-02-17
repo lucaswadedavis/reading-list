@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.dgraph.io/post/why-google-needed-graph-serving-system/",
+      "text": "Google needed to build a graph serving system"
+    },
+    {
       "url": "http://nautil.us/blog/when-gravity-breaks-down",
       "text": "When Gravity Breaks Down"
     },
