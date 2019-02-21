@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.newyorker.com/science/elements/a-different-kind-of-theory-of-everything",
+      "text": "A Different Kind of Theory of Everything"
+    },
+    {
       "url": "https://github.com/hanxiao/bert-as-service",
       "text": "cannoneyed starred hanxiao/bert-as-service"
     },
