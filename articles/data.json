@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://colab.research.google.com/github/JuliaTPU/XLA.jl/blob/master/examples/3_LSTM_DistributedTraining.ipynb",
+      "text": "Julia on Google TPU: Shakespeare RNN"
+    },
+    {
       "url": "http://gpu.rocks",
       "text": "Gpu.js GPU – Accelerated JavaScript"
     },
