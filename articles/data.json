@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://circleci.com/blog/designing-a-package-manager-from-the-ground-up/",
+      "text": "Designing a package manager from the ground up"
+    },
+    {
       "url": "https://github.com/huggingface/hmtl",
       "text": "LaurenSpiegel starred huggingface/hmtl"
     },
