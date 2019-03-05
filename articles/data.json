@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.nytimes.com/2019/03/01/business/ethics-artificial-intelligence.html",
+      "text": "Is Ethical A.I. Even Possible?"
+    },
+    {
       "url": "https://circleci.com/blog/designing-a-package-manager-from-the-ground-up/",
       "text": "Designing a package manager from the ground up"
     },
