@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/",
+      "text": "Deep Learning to Federated Learning in 10 Lines of PyTorch and PySyft"
+    },
+    {
       "url": "https://www.math3ma.com/blog/matrices-probability-graphs",
       "text": "Viewing Matrices and Probability as Graphs"
     },
