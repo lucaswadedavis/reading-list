@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://victorzhou.com/blog/intro-to-neural-networks/",
+      "text": "Implementing a Neural Network from Scratch in Python"
+    },
+    {
       "url": "https://blog.openai.com/introducing-activation-atlases/",
       "text": "Introducing Activation Atlases"
     },
