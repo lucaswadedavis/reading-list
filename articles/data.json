@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.openai.com/introducing-activation-atlases/",
+      "text": "Introducing Activation Atlases"
+    },
+    {
       "url": "https://tech.slashdot.org/story/19/03/06/172204/google-tool-lets-any-ai-app-learn-without-taking-all-your-data?utm_source=rss1.0mainlinkanon",
       "text": "Google Tool Lets Any AI App Learn Without Taking All Your Data"
     },
