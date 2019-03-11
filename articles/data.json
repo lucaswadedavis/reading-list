@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/neural-mmo/",
+      "text": "Neural MMO: A Massively Multiagent Game Environment"
+    },
+    {
       "url": "https://openai.com/blog/introducing-activation-atlases/",
       "text": "Introducing Activation Atlases"
     },
