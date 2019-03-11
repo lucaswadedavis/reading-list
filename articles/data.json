@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://towardsdatascience.com/its-only-natural-an-excessively-deep-dive-into-natural-gradient-optimization-75d464b89dbb",
+      "text": "It’s Only Natural: An Excessively Deep Dive into Natural Gradient Optimization"
+    },
+    {
       "url": "https://dhruvp.netlify.com/2019/02/25/eigenvectors/",
       "text": "An Intuitive Derivation of Eigenvectors"
     },
