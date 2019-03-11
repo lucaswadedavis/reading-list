@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/introducing-activation-atlases/",
+      "text": "Introducing Activation Atlases"
+    },
+    {
       "url": "https://openai.com/blog/openai-lp/",
       "text": "OpenAI LP"
     },
