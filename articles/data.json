@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/openai-lp/",
+      "text": "OpenAI LP"
+    },
+    {
       "url": "https://techcrunch.com/2019/03/08/presidential-hopeful-elizabeth-warren-is-calling-for-the-breakup-of-big-tech/",
       "text": "Elizabeth Warren Wants to Break Up Google, Amazon and Facebook"
     },
