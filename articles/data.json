@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.sciencedaily.com/releases/2019/03/190314075758.htm",
+      "text": "Origins and nature of 'math anxiety'"
+    },
+    {
       "url": "http://tenoke.github.io/blog/gpt-finetune",
       "text": "Generating Fake Conversations by Fine-Tuning OpenAI's GPT on Data from Messenger"
     },
