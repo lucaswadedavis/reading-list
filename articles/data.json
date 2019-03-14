@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://tenoke.github.io/blog/gpt-finetune",
+      "text": "Generating Fake Conversations by Fine-Tuning OpenAI's GPT on Data from Messenger"
+    },
+    {
       "url": "https://www.1843magazine.com/features/deepmind-and-google-the-battle-to-control-artificial-intelligence",
       "text": "DeepMind and Google:the battle to control artificial intelligence"
     },
