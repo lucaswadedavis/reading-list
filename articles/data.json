@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://lernapparat.de/fast-lstm-pytorch/",
+      "text": "Fast LSTMs in PyTorch"
+    },
+    {
       "url": "https://news.slashdot.org/story/19/03/14/181201/darpa-is-building-a-10-million-open-source-secure-voting-system?utm_source=rss1.0mainlinkanon",
       "text": "DARPA Is Building a $10 Million, Open Source, Secure Voting System"
     },
