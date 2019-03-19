@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://spectrum.ieee.org/view-from-the-valley/at-work/education/us-students-have-achieved-world-domination-in-computer-science-skillsfor-now",
+      "text": "U.S. Students Have Achieved World Domination in Computer Science Skills–For Now"
+    },
+    {
       "url": "https://lernapparat.de/fast-lstm-pytorch/",
       "text": "Fast LSTMs in PyTorch"
     },
