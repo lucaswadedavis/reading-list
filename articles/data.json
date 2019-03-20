@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://xkcd.com/2125/",
+      "text": "Luna 2"
+    },
+    {
       "url": "https://slatestarcodex.com/2019/03/14/gwerns-ai-generated-poetry/",
       "text": "Gwern’s AI-Generated Poetry"
     },
