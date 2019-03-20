@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.microsoft.com/en-us/research/project/textworld/",
+      "text": "MS TextWorld: open-source engine that both generates and simulates text games"
+    },
+    {
       "url": "https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/",
       "text": "Backpropogation Is Just Steepest Descent with Automatic Differentiation (2013)"
     },
