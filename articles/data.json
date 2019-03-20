@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://translate.google.com/translate?hl=",
+      "text": "Germany to make it a crime to run a Tor node or website"
+    },
+    {
       "url": "https://github.com/teropa/generative-music-workshop",
       "text": "cannoneyed starred teropa/generative-music-workshop"
     },
