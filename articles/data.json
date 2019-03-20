@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://azure.microsoft.com/en-us/blog/azure-data-studio-an-open-source-gui-editor-for-postgres/",
+      "text": "Azure Data Studio: An Open-Source GUI Editor for Postgres"
+    },
+    {
       "url": "https://apenwarr.ca/log/20190318",
       "text": "Programmer Migration Patterns"
     },
