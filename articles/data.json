@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/",
+      "text": "The Promise of Hierarchical Reinforcement Learning"
+    },
+    {
       "url": "https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/",
       "text": "Natural Gradient Descent (2018)"
     },
