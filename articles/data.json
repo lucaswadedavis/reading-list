@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/",
+      "text": "Build an Air Quality Monitor with InfluxDB, Grafana and Docker on a Raspberry Pi"
+    },
+    {
       "url": "https://www.chronicle.com/interactives/2019-03-27-childress",
       "text": "How did we discard the idea of college faculty?"
     },
