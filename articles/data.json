@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.floydhub.com/meta-rl/",
+      "text": "Meta-Reinforcement Learning"
+    },
+    {
       "url": "https://arxiv.org/abs/1812.09968",
       "text": "A Deep Attention-Based Reinforcement Learning Algorithm for Model-Based Control"
     },
