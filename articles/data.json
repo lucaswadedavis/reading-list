@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://slatestarcodex.com/2019/03/28/two-wolves-and-a-sheep/",
+      "text": "Two Wolves And A Sheep"
+    },
+    {
       "url": "https://github.com/Tonejs/Tone.js",
       "text": "Tone.js – A framework for making interactive music in the browser"
     },
