@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://ampligraph.org",
+      "text": "AmpliGraph: A TensorFlow-Based Library for Knowledge Graph Embeddings"
+    },
+    {
       "url": "https://slatestarcodex.com/2019/03/28/two-wolves-and-a-sheep/",
       "text": "Two Wolves And A Sheep"
     },
