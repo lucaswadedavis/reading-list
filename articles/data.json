@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.newscientist.com/article/mg24232240-200-its-not-an-illusion-you-have-free-will-its-just-not-what-you-think/?utm_campaign=RSS|NSNS",
+      "text": "It's not an illusion, you have free will. It's just not what you think"
+    },
+    {
       "url": "http://ampligraph.org",
       "text": "AmpliGraph: A TensorFlow-Based Library for Knowledge Graph Embeddings"
     },
