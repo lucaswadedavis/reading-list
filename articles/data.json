@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html",
+      "text": "The Moral Peril of Meritocracy"
+    },
+    {
       "url": "https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/",
       "text": "Aroma: Using machine learning for code recommendation"
     },
