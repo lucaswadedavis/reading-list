@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/Mercury-Language/mercury",
+      "text": "The Mercury logic programming system"
+    },
+    {
       "url": "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html",
       "text": "Why Concatenative Programming Matters (2012)"
     },
