@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.scientificamerican.com/article/do-microdoses-of-lsd-change-your-mind/",
+      "text": "Do Microdoses of LSD Change Your Mind?"
+    },
+    {
       "url": "https://github.com/Mercury-Language/mercury",
       "text": "The Mercury logic programming system"
     },
