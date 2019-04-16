@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html",
+      "text": "Research as a Stochastic Decision Process"
+    },
+    {
       "url": "https://cupy.chainer.org/",
       "text": "CuPy – NumPy-compatible matrix library accelerated by CUDA"
     },
