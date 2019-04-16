@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://cupy.chainer.org/",
+      "text": "CuPy – NumPy-compatible matrix library accelerated by CUDA"
+    },
+    {
       "url": "https://wattsupwiththat.com/2019/04/16/predictability-limit-scientists-find-bounds-of-weather-forecasting/",
       "text": "Predictability limit: Scientists find bounds of weather forecasting – it’s 2 weeks"
     },
