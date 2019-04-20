@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.sciencedaily.com/releases/2019/04/190418105730.htm",
+      "text": "Can science writing be automated?"
+    },
+    {
       "url": "https://www.8base.com/generate",
       "text": "Show HN: 8base – Generate working React app with GraphQL back end in minutes"
     },
