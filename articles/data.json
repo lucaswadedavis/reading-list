@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://news.mit.edu/2019/can-science-writing-be-automated-ai-0418",
+      "text": "Can science writing be automated?"
+    },
+    {
       "url": "https://github.com/3b1b/manim",
       "text": "Manim – 3Blue1Brown's animation engine for explanatory math videos"
     },
