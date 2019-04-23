@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/sparse-transformer/",
+      "text": "Generative Modeling with Sparse Transformers"
+    },
+    {
       "url": "https://www.bostonglobe.com/business/2019/04/21/for-some-startups-there-buzz-needed/RJarWqCgnSgCkjVTaomYEP/story.html",
       "text": "For some startups, there’s no buzz needed – Poll Everywhere (YC S08)"
     },
