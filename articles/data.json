@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.zerohedge.com/news/2019-04-23/russia-unveils-sub-nuclear-tsunami-doomsday-drones",
+      "text": "Russia Unveils Sub With 'Nuclear Tsunami' Doomsday Drones"
+    },
+    {
       "url": "https://openai.com/blog/sparse-transformer/",
       "text": "Generative Modeling with Sparse Transformers"
     },
