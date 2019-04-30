@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/sswatson/PlotDocs.jl",
+      "text": "sswatson forked sswatson/PlotDocs.jl from JuliaPlots/PlotDocs.jl"
+    },
+    {
       "url": "http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/",
       "text": "Machine Learning Books That Helped Me Level Up"
     },
