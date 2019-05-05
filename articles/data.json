@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/better-language-models/#update",
+      "text": "OpenAI releases larger GPT-2 model"
+    },
+    {
       "url": "https://www.zerohedge.com/news/2019-05-03/wapo-cnn-refuse-acknowledge-2nd-fbi-spy-sent-infiltrate-trump-campaign",
       "text": "WaPo, CNN Virtually Silent After NYT Reveals 2nd FBI Spy Sent To Infiltrate Trump Campaign"
     },
