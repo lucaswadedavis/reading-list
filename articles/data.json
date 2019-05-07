@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://www.clipsrules.net/",
+      "text": "CLIPS: A Tool for Building Expert Systems"
+    },
+    {
       "url": "https://developers.googleblog.com/2019/05/Flutter-io19.html",
       "text": "Flutter: a Portable UI Framework for Mobile, Web, Embedded, and Desktop"
     },
