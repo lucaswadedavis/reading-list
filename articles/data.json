@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/benedekrozemberczki/graph2vec",
+      "text": "Show HN: A Parallel Implementation of Graph2Vec"
+    },
+    {
       "url": "https://juretriglav.si/open-source-collaborative-text-editors/",
       "text": "Open source collaborative text editors"
     },
