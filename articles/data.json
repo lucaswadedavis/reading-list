@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://enlight.nyc/projects/neural-network",
+      "text": "Build a Neural Network from Scratch"
+    },
+    {
       "url": "https://www.nytimes.com/2016/08/30/upshot/surprisingly-little-evidence-for-the-usual-wisdom-about-teeth.html",
       "text": "Surprisingly little evidence for usual wisdom about teeth"
     },
