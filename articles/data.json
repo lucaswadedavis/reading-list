@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams",
+      "text": "Matrices as Tensor Network Diagrams"
+    },
+    {
       "url": "https://code.fb.com/ai-research/pythia/",
       "text": "Pythia: Open-source framework for multimodal AI models"
     },
