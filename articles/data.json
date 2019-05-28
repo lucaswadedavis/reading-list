@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://towardsdatascience.com/10-new-things-i-learnt-from-fast-ai-v3-4d79c1f07e33",
+      "text": "Things I Learnt from fast.ai v3"
+    },
+    {
       "url": "https://github.com/sethwilsonUS/codespeak",
       "text": "Show HN: CodeSpeak, the beginnings of a web-based speech-to-code tool"
     },
