@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/penrose/penrose",
+      "text": "Penrose: Create diagrams by typing mathematical notation in plain text"
+    },
+    {
       "url": "https://0x.org/launch-kit",
       "text": "0x Launch Kit – Launch your own exchange or marketplace"
     },
