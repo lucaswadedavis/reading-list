@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.exxactcorp.com/transformer-architecture-part-1/",
+      "text": "Examining the Transformer Architecture – Part 1: The OpenAI GPT 2 Controversy"
+    },
+    {
       "url": "https://github.com/penrose/penrose",
       "text": "Penrose: Create diagrams by typing mathematical notation in plain text"
     },
