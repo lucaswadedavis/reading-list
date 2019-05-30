@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://hedgehog.audius.co/",
+      "text": "Hedgehog Ethereum wallet: Build DApps like apps, without centralized keys"
+    },
+    {
       "url": "http://juliadiffeq.org/DiffEqTutorials.jl/html/ode_extras/ModelingToolkit.html",
       "text": "ModelingToolkit.jl, an IR and Compiler for Scientific Models"
     },
