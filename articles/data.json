@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://seedcamp.io/",
+      "text": "Show HN: Learn angel investing and VC with some skin in the game"
+    },
+    {
       "url": "https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2277/2680",
       "text": "Semantic Oscillations: Encoding Context and Structure in Complex Holographic Vec"
     },
