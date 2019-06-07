@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://dave.autonoma.ca/blog/2019/06/06/web-of-knowledge/",
+      "text": "Web of Knowledge"
+    },
+    {
       "url": "https://heartbeat.fritz.ai/nlp-chronicles-intro-to-spacy-34949f1bc118",
       "text": "Detailed overview of spaCy: the NLP library built for production"
     },
