@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://weightagnostic.github.io",
+      "text": "Weight Agnostic Neural Networks"
+    },
+    {
       "url": "https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919",
       "text": "The New York Times course to teach its reporters data skills is now open-source"
     },
