@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://www.linusakesson.net/dialog/index.php",
+      "text": "Dialog – A domain-specific language for creating works of interactive fiction"
+    },
+    {
       "url": "https://slatestarcodex.com/2019/06/18/if-kim-jong-un-opened-a-kfc-would-you-eat-there/",
       "text": "If Kim Jong-Un Opened A KFC, Would You Eat There?"
     },
