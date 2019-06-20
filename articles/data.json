@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.sciencedaily.com/releases/2019/06/190619103151.htm",
+      "text": "Researchers find quantum gravity has no symmetry"
+    },
+    {
       "url": "https://arxiv.org/abs/1906.08237",
       "text": "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
     },
