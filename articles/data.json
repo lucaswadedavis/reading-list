@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://arxiv.org/abs/1906.08237",
+      "text": "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
+    },
+    {
       "url": "https://slatestarcodex.com/2019/06/19/are-sexual-purity-taboos-a-response-to-stis/",
       "text": "Are Sexual Purity Taboos A Response To STIs?"
     },
