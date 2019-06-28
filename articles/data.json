@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://course.fast.ai/part2",
+      "text": "Fast.ai Part 2: Deep Learning from the Foundations"
+    },
+    {
       "url": "https://wordsandbuttons.online/sympy_makes_math_fun_again.html",
       "text": "SymPy makes math fun again"
     },
