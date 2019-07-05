@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.nature.com/articles/s41586-019-1335-8",
+      "text": "Unsupervised word embeddings capture latent knowledge from scientific literature"
+    },
+    {
       "url": "https://www.nextbigfuture.com/2019/07/trees-for-a-complete-solution-to-extra-co2-and-climate-change.html",
       "text": "Trees for a Complete Solution to Extra CO2 and Climate Change"
     },
