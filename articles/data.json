@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf",
+      "text": "Statistics with Julia: Fundamentals for Data Science, ML and AI [pdf]"
+    },
+    {
       "url": "https://newatlas.com/chip-heat-energy-blackbody-limit/60539/",
       "text": "Silicon chip breaks \"blackbody limit\" to produce more electricity from heat than thought possible"
     },
