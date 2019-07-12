@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://www-personal.umich.edu/~shangw/world_graph.html",
+      "text": "Learning World Graphs to Accelerate Hierarchical Reinforcement Learning"
+    },
+    {
       "url": "https://www.newscientist.com/article/2209547-something-is-seriously-wrong-with-our-understanding-of-the-cosmos/?utm_campaign=RSS|NSNS",
       "text": "Something is seriously wrong with our understanding of the cosmos"
     },
