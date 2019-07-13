@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://cs.brown.edu/~sk/Publications/Papers/Published/fffk-htdp-vs-sicp-journal/",
+      "text": "The Structure and Interpretation of the Computer Science Curriculum (2004)"
+    },
+    {
       "url": "https://madeddu.xyz/posts/im-still-learning/",
       "text": "The Good Employee, a story about how you can explain companies with graph theory"
     },
