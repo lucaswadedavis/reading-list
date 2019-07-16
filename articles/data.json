@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions",
+      "text": "Tensorflow 2.0 Inference on Google Cloud Functions"
+    },
+    {
       "url": "https://www.zerohedge.com/news/2019-07-15/welcome-social-government-privatizing-tyranny",
       "text": "Welcome To 'Social Government' - Privatizing Tyranny"
     },
