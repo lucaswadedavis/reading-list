@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://ai.google/education/",
+      "text": "Google AI Education Resources"
+    },
+    {
       "url": "http://blog.rongarret.info/2019/07/the-trouble-with-many-worlds.html",
       "text": "The Trouble with Many Worlds"
     },
