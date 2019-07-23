@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://julialang.org/blog/2019/07/multithreading",
+      "text": "Composable multi-threaded parallelism in Julia"
+    },
+    {
       "url": "https://www.sciencedaily.com/releases/2019/07/190723163943.htm",
       "text": "Algae living inside fungi: How land plants first evolved"
     },
