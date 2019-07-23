@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/microsoft/browsecloud",
+      "text": "Microsoft open-sources natural language processing tool for survey data"
+    },
+    {
       "url": "https://queue.acm.org/detail.cfm?id=3197520",
       "text": "Manual Work is a Bug – Always be automating (2018)"
     },
