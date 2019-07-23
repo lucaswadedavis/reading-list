@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://matthewstrom.com/writing/doubt/",
+      "text": "The Role of Doubt in Design"
+    },
+    {
       "url": "https://www.leeholmes.com/blog/2019/07/23/efficiently-generating-python-hash-collisions/",
       "text": "Efficiently Generating Python Hash Collisions"
     },
