@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.leeholmes.com/blog/2019/07/23/efficiently-generating-python-hash-collisions/",
+      "text": "Efficiently Generating Python Hash Collisions"
+    },
+    {
       "url": "https://julialang.org/blog/2019/07/multithreading",
       "text": "Composable multi-threaded parallelism in Julia"
     },
