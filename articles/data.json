@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/sebischair/NLU-Evaluation-Corpora",
+      "text": "LaurenSpiegel starred sebischair/NLU-Evaluation-Corpora"
+    },
+    {
       "url": "https://realpython.com/pyspark-intro/",
       "text": "First Steps With PySpark and Big Data Processing"
     },
