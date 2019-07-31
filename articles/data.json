@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://realpython.com/pyspark-intro/",
+      "text": "First Steps With PySpark and Big Data Processing"
+    },
+    {
       "url": "https://github.com/andkret/Cookbook",
       "text": "Data Engineering Cookbook"
     },
