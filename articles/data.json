@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/andkret/Cookbook",
+      "text": "Data Engineering Cookbook"
+    },
+    {
       "url": "https://www.bppe.ca.gov/enforcement/actions/lambdainc_ord.pdf",
       "text": "Lambda School fined $75k by CA for operating without state approval [pdf]"
     },
