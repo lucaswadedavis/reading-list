@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.youtube.com/playlist?list=PLP8iPy9hna6StY9tIJIUN3F_co9A0zh0H",
+      "text": "JuliaCon 2019 Videos"
+    },
+    {
       "url": "https://openai.com/blog/learning-day/",
       "text": "Learning Day"
     },
