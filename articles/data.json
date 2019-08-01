@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/learning-day/",
+      "text": "Learning Day"
+    },
+    {
       "url": "https://tech.slashdot.org/story/19/07/25/2233241/waymo-and-deepmind-mimic-evolution-to-develop-new-better-way-to-train-self-driving-ai?utm_source=rss1.0mainlinkanon",
       "text": "Waymo and DeepMind Mimic Evolution To Develop New, Better Way To Train Self-Driving AI"
     },
