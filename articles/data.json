@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://en.wikipedia.org/wiki/Spaced_repetition",
+      "text": "Spaced Repetition"
+    },
+    {
       "url": "https://ai.facebook.com/blog/longform-qa/",
       "text": "Long-Form Question Answering"
     },
