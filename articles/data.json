@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/thomasdavis/blockbid-ccxt-tutorials",
+      "text": "Cryptocurrency trading bot in ~40 lines of JavaScript"
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Spaced_repetition",
       "text": "Spaced Repetition"
     },
