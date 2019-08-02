@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://ai.facebook.com/blog/longform-qa/",
+      "text": "Long-Form Question Answering"
+    },
+    {
       "url": "https://aws.amazon.com/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/",
       "text": "PartiQL: One query language for all your data"
     },
