@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://aws.amazon.com/blogs/devops/introducing-aws-chatbot-chatops-for-aws/",
+      "text": "AWS Chatbot: ChatOps for AWS"
+    },
+    {
       "url": "https://github.com/thomasdavis/blockbid-ccxt-tutorials",
       "text": "Cryptocurrency trading bot in ~40 lines of JavaScript"
     },
