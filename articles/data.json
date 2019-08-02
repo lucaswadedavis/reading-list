@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://aws.amazon.com/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/",
+      "text": "PartiQL: One query language for all your data"
+    },
+    {
       "url": "https://jobs.lever.co/openai/7f2b8248-377e-41a4-b682-1f6aaa28b18e",
       "text": "OpenAI is looking for its first full-time IT hire"
     },
