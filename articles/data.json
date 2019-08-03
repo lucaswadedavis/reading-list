@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://ai.facebook.com/blog/advances-in-conversational-ai/",
+      "text": "Advances in Conversational AI"
+    },
+    {
       "url": "https://aws.amazon.com/blogs/devops/introducing-aws-chatbot-chatops-for-aws/",
       "text": "AWS Chatbot: ChatOps for AWS"
     },
