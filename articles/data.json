@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://news.ycombinator.com/item?id=20600233",
+      "text": "Data science is not software engineering and we should stop treating it as such"
+    },
+    {
       "url": "https://ide.cs50.io/",
       "text": "CS50 IDE – Online IDE for Students and Teachers"
     },
