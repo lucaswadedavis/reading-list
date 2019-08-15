@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://jalammar.github.io/illustrated-gpt2/",
+      "text": "Visualizing Transformer Language Models: Illustrated GPT-2"
+    },
+    {
       "url": "https://tech.slashdot.org/story/19/08/14/197221/ai-researchers-launch-superglue-a-rigorous-benchmark-for-language-understanding?utm_source=rss1.0mainlinkanon",
       "text": "AI Researchers Launch SuperGLUE, a Rigorous Benchmark For Language Understanding"
     },
