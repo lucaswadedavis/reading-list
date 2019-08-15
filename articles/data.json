@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.masswerk.at/nowgobang/2019/mespeak_2_0",
+      "text": "Show HN: MeSpeak.js 2.0 – Text-to-Speech in JavaScript"
+    },
+    {
       "url": "https://jalammar.github.io/illustrated-gpt2/",
       "text": "Visualizing Transformer Language Models: Illustrated GPT-2"
     },
