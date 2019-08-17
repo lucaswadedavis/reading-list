@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://en.wikipedia.org/wiki/Q-learning",
+      "text": "Q-Learning"
+    },
+    {
       "url": "https://blog.clearbrain.com/posts/introducing-causal-analytics",
       "text": "Causal Analytics"
     },
