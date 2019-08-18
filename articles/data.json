@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.dataquest.io/blog/math-in-data-science/",
+      "text": "Math in Data Science"
+    },
+    {
       "url": "https://electrek.co/2019/08/11/electric-bike-riders-more-exercise-than-cyclists/",
       "text": "Study shows e-bike riders get more exercise than cyclists"
     },
