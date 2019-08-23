@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.newscientist.com/article/2214235-asteroid-ryugu-has-no-dust-on-it-and-we-dont-know-why/?utm_campaign=RSS|NSNS",
+      "text": "Asteroid Ryugu has no dust on it and we don’t know why"
+    },
+    {
       "url": "https://arxiv.org/abs/1908.07141",
       "text": "LogicENN: A Neural Based Knowledge Graphs Embedding Model with Logical Rules"
     },
