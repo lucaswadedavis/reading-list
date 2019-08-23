@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://arxiv.org/abs/1908.07141",
+      "text": "LogicENN: A Neural Based Knowledge Graphs Embedding Model with Logical Rules"
+    },
+    {
       "url": "https://www.sciencedaily.com/releases/2019/08/190820164625.htm",
       "text": "Origin of massive methane reservoir identified"
     },
