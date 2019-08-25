@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://ma-graph.org/",
+      "text": "Microsoft Academic Knowledge Graph"
+    },
+    {
       "url": "http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html",
       "text": "What Makes a Good Conversation"
     },
