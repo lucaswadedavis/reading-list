@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://realpython.com/pycharm-guide/",
+      "text": "PyCharm for Productive Python Development (Guide)"
+    },
+    {
       "url": "https://github.com/unisonweb/unison",
       "text": "Unison – A statically-typed purely functional language"
     },
