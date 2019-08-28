@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://blog.aragon.one/first-aragon-app-holographic-consensus-part-2/",
+      "text": "My First Aragon App: Voting supercharged with DAOstack’s Holographic Consensus (Part 2)"
+    },
+    {
       "url": "https://realpython.com/pycharm-guide/",
       "text": "PyCharm for Productive Python Development (Guide)"
     },
