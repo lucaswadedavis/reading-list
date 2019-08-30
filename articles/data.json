@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.scaleway.com/2019/building-a-machine-reading-comprehension-system-using-the-latest-advances-in-deep-learning-for-nlp/",
+      "text": "Natural Language Processing: The Age of Transformers"
+    },
+    {
       "url": "http://nautil.us/issue/69/patterns/the-math-that-takes-newton-into-the-quantum-world",
       "text": "Math That Takes Newton into the Quantum World"
     },
