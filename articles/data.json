@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blogs.scientificamerican.com/life-unbounded/the-gamma-ray-moon/",
+      "text": "The Gamma-Ray Moon"
+    },
+    {
       "url": "https://github.com/lumen/lumen",
       "text": "Lumen: An alternative BEAM implementation, designed for WebAssembly"
     },
