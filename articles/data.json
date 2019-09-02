@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://en.wikipedia.org/wiki/Entropic_gravity",
+      "text": "Entropic Gravity"
+    },
+    {
       "url": "https://catonmat.net/cookbooks/curl",
       "text": "Curl Cookbook"
     },
