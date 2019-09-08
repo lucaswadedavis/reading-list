@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.juliaacademy.com/",
+      "text": "Julia Academy: Learn ML, Parallel Programming, Julia and More"
+    },
+    {
       "url": "https://github.com/oliver-moran/jimp",
       "text": "blakeembrey starred oliver-moran/jimp"
     },
