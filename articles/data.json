@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/NVIDIA/NeMo",
+      "text": "Neural Modules (NeMo): A toolkit for conversational AI"
+    },
+    {
       "url": "https://easylang.online/apps/tutorial_beginner.html",
       "text": "Show HN: A small programming course for everyone"
     },
