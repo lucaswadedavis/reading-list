@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.sciencedaily.com/releases/2019/09/190917100436.htm",
+      "text": "Hello, world! A new approach for physics in de sitter space"
+    },
+    {
       "url": "https://github.com/NVIDIA/NeMo",
       "text": "Neural Modules (NeMo): A toolkit for conversational AI"
     },
