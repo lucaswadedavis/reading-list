@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://allennlp.org/interpret",
+      "text": "AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models"
+    },
+    {
       "url": "https://arxiv.org/abs/1909.11764",
       "text": "FreeLB: Enhanced Adversarial Training for Language Understanding"
     },
