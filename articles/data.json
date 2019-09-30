@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://arxiv.org/abs/1909.11764",
+      "text": "FreeLB: Enhanced Adversarial Training for Language Understanding"
+    },
+    {
       "url": "https://learnxinyminutes.com",
       "text": "Learn X in Y Minutes"
     },
