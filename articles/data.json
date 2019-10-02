@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.sciencedaily.com/releases/2019/10/191002110329.htm",
+      "text": "African evidence support Younger Dryas Impact Hypothesis"
+    },
+    {
       "url": "https://allennlp.org/interpret",
       "text": "AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models"
     },
