@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://skymind.ai/wiki/deep-reinforcement-learning",
+      "text": "A Beginner's Guide to Deep Reinforcement Learning"
+    },
+    {
       "url": "http://mesh-spreadsheet.com/",
       "text": "Mesh Spreadsheet"
     },
