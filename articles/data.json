@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/fuzzitdev/jsfuzz",
+      "text": "Open Sourcing Fuzz Testing Library for JavaScript/Node.js"
+    },
+    {
       "url": "https://www.bloomberg.com/news/articles/2019-10-21/zuckerberg-offered-advice-in-hiring-to-buttigieg-in-rare-move",
       "text": "Mark Zuckerberg Has Quietly Advised Pete Buttigieg on Campaign Hires"
     },
