@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://voxsnap.com/audiohub/",
+      "text": "Learn How to Raise a Seed Round"
+    },
+    {
       "url": "https://github.com/fuzzitdev/jsfuzz",
       "text": "Open Sourcing Fuzz Testing Library for JavaScript/Node.js"
     },
