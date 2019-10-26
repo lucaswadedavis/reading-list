@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://dlopuch.github.io/venture-dealr/",
+      "text": "A Visual Introduction to VC Financing"
+    },
+    {
       "url": "https://github.com/pubkey/rxdb",
       "text": "A reactive database where you can subscribe to the result of a query"
     },
