@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://qz.com/994596/the-world-faces-a-400-trillion-disaster",
+      "text": "The world is sitting on a $400T financial time bomb"
+    },
+    {
       "url": "https://medium.com/@marksaroufim/how-to-implement-a-reinforcement-learning-library-from-scratch-a-deep-dive-into-reinforce-jl-d1ec2a239924",
       "text": "Reinforcement Learning Library from Scratch – Deep Dive into Reinforce.jl"
     },
