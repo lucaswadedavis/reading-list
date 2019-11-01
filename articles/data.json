@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://eng.lyft.com/how-lyft-designs-the-machine-learning-software-engineering-interview-bbbb9fc8bb28",
+      "text": "The Machine Learning Software Engineering Interview"
+    },
+    {
       "url": "https://repl.it/blog/upm",
       "text": "Opensourcing the Universal Package Manager"
     },
