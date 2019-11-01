@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://repl.it/blog/upm",
+      "text": "Opensourcing the Universal Package Manager"
+    },
+    {
       "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
       "text": "bcbcb starred CorentinJ/Real-Time-Voice-Cloning"
     },
