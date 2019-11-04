@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://xkcd.com/2224/",
+      "text": "Software Updates"
+    },
+    {
       "url": "https://cen.acs.org/articles/97/web/2019/06/Magnet-doubles-hydrogen-yield-water.html",
       "text": "Magnet doubles hydrogen yield from water splitting"
     },
