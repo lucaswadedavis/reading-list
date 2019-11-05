@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/gpt-2-1-5b-release/",
+      "text": "OpenAI Releases Largest GPT-2 Text Generation Model"
+    },
+    {
       "url": "https://medium.com/@marksaroufim/how-to-turn-physics-into-an-optimization-problem-11b3fbf83062",
       "text": "How to Turn Physics into an Optimization Problem"
     },
