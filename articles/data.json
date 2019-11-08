@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://layerci.com/blog/postgres-is-the-answer/",
+      "text": "System design hack: Postgres is a great pub/sub and job server"
+    },
+    {
       "url": "https://www.zerohedge.com/health/unitedhealth-now-cutting-costs-giving-apartments-homeless-people",
       "text": "UnitedHealth Is Now Cutting Costs By Giving Apartments To Homeless People"
     },
