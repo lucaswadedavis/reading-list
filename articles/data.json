@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.scientificamerican.com/article/western-individualism-arose-from-incest-taboo/",
+      "text": "Western Individualism Arose from Incest Taboo"
+    },
+    {
       "url": "https://layerci.com/blog/postgres-is-the-answer/",
       "text": "System design hack: Postgres is a great pub/sub and job server"
     },
