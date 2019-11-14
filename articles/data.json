@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.sciencedaily.com/releases/2019/11/191113124822.htm",
+      "text": "New artificial intelligence system automatically evolves to evade internet censorship"
+    },
+    {
       "url": "https://google.github.io/tacotron/publications/speaker_adaptation/",
       "text": "AI Clones Your Voice After Listening for 5 Seconds (2018)"
     },
