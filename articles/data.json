@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio",
+      "text": "Build a WhatsApp Chatbot with Python, Flask and Twilio"
+    },
+    {
       "url": "https://slatestarcodex.com/2019/11/18/more-intuition-building-on-non-empirical-science-three-stories/",
       "text": "More Intuition-Building On Non-Empirical Science: Three Stories"
     },
