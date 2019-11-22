@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/safety-gym/",
+      "text": "Safety Gym"
+    },
+    {
       "url": "https://www.newscientist.com/article/2224569-controversial-dna-screening-technique-used-for-at-least-one-pregnancy/?utm_campaign=RSS|NSNS",
       "text": "Controversial DNA screening technique used for at least one pregnancy"
     },
