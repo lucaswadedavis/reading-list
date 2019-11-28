@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html",
+      "text": "Machine Learning on Encrypted Data Without Decrypting It"
+    },
+    {
       "url": "https://arxiv.org/abs/1911.11423",
       "text": "Single Headed Attention RNN"
     },
