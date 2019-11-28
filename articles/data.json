@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/JuliaLang/julia/releases/tag/v1.3.0",
+      "text": "Julia v1.3.0 Released"
+    },
+    {
       "url": "https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html",
       "text": "Machine Learning on Encrypted Data Without Decrypting It"
     },
