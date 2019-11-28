@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://arxiv.org/abs/1911.11423",
+      "text": "Single Headed Attention RNN"
+    },
+    {
       "url": "https://caseyhandmer.wordpress.com/2019/11/28/domes-are-very-over-rated/",
       "text": "Domes Are Over-Rated"
     },
