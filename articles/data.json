@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/uber-research/PPLM",
+      "text": "Plug and Play Language Model: Steer topic and attributes of GPT-2 models"
+    },
+    {
       "url": "https://slatestarcodex.com/2019/12/04/symptom-condition-cause/",
       "text": "Symptom, Condition, Cause"
     },
