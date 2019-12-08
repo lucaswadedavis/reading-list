@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.home-assistant.io/?hn=true",
+      "text": "Open-Source Home Automation"
+    },
+    {
       "url": "https://opentheory.net/2019/11/neural-annealing-toward-a-neural-theory-of-everything/",
       "text": "Neural Annealing: Toward a Neural Theory of Everything"
     },
