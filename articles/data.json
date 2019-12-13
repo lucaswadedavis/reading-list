@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/NVlabs/stylegan2",
+      "text": "StyleGAN2"
+    },
+    {
       "url": "https://deepmind.com/blog/article/learning-human-objectives-by-evaluating-hypothetical-behaviours",
       "text": "Learning human objectives by evaluating hypothetical behaviours"
     },
