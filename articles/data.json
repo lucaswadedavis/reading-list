@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.theatlantic.com/science/archive/2018/02/the-more-gender-equality-the-fewer-women-in-stem/553592/",
+      "text": "The More Gender Equality, the Fewer Women in STEM (2018)"
+    },
+    {
       "url": "https://github.com/NVlabs/stylegan2",
       "text": "StyleGAN2"
     },
