@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.npmjs.com/package/react-use-fuzzy",
+      "text": "Show HN: React-use-fuzzy – React hook in TypeScript for client side fuzzy search"
+    },
+    {
       "url": "https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/",
       "text": "Things end users care about but programmers don't"
     },
