@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://twinery.org",
+      "text": "Twine is an open-source tool for telling interactive, nonlinear stories"
+    },
+    {
       "url": "https://science.slashdot.org/story/19/12/17/232253/facebook-has-a-neural-network-that-can-do-advanced-math?utm_source=rss1.0mainlinkanon",
       "text": "Facebook Has a Neural Network That Can Do Advanced Math"
     },
