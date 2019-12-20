@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://gurneyjourney.blogspot.com/2019/12/breathing-illusion.html",
+      "text": "Breathing Illusion"
+    },
+    {
       "url": "https://threedots.tech/post/when-sql-database-makes-great-pub-sub/",
       "text": "When an SQL Database Makes a Great Pub/Sub"
     },
