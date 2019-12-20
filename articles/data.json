@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://threedots.tech/post/when-sql-database-makes-great-pub-sub/",
+      "text": "When an SQL Database Makes a Great Pub/Sub"
+    },
+    {
       "url": "https://techscience.org/a/2019121801/",
       "text": "Bot Submissions to Comment Website Can’t Be Distinguished from Human Submissions"
     },
