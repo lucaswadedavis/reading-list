@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://rhasspy.readthedocs.io/en/latest/",
+      "text": "Rhasspy is an open source, fully offline voice assistant toolkit"
+    },
+    {
       "url": "https://parl.ai/projects/light/",
       "text": "Light – Learning in Interactive Games with Humans and Text"
     },
