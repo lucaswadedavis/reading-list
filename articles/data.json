@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.sciencemag.org/news/2019/12/warning-ancient-tree-rings-americas-are-prone-catastrophic-simultaneous-droughts",
+      "text": "Tree rings show the Americas are prone to catastrophic, simultaneous droughts"
+    },
+    {
       "url": "https://rhasspy.readthedocs.io/en/latest/",
       "text": "Rhasspy is an open source, fully offline voice assistant toolkit"
     },
