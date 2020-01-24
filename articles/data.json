@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://aip.scitation.org/doi/10.1063/1.5126530",
+      "text": "Testable theory suggests information has mass"
+    },
+    {
       "url": "http://www.svilentodorov.xyz/blog/gpt-15b-chat-finetune/",
       "text": "Talking to myself: how I trained GPT2-1.5b for rubber ducking using my chat data"
     },
