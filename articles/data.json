@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://arstechnica.com/information-technology/2020/01/no-office-no-problem-how-ars-technicas-remote-workers-work/",
+      "text": "The tools and tricks that let Ars Technica function without a physical office"
+    },
+    {
       "url": "https://arxiv.org/abs/2001.09212",
       "text": "Pcgrl: Procedural Content Generation via Reinforcement Learning"
     },
