@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/typesense/typesense",
+      "text": "Typesense: Open-Source Alternative to Algolia"
+    },
+    {
       "url": "https://www.nbcnews.com/health/mental-health/single-dose-psychedelic-drug-eased-cancer-patients-anxiety-depression-years-n1123451",
       "text": "Single dose of psilocybin eased cancer patients' anxiety, depression for years"
     },
