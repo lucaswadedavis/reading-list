@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://thinc.ai/",
+      "text": "Show HN: Thinc, a new deep learning library by the makers of spaCy and FastAPI"
+    },
+    {
       "url": "http://www.spacewar.com/reports/US_Space_Force_seeks_civilians_to_join_staff_999.html",
       "text": "US Space Force seeks civilians to join staff"
     },
