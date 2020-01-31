@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://hackaday.com/2020/01/31/companion-bots-definitely-are-the-droids-youre-looking-for/",
+      "text": "Companion Bots Definitely Are the Droids You’re Looking For"
+    },
+    {
       "url": "https://thinc.ai/",
       "text": "Show HN: Thinc, a new deep learning library by the makers of spaCy and FastAPI"
     },
