@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://missing.csail.mit.edu/",
+      "text": "The Missing Semester of Your CS Education (MIT Course)"
+    },
+    {
       "url": "https://hackaday.com/2020/01/31/companion-bots-definitely-are-the-droids-youre-looking-for/",
       "text": "Companion Bots Definitely Are the Droids You’re Looking For"
     },
