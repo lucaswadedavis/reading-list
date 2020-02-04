@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.quantamagazine.org/mathematicians-prove-batchelors-law-of-turbulence-20200204/",
+      "text": "Mathematicians prove universal law of turbulence"
+    },
+    {
       "url": "https://www.sciencedaily.com/releases/2020/02/200204125711.htm",
       "text": "Lasers etch a 'perfect' solar energy absorber"
     },
@@ -31,10 +35,6 @@
     {
       "url": "https://github.com/typesense/typesense",
       "text": "Typesense: Open-Source Alternative to Algolia"
-    },
-    {
-      "url": "https://www.nbcnews.com/health/mental-health/single-dose-psychedelic-drug-eased-cancer-patients-anxiety-depression-years-n1123451",
-      "text": "Single dose of psilocybin eased cancer patients' anxiety, depression for years"
     },
     {
       "url": "https://www.nbcnews.com/health/mental-health/single-dose-psychedelic-drug-eased-cancer-patients-anxiety-depression-years-n1123451",
@@ -81,28 +81,12 @@
       "text": "German Nuclear Phase Out Boosted Emissions by 5% and Caused Over 10,000 Deaths"
     },
     {
-      "url": "https://github.com/codeforequity-at/botium-speech-processing",
-      "text": "Show HN: Low-Key Text-to-Speech and Speech-to-Text Open Source Software Stack"
-    },
-    {
-      "url": "https://www.nextbigfuture.com/2020/01/german-nuclear-phase-out-boosted-emissions-by-5-and-caused-over-10000-deaths.html",
-      "text": "German Nuclear Phase Out Boosted Emissions by 5% and Caused Over 10,000 Deaths"
-    },
-    {
-      "url": "https://www.nextbigfuture.com/2020/01/german-nuclear-phase-out-boosted-emissions-by-5-and-caused-over-10000-deaths.html",
-      "text": "German Nuclear Phase Out Boosted Emissions by 5% and Caused Over 10,000 Deaths"
-    },
-    {
       "url": "https://singularityhub.com/2020/01/26/this-marvelous-machine-splits-moon-dust-into-oxygen-and-metal/",
       "text": "This Marvelous Machine Splits Moon Dust Into Oxygen and Metal"
     },
     {
       "url": "https://aip.scitation.org/doi/10.1063/1.5126530",
       "text": "Testable theory suggests information has mass"
-    },
-    {
-      "url": "http://www.svilentodorov.xyz/blog/gpt-15b-chat-finetune/",
-      "text": "Talking to myself: how I trained GPT2-1.5b for rubber ducking using my chat data"
     },
     {
       "url": "http://www.svilentodorov.xyz/blog/gpt-15b-chat-finetune/",
@@ -139,10 +123,6 @@
     {
       "url": "https://www.zerohedge.com/personal-finance/end-college-near",
       "text": "The End Of College Is Near"
-    },
-    {
-      "url": "https://spacenews.com/op-ed-why-tapping-the-solar-systems-far-flung-resources-would-be-better-than-building-new-icbms/",
-      "text": "Op-ed | Why tapping the solar system’s far-flung resources would be better than building new ICBMs"
     },
     {
       "url": "https://spacenews.com/op-ed-why-tapping-the-solar-systems-far-flung-resources-would-be-better-than-building-new-icbms/",
@@ -261,10 +241,6 @@
       "text": "A hundred stars have disappeared—and researchers aren’t ruling out aliens"
     },
     {
-      "url": "https://www.popsci.com/story/space/100-stars-have-disappeared/",
-      "text": "A hundred stars have disappeared—and researchers aren’t ruling out aliens"
-    },
-    {
       "url": "https://twitter.com/marcan42/status/1207234468928356352",
       "text": "Google claims copyright on employee side projects"
     },
@@ -305,10 +281,6 @@
       "text": "Chinese Gangs Infect Pigs With Swine Fever In Criminal Meat Scheme"
     },
     {
-      "url": "https://www.zerohedge.com/political/chinese-gangs-infect-pigs-swine-fever-criminal-meat-scheme",
-      "text": "Chinese Gangs Infect Pigs With Swine Fever In Criminal Meat Scheme"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2019/11/191127161239.htm",
       "text": "A method with roots in AI uncovers how humans make choices in groups and social media"
     },
@@ -327,10 +299,6 @@
     {
       "url": "https://science.slashdot.org/story/19/12/17/232253/facebook-has-a-neural-network-that-can-do-advanced-math?utm_source=rss1.0mainlinkanon",
       "text": "Facebook Has a Neural Network That Can Do Advanced Math"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2019/12/191212105854.htm",
-      "text": "Short-lived light sources discovered in the sky"
     },
     {
       "url": "https://announcement.pathmind.com/skymind-is-now-pathmind/",
@@ -367,10 +335,6 @@
     {
       "url": "https://www.npmjs.com/package/react-use-fuzzy",
       "text": "Show HN: React-use-fuzzy – React hook in TypeScript for client side fuzzy search"
-    },
-    {
-      "url": "https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/",
-      "text": "Things end users care about but programmers don't"
     },
     {
       "url": "https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/",
@@ -537,14 +501,6 @@
       "text": "Domes Are Over-Rated"
     },
     {
-      "url": "https://caseyhandmer.wordpress.com/2019/11/28/domes-are-very-over-rated/",
-      "text": "Domes Are Over-Rated"
-    },
-    {
-      "url": "https://caseyhandmer.wordpress.com/2019/11/28/domes-are-very-over-rated/",
-      "text": "Domes Are Over-Rated"
-    },
-    {
       "url": "https://tech.slashdot.org/story/19/11/27/1958232/researchers-train-ai-to-map-a-persons-facial-movements-to-any-target-headshot?utm_source=rss1.0mainlinkanon",
       "text": "Researchers Train AI To Map a Person's Facial Movements To Any Target Headshot"
     },
@@ -567,10 +523,6 @@
     {
       "url": "https://www.dashbot.io/2019/11/21/exploring-usage-behavior-of-alexa-and-google-home-voice-assistants/",
       "text": "Exploring usage behavior of Alexa and Google Home voice assistants"
-    },
-    {
-      "url": "https://openai.com/blog/safety-gym/",
-      "text": "Safety Gym"
     },
     {
       "url": "https://openai.com/blog/safety-gym/",
@@ -673,22 +625,6 @@
       "text": "Legacy of Climategate – 10 years later"
     },
     {
-      "url": "https://judithcurry.com/2019/11/12/legacy-of-climategate-10-years-later/",
-      "text": "Legacy of Climategate – 10 years later"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2019/11/191112114014.htm",
-      "text": "With Mars methane mystery unsolved, Curiosity serves scientists a new one: Oxygen"
-    },
-    {
-      "url": "https://judithcurry.com/2019/11/12/legacy-of-climategate-10-years-later/",
-      "text": "Legacy of Climategate – 10 years later"
-    },
-    {
-      "url": "https://judithcurry.com/2019/11/12/legacy-of-climategate-10-years-later/",
-      "text": "Legacy of Climategate – 10 years later"
-    },
-    {
       "url": "https://www.fabbaloo.com/blog/2019/11/11/design-of-the-week-the-ultimate-cloud-cat-feeder",
       "text": "Design of the Week: The Ultimate Cloud Cat Feeder"
     },
@@ -733,10 +669,6 @@
       "text": "My TED talk on AI"
     },
     {
-      "url": "https://aiweirdness.com/post/188520435937",
-      "text": "My TED talk on AI"
-    },
-    {
       "url": "https://wattsupwiththat.com/2019/11/05/regional-greenhouse-gas-initiative-successful-model/",
       "text": "Regional Greenhouse Gas Initiative – Successful Model?"
     },
@@ -747,10 +679,6 @@
     {
       "url": "https://openai.com/blog/gpt-2-1-5b-release/",
       "text": "OpenAI Releases Largest GPT-2 Text Generation Model"
-    },
-    {
-      "url": "https://medium.com/@marksaroufim/how-to-turn-physics-into-an-optimization-problem-11b3fbf83062",
-      "text": "How to Turn Physics into an Optimization Problem"
     },
     {
       "url": "https://medium.com/@marksaroufim/how-to-turn-physics-into-an-optimization-problem-11b3fbf83062",
@@ -797,20 +725,12 @@
       "text": "Startup Benchmarks"
     },
     {
-      "url": "https://www.vccafe.com/2019/11/02/benchmarks/",
-      "text": "Startup Benchmarks"
-    },
-    {
       "url": "https://indiemailer.com/read/why-you-should-start-a-paid-newsletter/",
       "text": "Start a Paid Newsletter"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2019/10/191031114742.htm",
       "text": "Evading Heisenberg isn't easy"
-    },
-    {
-      "url": "https://eng.lyft.com/how-lyft-designs-the-machine-learning-software-engineering-interview-bbbb9fc8bb28",
-      "text": "The Machine Learning Software Engineering Interview"
     },
     {
       "url": "https://eng.lyft.com/how-lyft-designs-the-machine-learning-software-engineering-interview-bbbb9fc8bb28",
@@ -829,16 +749,8 @@
       "text": "Book Review: Against The Grain"
     },
     {
-      "url": "https://slatestarcodex.com/2019/10/14/book-review-against-the-grain/",
-      "text": "Book Review: Against The Grain"
-    },
-    {
       "url": "http://crowlspace.com/?p=3260",
       "text": "12,800 years bp – Big Impact"
-    },
-    {
-      "url": "https://caseyhandmer.wordpress.com/2019/10/29/the-spacex-starship-is-a-very-big-deal/",
-      "text": "The SpaceX Starship is a big deal"
     },
     {
       "url": "https://caseyhandmer.wordpress.com/2019/10/29/the-spacex-starship-is-a-very-big-deal/",
@@ -1165,10 +1077,6 @@
       "text": "Humans Who Are Not Concentrating Are Not General Intelligences"
     },
     {
-      "url": "https://www.skynettoday.com/editorials/humans-not-concentrating",
-      "text": "Humans Who Are Not Concentrating Are Not General Intelligences"
-    },
-    {
       "url": "https://yro.slashdot.org/story/19/09/09/2151217/web-scraping-doesnt-violate-anti-hacking-law-appeal-court-rules?utm_source=rss1.0mainlinkanon",
       "text": "Web Scraping Doesn't Violate Anti-Hacking Law, Appeal Court Rules"
     },
@@ -1225,30 +1133,6 @@
       "text": "Differentiable Programming Mega-Proposal"
     },
     {
-      "url": "https://hardware.slashdot.org/story/19/09/05/214211/the-next-hot-job-pretending-to-be-a-robot?utm_source=rss1.0mainlinkanon",
-      "text": "The Next Hot Job: Pretending To Be a Robot"
-    },
-    {
-      "url": "https://www.newscientist.com/article/2215537-drug-cocktail-seems-to-reverse-biological-signs-of-ageing-in-people/?utm_campaign=RSS|NSNS",
-      "text": "Drug cocktail seems to reverse biological signs of ageing in people"
-    },
-    {
-      "url": "https://forums.swift.org/t/differentiable-programming-mega-proposal/28547",
-      "text": "Differentiable Programming Mega-Proposal"
-    },
-    {
-      "url": "https://forums.swift.org/t/differentiable-programming-mega-proposal/28547",
-      "text": "Differentiable Programming Mega-Proposal"
-    },
-    {
-      "url": "https://forums.swift.org/t/differentiable-programming-mega-proposal/28547",
-      "text": "Differentiable Programming Mega-Proposal"
-    },
-    {
-      "url": "https://forums.swift.org/t/differentiable-programming-mega-proposal/28547",
-      "text": "Differentiable Programming Mega-Proposal"
-    },
-    {
       "url": "https://cafehayek.com/2019/09/quotation-of-the-day-2906.html",
       "text": "Quotation of the Day…"
     },
@@ -1277,20 +1161,12 @@
       "text": "'Virtue Signalling' May Annoy Us but Civilization Would Be Impossible Without It"
     },
     {
-      "url": "https://quillette.com/2019/09/02/virtue-signalling-may-annoy-us-but-civilization-would-be-impossible-without-it/",
-      "text": "'Virtue Signalling' May Annoy Us but Civilization Would Be Impossible Without It"
-    },
-    {
       "url": "https://patents.google.com/patent/US20060071122A1",
       "text": "Full Body Teleportation System"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2019/09/190903125622.htm",
       "text": "Wealth can lead to more satisfying life if viewed as a sign of success vs. happiness"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=ld28AU7DDB4",
-      "text": "Reinforcement Learning 10: Classic Games Case Study [video]"
     },
     {
       "url": "https://www.youtube.com/watch?v=ld28AU7DDB4",
@@ -1345,20 +1221,12 @@
       "text": "Math That Takes Newton into the Quantum World"
     },
     {
-      "url": "http://nautil.us/issue/69/patterns/the-math-that-takes-newton-into-the-quantum-world",
-      "text": "The Math That Takes Newton into the Quantum World"
-    },
-    {
       "url": "http://blog.aragon.one/first-aragon-app-holographic-consensus-part-2/",
       "text": "My First Aragon App: Voting supercharged with DAOstack’s Holographic Consensus (Part 2)"
     },
     {
       "url": "https://realpython.com/pycharm-guide/",
       "text": "PyCharm for Productive Python Development (Guide)"
-    },
-    {
-      "url": "https://github.com/unisonweb/unison",
-      "text": "Unison – A statically-typed purely functional language"
     },
     {
       "url": "https://github.com/unisonweb/unison",
@@ -1375,10 +1243,6 @@
     {
       "url": "https://www.governing.com/topics/finance/gov-addicted-to-fines.html",
       "text": "Small towns in much of the country are dependent on punitive fines and fees"
-    },
-    {
-      "url": "https://jvns.ca/blog/2019/08/27/curl-exercises/",
-      "text": "Curl exercises"
     },
     {
       "url": "https://jvns.ca/blog/2019/08/27/curl-exercises/",
@@ -1437,10 +1301,6 @@
       "text": "lehni starred andrejewski/himalaya"
     },
     {
-      "url": "https://github.com/andrejewski/himalaya",
-      "text": "lehni starred andrejewski/himalaya"
-    },
-    {
       "url": "https://onezero.medium.com/google-is-tightening-its-iron-grip-on-your-website-27e06b3150e0",
       "text": "A new AMP update shows how it can infiltrate every corner of the internet"
     },
@@ -1493,20 +1353,12 @@
       "text": "Maternal fluoride exposure during pregnancy and IQ scores in offspring"
     },
     {
-      "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2748634",
-      "text": "Maternal fluoride exposure during pregnancy and IQ scores in offspring"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2019/08/190819140219.htm",
       "text": "Are attitudes contagious? Nonverbal messages"
     },
     {
       "url": "https://developers.slashdot.org/story/19/08/19/0448219/paypal-builds-zoid-javascript-library-to-make-iframes-cool-again?utm_source=rss1.0mainlinkanon",
       "text": "PayPal Builds 'Zoid' JavaScript Library To 'Make IFrames Cool Again'"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2019/08/190819110004.htm",
-      "text": "Circulation of water in deep Earth's interior"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2019/08/190819110004.htm",
@@ -1557,10 +1409,6 @@
       "text": "Canain starred Byron/google-apis-rs"
     },
     {
-      "url": "https://github.com/Byron/google-apis-rs",
-      "text": "Canain starred Byron/google-apis-rs"
-    },
-    {
       "url": "https://www.masswerk.at/nowgobang/2019/mespeak_2_0",
       "text": "Show HN: MeSpeak.js 2.0 – Text-to-Speech in JavaScript"
     },
@@ -1583,10 +1431,6 @@
     {
       "url": "https://codinginfinite.com/pillars-on-becoming-senior-level-developer/",
       "text": "Six Pillars to Become a Senior Level Software Developer"
-    },
-    {
-      "url": "https://www.fabbaloo.com/blog/2019/8/10/cybes-construction-3d-printers-are-mobile",
-      "text": "CyBe's Construction 3D Printers Are Mobile"
     },
     {
       "url": "https://www.fabbaloo.com/blog/2019/8/10/cybes-construction-3d-printers-are-mobile",
@@ -1647,14 +1491,6 @@
     {
       "url": "https://www.anup.io/2019/08/05/documentation-your-secret-weapon/",
       "text": "Documentation – Your Secret Weapon"
-    },
-    {
-      "url": "https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f",
-      "text": "All the best engineering advice I stole from non-technical people"
-    },
-    {
-      "url": "http://tuvalu.santafe.edu/~simon/it.pdf",
-      "text": "Information Theory for Intelligent People (2018) [pdf]"
     },
     {
       "url": "https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f",
@@ -1757,10 +1593,6 @@
       "text": "Storytelling bots learn to punch up their last lines"
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2019/08/190801142549.htm",
-      "text": "Storytelling bots learn to punch up their last lines"
-    },
-    {
       "url": "https://www.youtube.com/playlist?list=PLP8iPy9hna6StY9tIJIUN3F_co9A0zh0H",
       "text": "JuliaCon 2019 Videos"
     },
@@ -1817,10 +1649,6 @@
       "text": "Abraham–Minkowski Controversy"
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Abraham–Minkowski_controversy",
-      "text": "Abraham–Minkowski Controversy"
-    },
-    {
       "url": "https://matthewstrom.com/writing/doubt/",
       "text": "The Role of Doubt in Design"
     },
@@ -1835,10 +1663,6 @@
     {
       "url": "https://www.sciencedaily.com/releases/2019/07/190723163943.htm",
       "text": "Algae living inside fungi: How land plants first evolved"
-    },
-    {
-      "url": "https://davnicwil.com/zero-to-startup-in-ten-weeks/",
-      "text": "Show HN: Zero to Startup in 10 Weeks (Following YC Startup School)"
     },
     {
       "url": "https://davnicwil.com/zero-to-startup-in-ten-weeks/",
@@ -1929,10 +1753,6 @@
       "text": "Jeff Bezos: I Spend My Billions On Space Because We're Destroying Earth"
     },
     {
-      "url": "https://science.slashdot.org/story/19/07/18/0030221/jeff-bezos-i-spend-my-billions-on-space-because-were-destroying-earth?utm_source=rss1.0mainlinkanon",
-      "text": "Jeff Bezos: I Spend My Billions On Space Because We're Destroying Earth"
-    },
-    {
       "url": "https://www.zerohedge.com/news/2019-07-17/ray-dalio-warns-new-paradigm-coming-buy-gold-sell-stocks",
       "text": "Ray Dalio Warns A \"New Paradigm\" Is Coming: \"Buy Gold, Sell Stocks\""
     },
@@ -1973,10 +1793,6 @@
       "text": "Silent 55: Is this the world's most cost-efficient mobile home?"
     },
     {
-      "url": "https://newatlas.com/silent-55-solar-powered-ocean-going-catamaran/60207/",
-      "text": "Silent 55: Is this the world's most cost-efficient mobile home?"
-    },
-    {
       "url": "https://newatlas.com/mars-siica-aerogel-layer/60577/",
       "text": "Harvard study says an inch of silica aerogel could make patches of Mars liveable"
     },
@@ -1995,10 +1811,6 @@
     {
       "url": "https://singularityhub.com/2019/07/14/this-chatbot-has-over-660-million-users-and-it-wants-to-be-their-best-friend/",
       "text": "This Chatbot has Over 660 Million Users—and It Wants to Be Their Best Friend"
-    },
-    {
-      "url": "https://hackaday.com/2019/07/13/a-lot-of-volts-for-not-a-lot/",
-      "text": "A Lot Of Volts For Not A Lot"
     },
     {
       "url": "https://hackaday.com/2019/07/13/a-lot-of-volts-for-not-a-lot/",
@@ -2097,18 +1909,6 @@
       "text": "Cartoons are appropriate for developing children's narrative skills and values"
     },
     {
-      "url": "https://www.sicpers.info/2019/07/the-challenges-of-teaching-software-engineering/",
-      "text": "The challenges of teaching software engineering"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2019/07/190708112433.htm",
-      "text": "Cartoons are appropriate for developing children's narrative skills and values"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2019/07/190708112433.htm",
-      "text": "Cartoons are appropriate for developing children's narrative skills and values"
-    },
-    {
       "url": "https://multiverseaccordingtoben.blogspot.com/2019/07/the-simulation-hypothesis-is-mostly.html",
       "text": "The Simulation Hypothesis -- Not Nearly Crazy Enough to Be True"
     },
@@ -2141,10 +1941,6 @@
       "text": "English speakers should learn math instead of a second language"
     },
     {
-      "url": "https://leosstemhacks.wordpress.com/2019/06/13/learn-math-not-mandarin/",
-      "text": "English speakers should learn math instead of a second language"
-    },
-    {
       "url": "https://www.fastcompany.com/90316833/scientists-have-discovered-a-shape-that-blocks-all-sound-even-your-co-workers",
       "text": "Scientists have discovered a shape that blocks all sound–even your co-workers"
     },
@@ -2159,10 +1955,6 @@
     {
       "url": "http://www.spacewar.com/reports/Pentagon_seeks_ideas_for_small_military_space_station_999.html",
       "text": "Pentagon seeks ideas for small military space station"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=5LFo36g4Lug",
-      "text": "The Thousand Brains Theory: Framework for Building Intelligent Machines [video]"
     },
     {
       "url": "https://www.youtube.com/watch?v=5LFo36g4Lug",
@@ -2187,10 +1979,6 @@
     {
       "url": "https://aiweirdness.com/post/185883998702",
       "text": "AIs named by AIs"
-    },
-    {
-      "url": "https://slatestarcodex.com/2019/07/04/some-clarifications-on-rationalist-blogging/",
-      "text": "Some Clarifications On Rationalist Blogging"
     },
     {
       "url": "https://slatestarcodex.com/2019/07/04/some-clarifications-on-rationalist-blogging/",
@@ -2325,10 +2113,6 @@
       "text": "US Army Buys 9,000 Tiny 'Black Hornet' Drones Ahead Of Afghanistan Deployment"
     },
     {
-      "url": "https://www.zerohedge.com/news/2019-06-18/us-army-buys-9000-tiny-black-hornet-drones-ahead-afghanistan-deployment",
-      "text": "US Army Buys 9,000 Tiny 'Black Hornet' Drones Ahead Of Afghanistan Deployment"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2019/06/190619103151.htm",
       "text": "Researchers find quantum gravity has no symmetry"
     },
@@ -2343,10 +2127,6 @@
     {
       "url": "http://www.linusakesson.net/dialog/index.php",
       "text": "Dialog – A domain-specific language for creating works of interactive fiction"
-    },
-    {
-      "url": "https://slatestarcodex.com/2019/06/18/if-kim-jong-un-opened-a-kfc-would-you-eat-there/",
-      "text": "If Kim Jong-Un Opened A KFC, Would You Eat There?"
     },
     {
       "url": "https://slatestarcodex.com/2019/06/18/if-kim-jong-un-opened-a-kfc-would-you-eat-there/",
@@ -2399,14 +2179,6 @@
     {
       "url": "https://ai.facebook.com/blog/open-sourcing-ai-habitat-an-simulation-platform-for-embodied-ai-research/",
       "text": "AI Habitat, an advanced simulation platform for embodied AI research"
-    },
-    {
-      "url": "https://ai.facebook.com/blog/open-sourcing-ai-habitat-an-simulation-platform-for-embodied-ai-research/",
-      "text": "AI Habitat, an advanced simulation platform for embodied AI research"
-    },
-    {
-      "url": "https://www.nextbigfuture.com/2019/06/prototype-optical-asteroid-mining-technology.html",
-      "text": "Prototype Optical Asteroid Mining Technology"
     },
     {
       "url": "https://www.nextbigfuture.com/2019/06/prototype-optical-asteroid-mining-technology.html",
@@ -2471,14 +2243,6 @@
     {
       "url": "https://heartbeat.fritz.ai/nlp-chronicles-intro-to-spacy-34949f1bc118",
       "text": "Detailed overview of spaCy: the NLP library built for production"
-    },
-    {
-      "url": "https://www.newscientist.com/article/2205725-a-weird-star-just-rapidly-dimmed-for-a-few-days-and-we-dont-know-why/?utm_campaign=RSS|NSNS",
-      "text": "A weird star just rapidly dimmed for a few days and we don't know why"
-    },
-    {
-      "url": "https://www.newscientist.com/article/2205779-creating-an-ai-can-be-five-times-worse-for-the-planet-than-a-car/?utm_campaign=RSS|NSNS",
-      "text": "Creating an AI can be five times worse for the planet than a car"
     },
     {
       "url": "https://www.newscientist.com/article/2205725-a-weird-star-just-rapidly-dimmed-for-a-few-days-and-we-dont-know-why/?utm_campaign=RSS|NSNS",
@@ -2785,14 +2549,6 @@
       "text": "Startup 'ObEN' Is Betting the Future Is Personal AI Avatars"
     },
     {
-      "url": "https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/",
-      "text": "Matrix Methods in Data Analysis, Signal Processing, and Machine Learning"
-    },
-    {
-      "url": "https://tech.slashdot.org/story/19/05/16/2044218/startup-oben-is-betting-the-future-is-personal-ai-avatars?utm_source=rss1.0mainlinkanon",
-      "text": "Startup 'ObEN' Is Betting the Future Is Personal AI Avatars"
-    },
-    {
       "url": "https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html",
       "text": "Translatotron: An End-to-End Speech-to-Speech Translation Model"
     },
@@ -2841,10 +2597,6 @@
       "text": "The universe is 2.5 billion times less magnetic than a fridge magnet"
     },
     {
-      "url": "https://www.newscientist.com/article/2202343-the-universe-is-2-5-billion-times-less-magnetic-than-a-fridge-magnet/?utm_campaign=RSS|NSNS",
-      "text": "The universe is 2.5 billion times less magnetic than a fridge magnet"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2019/05/jeff-bezos-details-vision-of-colonizing-the-solar-system.html",
       "text": "Jeff Bezos Details Vision of Colonizing the Solar System"
     },
@@ -2867,10 +2619,6 @@
     {
       "url": "https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/",
       "text": "5-HTTLPR: A Pointed Review"
-    },
-    {
-      "url": "https://hardware.slashdot.org/story/19/05/07/2214232/experimental-device-generates-electricity-from-the-coldness-of-the-universe?utm_source=rss1.0mainlinkanon",
-      "text": "Experimental Device Generates Electricity From the Coldness of the Universe"
     },
     {
       "url": "https://hardware.slashdot.org/story/19/05/07/2214232/experimental-device-generates-electricity-from-the-coldness-of-the-universe?utm_source=rss1.0mainlinkanon",
@@ -3025,14 +2773,6 @@
       "text": "sswatson forked sswatson/PlotDocs.jl from JuliaPlots/PlotDocs.jl"
     },
     {
-      "url": "http://blog.longnow.org/02019/04/30/jeff-goodell-were-not-going-to-fix-climate-change/",
-      "text": "Jeff Goodell: We’re Not Going to ‘Fix’ Climate Change"
-    },
-    {
-      "url": "https://github.com/sswatson/PlotDocs.jl",
-      "text": "sswatson forked sswatson/PlotDocs.jl from JuliaPlots/PlotDocs.jl"
-    },
-    {
       "url": "http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/",
       "text": "Machine Learning Books That Helped Me Level Up"
     },
@@ -3089,10 +2829,6 @@
       "text": "Multirepos suck. Monorepos suck. We need a new generation of source control"
     },
     {
-      "url": "https://www.rookout.com/cant-git-no-satisfaction-why-we-need-a-new-gen-source-control/",
-      "text": "Multirepos suck. Monorepos suck. We need a new generation of source control"
-    },
-    {
       "url": "https://www.zerohedge.com/news/2019-04-23/russia-unveils-sub-nuclear-tsunami-doomsday-drones",
       "text": "Russia Unveils Sub With 'Nuclear Tsunami' Doomsday Drones"
     },
@@ -3119,10 +2855,6 @@
     {
       "url": "https://github.com/3b1b/manim",
       "text": "Manim – 3Blue1Brown's animation engine for explanatory math videos"
-    },
-    {
-      "url": "https://www.smashingmagazine.com/2019/04/design-landing-page-mobile-conversion/",
-      "text": "Design A Lead Gen Landing Page For Mobile That Converts"
     },
     {
       "url": "https://www.smashingmagazine.com/2019/04/design-landing-page-mobile-conversion/",
@@ -3199,10 +2931,6 @@
     {
       "url": "https://github.com/Mercury-Language/mercury",
       "text": "The Mercury logic programming system"
-    },
-    {
-      "url": "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html",
-      "text": "Why Concatenative Programming Matters (2012)"
     },
     {
       "url": "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html",
@@ -3337,20 +3065,12 @@
       "text": "Senators ask why vendors sell voting machines with ‘known’ vulnerabilities’"
     },
     {
-      "url": "https://techcrunch.com/2019/03/27/senators-security-voting-machines/",
-      "text": "Senators ask why vendors sell voting machines with ‘known’ vulnerabilities’"
-    },
-    {
       "url": "https://blog.floydhub.com/meta-rl/",
       "text": "Meta-Reinforcement Learning"
     },
     {
       "url": "https://arxiv.org/abs/1812.09968",
       "text": "A Deep Attention-Based Reinforcement Learning Algorithm for Model-Based Control"
-    },
-    {
-      "url": "https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/",
-      "text": "Build an Air Quality Monitor with InfluxDB, Grafana and Docker on a Raspberry Pi"
     },
     {
       "url": "https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/",
@@ -3381,24 +3101,12 @@
       "text": "Kids store 1.5 megabytes of information to master their native language"
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2019/03/190327134547.htm",
-      "text": "Kids store 1.5 megabytes of information to master their native language"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2019/03/190327134547.htm",
-      "text": "Kids store 1.5 megabytes of information to master their native language"
-    },
-    {
       "url": "https://realpython.com/courses/working-json-data-python/",
       "text": "Working With JSON Data in Python"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2019/03/190327142108.htm",
       "text": "Social media has remarkably small impact on Americans' beliefs, research finds"
-    },
-    {
-      "url": "https://www.zerohedge.com/news/2019-03-26/darpa-wants-nuclear-reactor-rockets-deep-space-travel",
-      "text": "DARPA Wants Nuclear Reactor Rockets For Deep Space Travel"
     },
     {
       "url": "https://www.zerohedge.com/news/2019-03-26/darpa-wants-nuclear-reactor-rockets-deep-space-travel",
@@ -3415,10 +3123,6 @@
     {
       "url": "https://www.nextbigfuture.com/2019/03/scaling-intelligent-assistants-and-other-ai-emtechdigital.html",
       "text": "Scaling Intelligent Assistants and Other AI – #emtechdigital"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2019/03/190326105730.htm",
-      "text": "Listening to the quantum vacuum"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2019/03/190326105730.htm",
@@ -3459,10 +3163,6 @@
     {
       "url": "https://www.sciencedaily.com/releases/2019/03/190325151038.htm",
       "text": "Matter waves and quantum splinters"
-    },
-    {
-      "url": "https://devtomanager.com/",
-      "text": "Interviews with developers who became managers"
     },
     {
       "url": "https://devtomanager.com/",
@@ -3545,10 +3245,6 @@
       "text": "Translating Predictive Coding Into Perceptual Control"
     },
     {
-      "url": "https://slatestarcodex.com/2019/03/20/translating-predictive-coding-into-perceptual-control/",
-      "text": "Translating Predictive Coding Into Perceptual Control"
-    },
-    {
       "url": "https://newatlas.com/dig-site-australia-humans-moyjil/58886/",
       "text": "Bold study claims humans may have arrived in Australia 120,000 years ago"
     },
@@ -3585,14 +3281,6 @@
       "text": "Human-First: Decentralizing Identity and Governance in the Era of AI"
     },
     {
-      "url": "https://github.com/Byron/google-apis-rs",
-      "text": "Canain starred Byron/google-apis-rs"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=I-vusWL2cx4",
-      "text": "Randomly Generated N64 Games [video]"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=I-vusWL2cx4",
       "text": "Randomly Generated N64 Games [video]"
     },
@@ -3617,16 +3305,8 @@
       "text": "Natural Gradient Descent (2018)"
     },
     {
-      "url": "https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/",
-      "text": "Natural Gradient Descent (2018)"
-    },
-    {
       "url": "https://news.slashdot.org/story/19/03/19/1926244/as-costs-skyrocket-more-us-cities-stop-recycling?utm_source=rss1.0mainlinkanon",
       "text": "As Costs Skyrocket, More US Cities Stop Recycling"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/project/textworld/",
-      "text": "MS TextWorld: open-source engine that both generates and simulates text games"
     },
     {
       "url": "https://www.microsoft.com/en-us/research/project/textworld/",
@@ -3669,10 +3349,6 @@
       "text": "China is overtaking US in artificial intelligence: researchers"
     },
     {
-      "url": "http://www.robodaily.com/reports/China_is_overtaking_US_in_artificial_intelligence_researchers_999.html",
-      "text": "China is overtaking US in artificial intelligence: researchers"
-    },
-    {
       "url": "http://www.spacewar.com/reports/China_says_nearly_13000_terrorists_arrested_in_Xinjiang_999.html",
       "text": "China says nearly 13,000 'terrorists' arrested in Xinjiang"
     },
@@ -3709,10 +3385,6 @@
       "text": "Weird science: Tectonics in the tropics trigger Earth’s ice ages, study finds"
     },
     {
-      "url": "https://wattsupwiththat.com/2019/03/15/weird-science-tectonics-in-the-tropics-trigger-earths-ice-ages-study-finds/",
-      "text": "Weird science: Tectonics in the tropics trigger Earth’s ice ages, study finds"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2019/03/190319142315.htm",
       "text": "Weird, wild gravity of asteroid Bennu"
     },
@@ -3739,10 +3411,6 @@
     {
       "url": "https://www.sciencedaily.com/releases/2019/03/190314075758.htm",
       "text": "Origins and nature of 'math anxiety'"
-    },
-    {
-      "url": "http://tenoke.github.io/blog/gpt-finetune",
-      "text": "Generating Fake Conversations by Fine-Tuning OpenAI's GPT on Data from Messenger"
     },
     {
       "url": "http://tenoke.github.io/blog/gpt-finetune",
@@ -3811,10 +3479,6 @@
     {
       "url": "https://webkit.org/blog/8672/on-the-road-to-webrtc-1-0-including-vp8/",
       "text": "On the Road to WebRTC 1.0, Including VP8"
-    },
-    {
-      "url": "https://www.newscientist.com/article/2196391-black-holes-and-lasers-could-let-us-cheat-at-interstellar-travel/?utm_campaign=RSS|NSNS",
-      "text": "Black holes and lasers could let us cheat at interstellar travel"
     },
     {
       "url": "https://www.newscientist.com/article/2196391-black-holes-and-lasers-could-let-us-cheat-at-interstellar-travel/?utm_campaign=RSS|NSNS",
@@ -3929,10 +3593,6 @@
       "text": "Google Tool Lets Any AI App Learn Without Taking All Your Data"
     },
     {
-      "url": "https://tech.slashdot.org/story/19/03/06/172204/google-tool-lets-any-ai-app-learn-without-taking-all-your-data?utm_source=rss1.0mainlinkanon",
-      "text": "Google Tool Lets Any AI App Learn Without Taking All Your Data"
-    },
-    {
       "url": "https://101.datascience.community/2019/03/06/free-data-science-university-course-notes/",
       "text": "Free Data Science University Course Notes"
     },
@@ -3951,18 +3611,6 @@
     {
       "url": "https://github.com/huggingface/hmtl",
       "text": "LaurenSpiegel starred huggingface/hmtl"
-    },
-    {
-      "url": "https://circleci.com/blog/designing-a-package-manager-from-the-ground-up/",
-      "text": "Designing a package manager from the ground up"
-    },
-    {
-      "url": "https://github.com/huggingface/hmtl",
-      "text": "LaurenSpiegel starred huggingface/hmtl"
-    },
-    {
-      "url": "https://applied-data.science/blog/generative-deep-learning-book",
-      "text": "Generative Deep Learning"
     },
     {
       "url": "https://applied-data.science/blog/generative-deep-learning-book",
@@ -4117,14 +3765,6 @@
       "text": "Op-ed | Sustainability on Earth depends on our exploration of space"
     },
     {
-      "url": "https://spacenews.com/op-ed-sustainability-on-earth-depends-on-our-exploration-of-space/",
-      "text": "Op-ed | Sustainability on Earth depends on our exploration of space"
-    },
-    {
-      "url": "https://blog.openai.com/spinning-up-in-deep-rl-workshop-review/",
-      "text": "Spinning Up in Deep RL – Workshop Review"
-    },
-    {
       "url": "https://en.wikipedia.org/wiki/Amplituhedron",
       "text": "Amplituhedron"
     },
@@ -4133,20 +3773,8 @@
       "text": "Superintelligence as a Service is Coming and It Can Be Safe AGI"
     },
     {
-      "url": "https://www.nextbigfuture.com/2019/02/superintelligence-as-a-service-is-coming-and-it-can-be-safe-agi.html",
-      "text": "Superintelligence as a Service is Coming and It Can Be Safe AGI"
-    },
-    {
-      "url": "https://www.nextbigfuture.com/2019/02/superintelligence-as-a-service-is-coming-and-it-can-be-safe-agi.html",
-      "text": "Superintelligence as a Service is Coming and It Can Be Safe AGI"
-    },
-    {
       "url": "https://www.nature.com/articles/s41598-019-39558-8",
       "text": "De novo origins of multicellularity in response to predation"
-    },
-    {
-      "url": "https://www.taiwannews.com.tw/en/news/3644433",
-      "text": "'Extinct' Formosan clouded leopard spotted in E. Taiwan"
     },
     {
       "url": "https://www.taiwannews.com.tw/en/news/3644433",
@@ -4233,10 +3861,6 @@
       "text": "Japan's Hayabusa 2 may finally kick-start the asteroid mining era"
     },
     {
-      "url": "https://www.newscientist.com/article/mg24132182-500-japans-hayabusa-2-may-finally-kick-start-the-asteroid-mining-era/?utm_campaign=RSS|NSNS",
-      "text": "Japan's Hayabusa 2 may finally kick-start the asteroid mining era"
-    },
-    {
       "url": "https://github.com/sindresorhus/filenamify-cli",
       "text": "sindresorhus created a repository sindresorhus/filenamify-cli"
     },
@@ -4271,10 +3895,6 @@
     {
       "url": "https://medium.com/syncedreview/microsofts-new-mt-dnn-outperforms-google-bert-b5fa15b1a03e",
       "text": "Microsoft’s New MT-DNN Outperforms Google BERT"
-    },
-    {
-      "url": "https://www.zerohedge.com/news/2019-02-16/china-plans-build-solar-power-station-space",
-      "text": "China Plans To Build Solar Power Station In Space"
     },
     {
       "url": "https://www.zerohedge.com/news/2019-02-16/china-plans-build-solar-power-station-space",
@@ -4349,10 +3969,6 @@
       "text": "Amazon Wants Alexa To Read Blog Posts and Broadcast Church Sermons"
     },
     {
-      "url": "https://tech.slashdot.org/story/19/02/13/1537249/amazon-wants-alexa-to-read-blog-posts-and-broadcast-church-sermons?utm_source=rss1.0mainlinkanon",
-      "text": "Amazon Wants Alexa To Read Blog Posts and Broadcast Church Sermons"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2019/02/moon-bases-orbital-bases-and-the-start-of-mars-colonization-by-2040.html",
       "text": "Moon Bases, Orbital Bases and the Start of Mars Colonization by 2040"
     },
@@ -4389,14 +4005,6 @@
       "text": "Google Docs gets an API for task automation"
     },
     {
-      "url": "https://techcrunch.com/2019/02/11/google-docs-gets-an-api-for-task-automation/",
-      "text": "Google Docs gets an API for task automation"
-    },
-    {
-      "url": "https://techcrunch.com/2019/02/11/google-docs-gets-an-api-for-task-automation/",
-      "text": "Google Docs gets an API for task automation"
-    },
-    {
       "url": "https://games.slashdot.org/story/19/02/11/180201/young-people-who-play-video-games-have-higher-moral-reasoning-skills?utm_source=rss1.0mainlinkanon",
       "text": "Young People Who Play Video Games Have Higher Moral Reasoning Skills"
     },
@@ -4423,14 +4031,6 @@
     {
       "url": "https://github.com/TheBerkin/rant",
       "text": "Rant – An all-purpose procedural text engine"
-    },
-    {
-      "url": "https://github.com/TheBerkin/rant",
-      "text": "Rant – An all-purpose procedural text engine"
-    },
-    {
-      "url": "https://www.zeroequalsfalse.press/2019/02/08/developer-business-startup/",
-      "text": "Why Starting a Business as a Software Developer Is a Good Idea"
     },
     {
       "url": "https://www.zeroequalsfalse.press/2019/02/08/developer-business-startup/",
@@ -4489,10 +4089,6 @@
       "text": "Here's how we could turn an asteroid into a space station"
     },
     {
-      "url": "https://www.newscientist.com/article/2192586-heres-how-we-could-turn-an-asteroid-into-a-space-station/?utm_campaign=RSS|NSNS",
-      "text": "Here's how we could turn an asteroid into a space station"
-    },
-    {
       "url": "https://justinribeiro.com/chronicle/2019/01/31/tiny-pwas-and-why-i-keep-building-them/",
       "text": "Tiny PWAs and why I keep building them"
     },
@@ -4543,10 +4139,6 @@
     {
       "url": "https://www.zerohedge.com/news/2019-01-30/china-russia-preparing-blackout-warfare-super-emp-bombs",
       "text": "China, Russia Preparing For \"Blackout Warfare\" With \"Super-EMP\" Bombs"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2019/01/190131091434.htm",
-      "text": "Atari master: New AI smashes Google DeepMind in video game challenge"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2019/01/190131091434.htm",
@@ -4639,22 +4231,6 @@
     {
       "url": "https://lithub.com/david-treuer-on-the-myth-of-an-edenic-pre-columbian-new-world/",
       "text": "Indigenous civilizations are far older and more complex than history suggests"
-    },
-    {
-      "url": "https://www.washington.edu/news/2018/12/19/new-houseplant-can-clean-air/",
-      "text": "Researchers develop a new houseplant that can clean home air (2018)"
-    },
-    {
-      "url": "https://lithub.com/david-treuer-on-the-myth-of-an-edenic-pre-columbian-new-world/",
-      "text": "Indigenous civilizations are far older and more complex than history suggests"
-    },
-    {
-      "url": "https://www.washington.edu/news/2018/12/19/new-houseplant-can-clean-air/",
-      "text": "Researchers develop a new houseplant that can clean home air (2018)"
-    },
-    {
-      "url": "https://science.slashdot.org/story/19/01/23/014202/carbon-capture-system-turns-co2-into-electricity-and-hydrogen-fuel?utm_source=rss1.0mainlinkanon",
-      "text": "Carbon Capture System Turns CO2 Into Electricity and Hydrogen Fuel"
     },
     {
       "url": "https://www.washington.edu/news/2018/12/19/new-houseplant-can-clean-air/",
@@ -4769,10 +4345,6 @@
       "text": "Neural Ordinary Differential Equations"
     },
     {
-      "url": "https://blog.acolyer.org/2019/01/09/neural-ordinary-differential-equations/",
-      "text": "Neural Ordinary Differential Equations"
-    },
-    {
       "url": "https://tech.slashdot.org/story/19/01/10/1532212/google-wins-round-in-fight-against-global-right-to-be-forgotten?utm_source=rss1.0mainlinkanon",
       "text": "Google Wins Round in Fight Against Global Right To Be Forgotten"
     },
@@ -4847,10 +4419,6 @@
     {
       "url": "https://www.sciencedaily.com/releases/2019/01/190102154403.htm",
       "text": "A 'pacemaker' for North African climate"
-    },
-    {
-      "url": "https://cair.uia.no/milestones-and-discoveries/the-tsetlin-machine-outperforms-neural-networks/",
-      "text": "The Tsetlin Machine outperforms neural networks"
     },
     {
       "url": "https://cair.uia.no/milestones-and-discoveries/the-tsetlin-machine-outperforms-neural-networks/",
@@ -4991,10 +4559,6 @@
     {
       "url": "https://newatlas.com/nreal-light-mixed-reality-glasses/57678/",
       "text": "nReal Light mixed reality glasses look almost like regular specs"
-    },
-    {
-      "url": "https://www.workflowci.com",
-      "text": "WorkflowCI – IFTTT for developers"
     },
     {
       "url": "https://www.workflowci.com",
@@ -5241,10 +4805,6 @@
       "text": "Ellipsoid distance on Earth"
     },
     {
-      "url": "https://www.johndcook.com/blog/2018/11/24/spheroid-distance/",
-      "text": "Ellipsoid distance on Earth"
-    },
-    {
       "url": "https://groups.google.com/forum/#!topic/pytroll/8OS5WD8RBY4",
       "text": "SatPy 0.10 Released -Python library for processing meteorological satellite data"
     },
@@ -5255,14 +4815,6 @@
     {
       "url": "https://www.nextbigfuture.com/2018/11/4-billion-moon-water-mining-operation-for-2-4-billion-per-year-business.html",
       "text": "$4 Billion Moon Water Mining Operation for $2.4 Billion Per Year Business"
-    },
-    {
-      "url": "https://pv-magazine-usa.com/2018/11/23/all-i-want-for-christmas-is-a-90-efficient-solar-panel/",
-      "text": "Using carbon nanotubes and rectennas to yield a 90% efficient solar cell"
-    },
-    {
-      "url": "https://stackoverflow.com/questions/53450716/how-can-i-make-dialogflow-agent-greet-user-if-they-have-used-the-action-before",
-      "text": "How can I make Dialogflow agent greet user if they have used the action before?"
     },
     {
       "url": "https://pv-magazine-usa.com/2018/11/23/all-i-want-for-christmas-is-a-90-efficient-solar-panel/",
@@ -5453,14 +5005,6 @@
       "text": "Infinite procedurally-generated city with the Wave Function Collapse algorithm"
     },
     {
-      "url": "https://www.ouster.io/blog-posts/2018/11/8/how-multi-beam-flash-lidar-works",
-      "text": "How Multi-Beam Flash Lidar Works"
-    },
-    {
-      "url": "https://marian42.itch.io/wfc",
-      "text": "Infinite procedurally-generated city with the Wave Function Collapse algorithm"
-    },
-    {
       "url": "https://www.newscientist.com/article/2185188-china-may-have-developed-a-quantum-radar-that-can-spot-stealth-planes/?utm_campaign=RSS|NSNS",
       "text": "China may have developed a quantum radar that can spot stealth planes"
     },
@@ -5559,10 +5103,6 @@
     {
       "url": "https://www.thevintagenews.com/2017/09/10/the-hoba-meteorite-estimated-at-66-tons-left-no-crater-when-it-fell-to-earth/",
       "text": "The Hoba meteorite, estimated at 66 tons, left no crater when it fell to Earth"
-    },
-    {
-      "url": "",
-      "text": "The Strong Free Will Theorem (2009) [pdf]"
     },
     {
       "url": "https://news.ycombinator.com/item?id=15217550",
@@ -5749,10 +5289,6 @@
       "text": "315,000 year old Homo Sapiens discovered in Morocco"
     },
     {
-      "url": "",
-      "text": "33 Miniatures: Mathematical and Algorithmic Applications of Linear Algebra [pdf]"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2018/08/35-of-exoplanets-5-10-times-bigger-than-earth-are-50-water-which-is-2500-times-the-0-02-of-earth.html",
       "text": "35% of exoplanets 5-10 times bigger than Earth are 50% water which is 2500 times the 0.02% of Earth"
     },
@@ -5853,10 +5389,6 @@
       "text": "80 year old billionaires are injecting Placental stem cells to boost lifespan and health"
     },
     {
-      "url": "",
-      "text": "90 percent of federal cyber budget used for offensive ops](undefined)"
-    },
-    {
       "url": "http://erikrood.com/Posts/college_roi_.html",
       "text": "90% of colleges generate less ROI than skipping and investing tuition in S&P 500"
     },
@@ -5873,10 +5405,6 @@
       "text": "A 23-year-old Google employee lives in a truck and saves 90% of his income"
     },
     {
-      "url": "",
-      "text": "A 48-hour sexual 'afterglow' helps to bond partners over time](https://www.sciencedaily.com/releases/2017/03/170320110054.htm)"
-    },
-    {
       "url": "https://www.citylab.com/equity/2017/08/berlin-rent-control-neighborhood-protection/536325/",
       "text": "A Berlin Borough Buying Out Private Landlords"
     },
@@ -5887,10 +5415,6 @@
     {
       "url": "http://nullprogram.com/blog/2018/03/27/",
       "text": "A Crude Personal Package Manager"
-    },
-    {
-      "url": "",
-      "text": "A Decade of Lattice Cryptography (2016) [pdf]"
     },
     {
       "url": "https://www.theatlantic.com/technology/archive/2018/05/ritual-design-lab-secular-atheist/559535/?single_page=true",
@@ -5939,10 +5463,6 @@
     {
       "url": "http://hackaday.com/2017/07/14/a-neural-network-can-now-be-your-writing-assistant/",
       "text": "A Neural Network Can Now be Your Writing Assistant"
-    },
-    {
-      "url": "",
-      "text": "A Neural Network in 11 lines of Python (Part 1)](undefined)"
     },
     {
       "url": "http://nautil.us/blog/-a-new-explanation-for-one-of-the-strangest-occurrences-in-natureball-lightning",
@@ -6003,10 +5523,6 @@
     {
       "url": "https://www.fastcompany.com/40518772/thule-accident-nuclear-weapon-lost-greenland-us-denmark",
       "text": "A U.S. Bomber Crashed on Greenland with 4 Nukes aboard in 1968"
-    },
-    {
-      "url": "",
-      "text": "A US Ally Shot Down a $200 Drone With a $3 Million Patriot Missile](https://tech.slashdot.org/story/17/03/17/1136220/a-us-ally-shot-down-a-200-drone-with-a-3-million-patriot-missile?utm_source=rss1.0mainlinkanon&utm_medium=feed)"
     },
     {
       "url": "https://gizmodo.com/a-visiting-star-jostled-our-solar-system-70-000-years-a-1823954398",
@@ -6221,10 +5737,6 @@
       "text": "API Security Checklist"
     },
     {
-      "url": "",
-      "text": "AR.js: Efficient Augmented Reality for the Web Using ARToolKit](https://github.com/jeromeetienne/ar.js)"
-    },
-    {
       "url": "https://github.com/jeromeetienne/AR.js/",
       "text": "AR.js: Efficient Augmented Reality for the Web"
     },
@@ -6325,20 +5837,12 @@
       "text": "Al Jazeera open-sources InterviewJS, turns interviews into interactive chats"
     },
     {
-      "url": "",
-      "text": "Alan Kay: Is it too late to create a healthy future? [video]"
-    },
-    {
       "url": "https://spacenews.com/alaska-launch-shrouded-in-secrecy/",
       "text": "Alaska launch shrouded in secrecy"
     },
     {
       "url": "http://spacenews.com/alaskan-spaceport-to-host-secretive-commercial-launch/",
       "text": "Alaskan spaceport to host secretive commercial launch"
-    },
-    {
-      "url": "",
-      "text": "Alchemy: A Language and Compiler for Homomorphic Encryption Made Easy [pdf]"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2017/07/170724142033.htm",
@@ -6469,10 +5973,6 @@
       "text": "An algorithm that recreates 3D objects from tiny 2D images"
     },
     {
-      "url": "",
-      "text": "An animated introduction to the Fourier Transform [video]"
-    },
-    {
       "url": "https://github.com/julienr/ipynb_playground/blob/master/bitcoin/dumbcoin/dumbcoin.ipynb",
       "text": "An educational blockchain implementation in Python"
     },
@@ -6523,10 +6023,6 @@
     {
       "url": "https://www.popsci.com/deep-sea-nautilus-mining-ship?dom=rss-default",
       "text": "And now, a ship that can mine 39,000 tons of ore from a mile under water"
-    },
-    {
-      "url": "",
-      "text": "Andrew Ng Resigns from job as AI chief of Baidu](undefined)"
     },
     {
       "url": "https://blog.trendmicro.com/trendlabs-security-intelligence/android-backdoor-ghostctrl-can-silently-record-your-audio-video-and-more/",
@@ -6653,10 +6149,6 @@
       "text": "Archaeologists are mystified by ancient “gates” in Saudi lava fields"
     },
     {
-      "url": "",
-      "text": "Archaeologists find early democratic societies in the Americas](http://www.sciencemag.org/news/2017/03/it-wasnt-just-greece-archaeologists-find-early-democratic-societies-americas)"
-    },
-    {
       "url": "https://singularityhub.com/2018/02/05/are-accelerators-the-secret-to-building-truly-great-startup-hubs/",
       "text": "Are Accelerators the Secret to Building Truly Great Startup Hubs?"
     },
@@ -6711,10 +6203,6 @@
     {
       "url": "https://lexfridman.com/ai/",
       "text": "Artificial Intelligence Podcast"
-    },
-    {
-      "url": "",
-      "text": "Artificial Intelligence technical talent with F-you money do not hesitate to say F-you and leave for their own startups](http://www.nextbigfuture.com/2017/02/artificial-intelligence-technical.html)"
     },
     {
       "url": "https://www.popsci.com/artificial-intelligence-scientists-wikipedia?dom=rss-default",
@@ -6873,14 +6361,6 @@
       "text": "Atomic-scale manufacturing now a reality"
     },
     {
-      "url": "",
-      "text": "Atoning for the Raj](undefined)"
-    },
-    {
-      "url": "",
-      "text": "Attention Is All You Need [pdf]"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2017/12/aubrey-de-grey-interviewed-by-nextbigfuture-on-agex-and-progress-to-radical-life-extension.html",
       "text": "Aubrey de Grey interviewed by Nextbigfuture on AgeX and progress to Radical Life Extension"
     },
@@ -6985,24 +6465,12 @@
       "text": "Basic Income, Not Basic Jobs: Against Hijacking Utopia"
     },
     {
-      "url": "",
-      "text": "Basics of demo programming (2011) [video]"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2018/04/basis-could-be-more-stable-than-regular-currency-using-stabilizing-algorithms.html",
       "text": "Basis could be more stable than regular currency using stabilizing algorithms"
     },
     {
       "url": "http://newatlas.com/lactate-baldness/50893/",
       "text": "Battling baldness by jumpstarting stem cells with lactate"
-    },
-    {
-      "url": "",
-      "text": "Bay Area Bike Share is one of the least used systems in US, costs $5k per bike](https://blog.spin.pm/the-5000-a-bike-city-bikeshare-thats-hardly-used-b004a2c31b45#.i48an5isd)"
-    },
-    {
-      "url": "",
-      "text": "Bay Area Tech Job Growth Has Rapidly Decelerated](https://news.slashdot.org/story/17/02/13/1233255/bay-area-tech-job-growth-has-rapidly-decelerated?utm_source=rss1.0mainlinkanon&utm_medium=feed)"
     },
     {
       "url": "https://triplebyte.com/blog/bayesian-inference-for-hiring-engineers",
@@ -7145,10 +6613,6 @@
       "text": "Blue Origin conducts first test of BE-4 engine"
     },
     {
-      "url": "",
-      "text": "Blue Origin founder Jeff Bezos hints at test of the company’s BE-4 engine](undefined)"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2018/08/blue-origin-staffing-up-and-pushing-for-2020-new-glenn-launch.html",
       "text": "Blue Origin staffing up and pushing for 2020 New Glenn launch"
     },
@@ -7195,10 +6659,6 @@
     {
       "url": "http://slatestarcodex.com/2017/07/31/book-review-raise-a-genius/",
       "text": "Book Review: Raise A Genius!"
-    },
-    {
-      "url": "",
-      "text": "Book Review: Seeing Like A State](http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)"
     },
     {
       "url": "http://slatestarcodex.com/2018/09/19/book-review-the-black-swan/",
@@ -7321,10 +6781,6 @@
       "text": "Building An Ultralight Out Of Foam In A Basement"
     },
     {
-      "url": "",
-      "text": "Building Safe AI: A Tutorial on Homomorphically Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)"
-    },
-    {
       "url": "https://hackaday.com/2018/03/15/building-a-portable-solar-powered-spot-welder-nearly-practical/",
       "text": "Building a Portable Solar-Powered Spot Welder:  Nearly Practical!"
     },
@@ -7443,10 +6899,6 @@
     {
       "url": "https://www.politico.com/magazine/story/2018/01/05/washington-automation-congress-politics-lobbying-policy-216216",
       "text": "Can Washington Be Automated?"
-    },
-    {
-      "url": "",
-      "text": "Can We Have Form Objects in Elixir?](undefined)"
     },
     {
       "url": "http://offconvex.github.io/2018/03/02/acceleration-overparameterization/",
@@ -7693,16 +7145,8 @@
       "text": "China spending US$3.3 billion on molten salt nuclear reactors for faster aircraft carriers and in flying drones"
     },
     {
-      "url": "",
-      "text": "China studying reusable rockets similar to SpaceX](http://spacenews.com/china-studying-reusable-rockets-similar-to-spacex/)"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2018/08/china-successfully-tests-mach-6-hypersonic-boost-and-glide-weapon.html",
       "text": "China successfully tests Mach 6 hypersonic boost and glide weapon"
-    },
-    {
-      "url": "",
-      "text": "China underlines priority status for artificial intelligence](http://www.scmp.com/sport/article/2077464/artificial-intelligence-given-priority-development-status)"
     },
     {
       "url": "https://www.nextbigfuture.com/2017/11/china-wants-to-catch-up-us-rockets-in-2020-and-then-get-nuclear-spaceships-in-2045.html",
@@ -7869,10 +7313,6 @@
       "text": "Coinbase Security with Philip Martin"
     },
     {
-      "url": "",
-      "text": "Cold email tips I used to get 60K signups](https://medium.com/@dunjalazic/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21#.h0s9l6wzp)"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2018/08/180813160528.htm",
       "text": "Collaborate, but only intermittently, says new study"
     },
@@ -7949,20 +7389,12 @@
       "text": "Competitive Programmer's Handbook"
     },
     {
-      "url": "",
-      "text": "Compiled JavaScript with NectarJS can be faster than Node.js and C](undefined)"
-    },
-    {
       "url": "http://spacenews.com/complex-designs-can-slash-the-weight-of-spacecraft-parts-but-may-carry-hidden-costs/",
       "text": "Complex designs can slash the weight of spacecraft parts, but may carry hidden costs"
     },
     {
       "url": "https://www.newscientist.com/article/2167121-complex-life-started-a-billion-years-earlier-than-we-thought/?utm_campaign=RSS|NSNS",
       "text": "Complex life started a billion years earlier than we thought"
-    },
-    {
-      "url": "",
-      "text": "Composing Software in an Age of Dissonance [video]"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2017/06/170608145559.htm",
@@ -8145,10 +7577,6 @@
       "text": "Credit Card Sized Spacecraft Poised to Sail to Alpha Centauri"
     },
     {
-      "url": "",
-      "text": "Creepy Speaking Neural Networks](undefined)"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2018/05/crop-production-increased-by-47-percent-by-speeding-up-photorespiration.html",
       "text": "Crop production increased by 47 percent by speeding up photorespiration"
     },
@@ -8245,10 +7673,6 @@
       "text": "DNA tests can predict intelligence, scientists show for first time"
     },
     {
-      "url": "",
-      "text": "Daily consumption of tea protects the elderly from cognitive decline](https://www.sciencedaily.com/releases/2017/03/170316093412.htm)"
-    },
-    {
       "url": "https://www.nature.com/articles/d41586-018-07084-8",
       "text": "Dandelion Seeds Fly Using ‘Impossible’ Method Never Before Seen in Nature"
     },
@@ -8341,10 +7765,6 @@
       "text": "DeepMind Self-training Computer Creates 3D Model From 2D Snapshots"
     },
     {
-      "url": "",
-      "text": "DeepMind: From Generative Models to Generative Agents, Koray Kavukcuoglu [video]"
-    },
-    {
       "url": "https://www.newscientist.com/article/2171675-deepminds-ai-can-imagine-a-world-based-on-a-single-picture/?utm_campaign=RSS|NSNS",
       "text": "DeepMind’s AI can ‘imagine’ a world based on a single picture"
     },
@@ -8407,10 +7827,6 @@
     {
       "url": "https://codesmoothie.com/blog/derivatives-are-linear.html",
       "text": "Derivatives are Linear"
-    },
-    {
-      "url": "",
-      "text": "Desert Island Discs – Demis Hassabis, CEO of DeepMind [audio]"
     },
     {
       "url": "https://medium.com/what-to-build/how-to-design-social-systems-without-causing-depression-and-war-3c3f8e0226d1",
@@ -8527,10 +7943,6 @@
     {
       "url": "https://blog.openai.com/distill/",
       "text": "Distill"
-    },
-    {
-      "url": "",
-      "text": "Distill: a modern machine learning journal](http://distill.pub/about/)"
     },
     {
       "url": "https://medium.com/user-camp/distilling-the-wisdom-of-the-crowds-into-app-store-success-e96962271849",
@@ -8685,10 +8097,6 @@
       "text": "Earth being unusually dry for a habitable world would be a Fermi Paradox soft landing"
     },
     {
-      "url": "",
-      "text": "Earth's Lost History of Planet-Altering Eruptions Revealed](https://www.scientificamerican.com/article/earth-rsquo-s-lost-history-of-planet-altering-eruptions-revealed/)"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2017/11/171127091558.htm",
       "text": "Earthworms can reproduce in Mars soil simulant"
     },
@@ -8765,10 +8173,6 @@
       "text": "Elixir on Google Cloud Platform and App Engine"
     },
     {
-      "url": "",
-      "text": "Elon Musk Launches Neuralink To Connect Brains With Computers](undefined)"
-    },
-    {
       "url": "http://www.nextbigfuture.com/2017/03/elon-musk-confident-spacex-can-achieve.html",
       "text": "Elon Musk confident Spacex can achieve at least 100-fold reduction in the cost of space access and plans reflying within 24 hours of landing"
     },
@@ -8827,10 +8231,6 @@
     {
       "url": "http://www.nextbigfuture.com/2017/04/enceladus-and-europa-are-top-contenders-for-life-beyond-earth.html",
       "text": "Enceladus and Europa are top contenders for life beyond earth"
-    },
-    {
-      "url": "",
-      "text": "Enceladus' Buried Ocean is Just Beneath the Surface](https://www.scientificamerican.com/article/enceladus-rsquo-buried-ocean-is-just-beneath-the-surface/)"
     },
     {
       "url": "https://www.newscientist.com/article/2152367-enceladuss-hot-gritty-core-may-cook-up-ingredients-for-life/?utm_campaign=RSS|NSNS",
@@ -9013,10 +8413,6 @@
       "text": "Explanation for puzzling quantum oscillations has been found"
     },
     {
-      "url": "",
-      "text": "Exposed: Soviet cover-up of nuclear fallout worse than Chernobyl](https://www.newscientist.com/article/2125202-exposed-soviet-cover-up-of-nuclear-fallout-worse-than-chernobyl/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&campaign_id=RSS%7CNSNS-)"
-    },
-    {
       "url": "https://newatlas.com/eye-tracking-vr-infinite-walking/54824/",
       "text": "Eye-tracking tech tricks VR players into infinite walking – in circles"
     },
@@ -9101,10 +8497,6 @@
       "text": "Father of deep learning AI on General purpose AI and AI to conquer space in the 2050s"
     },
     {
-      "url": "",
-      "text": "Features are faults redux](http://www.tedunangst.com/flak/post/features-are-faults-redux)"
-    },
-    {
       "url": "https://yro.slashdot.org/story/17/07/26/1932225/feds-crack-trump-protesters-phones-to-charge-them-with-felony-rioting?utm_source=rss1.0mainlinkanon",
       "text": "Feds Crack Trump Protesters' Phones To Charge Them With Felony Rioting"
     },
@@ -9143,10 +8535,6 @@
     {
       "url": "http://spacenews.com/firefly-aerospace-to-take-over-vandenberg-delta-2-pad/",
       "text": "Firefly Aerospace to take over Vandenberg Delta 2 pad"
-    },
-    {
-      "url": "",
-      "text": "Firefly Space Systems assets to be sold](http://spacenews.com/firefly-space-systems-assets-to-be-sold/)"
     },
     {
       "url": "https://spacenews.com/firefly-back-in-full-force-following-last-years-near-death-experience/",
@@ -9201,10 +8589,6 @@
       "text": "Flatiron School Fined for Operating Without a License and Fake Employment Stats"
     },
     {
-      "url": "",
-      "text": "Flex](https://harc.ycr.org/flex/)"
-    },
-    {
       "url": "https://science.slashdot.org/story/18/07/07/0459217/floating-between-mars-and-jupiter-ceres-may-have-more-water-than-earth?utm_source=rss1.0mainlinkanon",
       "text": "Floating Between Mars and Jupiter, Ceres May Have More Water Than Earth"
     },
@@ -9239,10 +8623,6 @@
     {
       "url": "https://blogs.scientificamerican.com/observations/for-e-t-civilizations-location-could-be-everything/",
       "text": "For E.T. Civilizations, Location Could Be Everything"
-    },
-    {
-      "url": "",
-      "text": "For a modest personality trait, 'intellectual humility' packs a punch](https://www.sciencedaily.com/releases/2017/03/170317082517.htm)"
     },
     {
       "url": "https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea",
@@ -9301,20 +8681,12 @@
       "text": "France to increase investment in AI for future weapon systems"
     },
     {
-      "url": "",
-      "text": "France's far-right leader Le Pen visits troops in Chad](undefined)"
-    },
-    {
       "url": "https://en.wikipedia.org/wiki/Free_energy_principle",
       "text": "Free energy principle"
     },
     {
       "url": "https://www.newscientist.com/article/free-fall-experiment-test-gravity-quantum-force/?utm_campaign=RSS|NSNS",
       "text": "Free-fall experiment could test if gravity is a quantum force"
-    },
-    {
-      "url": "",
-      "text": "Freedom of Speech Is Now Largely an Illusion](http://blog.dilbert.com/post/157201503761/freedom-of-speech-is-now-largely-an-illusion)"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2018/10/181009135949.htm",
@@ -9497,10 +8869,6 @@
       "text": "Genetic tool that wipes out malaria could save 500,000 lives each year"
     },
     {
-      "url": "",
-      "text": "Genetics and educational attainment](http://www.nature.com/articles/s41539-017-0005-6)"
-    },
-    {
       "url": "https://www.newscientist.com/article/2133372-geoengineering-fears-make-scrutiny-of-ocean-seeding-test-vital/?utm_campaign=RSS|NSNS",
       "text": "Geoengineering fears make scrutiny of ocean seeding test vital"
     },
@@ -9549,10 +8917,6 @@
       "text": "Getting Data Out Of Air-Gapped Networks Through The Power Cable"
     },
     {
-      "url": "",
-      "text": "Getting Started with React Navigation, the Navigation Solution for React Native](undefined)"
-    },
-    {
       "url": "https://egghead.io/courses/getting-started-with-redux",
       "text": "Getting started with Redux"
     },
@@ -9571,14 +8935,6 @@
     {
       "url": "https://www.scientificamerican.com/article/giant-ice-volcanoes-once-covered-dwarf-planet-ceres/",
       "text": "Giant Ice Volcanoes Once Covered Dwarf Planet Ceres"
-    },
-    {
-      "url": "",
-      "text": "GitHub Repo, Learn Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/)"
-    },
-    {
-      "url": "",
-      "text": "GitHub lets staff own IP developed for personal projects using company resources](undefined)"
     },
     {
       "url": "https://gitea.io/en-US/",
@@ -9809,10 +9165,6 @@
       "text": "GraphQL editor – Visual node editor for GraphQL"
     },
     {
-      "url": "",
-      "text": "GraphQL: A Tutorial for Getting Started (Hello World)](undefined)"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2017/04/170419100852.htm",
       "text": "Graphene and gold make a better brain probe"
     },
@@ -9827,14 +9179,6 @@
     {
       "url": "http://www.kurzweilai.net/graphene-based-computer-would-be-1000-times-faster-than-silicon-based-use-100th-the-power",
       "text": "Graphene-based computer would be 1,000 times faster than silicon-based, use 100th the power"
-    },
-    {
-      "url": "",
-      "text": "Graphql-Up: CLI to Create a Ready-To-use GraphQL API](https://www.graph.cool/graphql-up/)"
-    },
-    {
-      "url": "",
-      "text": "[Gravitation under human control?](https://www.sciencedaily.com/releases/2016/01/160108083918.htm)"
     },
     {
       "url": "https://www.newscientist.com/article/mg23531444-600-spontaneous-collapses-may-show-how-to-unite-quantum-theory-and-gravity/?utm_campaign=RSS|NSNS",
@@ -9859,10 +9203,6 @@
     {
       "url": "https://medium.com/p/guaranteed-minimum-agriculture-f93a5aa38c97",
       "text": "Guaranteed Minimum Agriculture: Why Basic Jobs Might Fare Better Than UBI"
-    },
-    {
-      "url": "",
-      "text": "Guided By The Beauty Of Our Weapons](undefined)"
     },
     {
       "url": "http://slatestarcodex.com/2018/02/07/guyenet-on-motivation/",
@@ -9945,10 +9285,6 @@
       "text": "Hawking talks about no clear Big Bang and no boundary to space-time"
     },
     {
-      "url": "",
-      "text": "Haxl: Making Concurrency Unreasonably Easy [video]"
-    },
-    {
       "url": "https://newatlas.com/jaxa-asteroid-sample-mission-image-ryugu-hayabusa-2/55102/",
       "text": "Hayabusa 2 gets a closer look at asteroid Ryugu"
     },
@@ -9991,10 +9327,6 @@
     {
       "url": "https://www.sciencedaily.com/releases/2017/11/171122103555.htm",
       "text": "High-intensity exercise boosts memory, new research suggests"
-    },
-    {
-      "url": "",
-      "text": "High-performance employees need quieter work spaces](undefined)"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2018/07/180706091717.htm",
@@ -10069,10 +9401,6 @@
       "text": "Horne Technologies has superconducting IEC fusion device and hope for net power by 2020"
     },
     {
-      "url": "",
-      "text": "Hosting Jupyter Notebooks for 100k Users [video]"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2017/11/171107131745.htm",
       "text": "Hot news from the Antarctic underground"
     },
@@ -10083,10 +9411,6 @@
     {
       "url": "https://qz.com/1064061/house-flippers-triggered-the-us-housing-market-crash-not-poor-subprime-borrowers-a-new-study-shows/",
       "text": "House flippers triggered the US housing market crash, not poor borrowers"
-    },
-    {
-      "url": "",
-      "text": "How & Why Government, Universities, & Industry Create Domestic Labor Shortages of Scientists & High-Tech Workers](undefined)"
     },
     {
       "url": "https://www.scientificamerican.com/article/how-accurate-are-personality-tests/",
@@ -10111,10 +9435,6 @@
     {
       "url": "https://www.economist.com/special-report/2018/06/23/how-dubai-became-a-model-for-free-trade-openness-and-ambition",
       "text": "How Dubai became a model for free trade, openness and ambition"
-    },
-    {
-      "url": "",
-      "text": "How Earth became a giant snowball 700 million years ago](http://newatlas.com/snowball-earth-sturtian-glaciation/48389/)"
     },
     {
       "url": "https://singularityhub.com/2018/01/18/how-fast-is-ai-progressing-stanfords-new-report-card-for-artificial-intelligence/",
@@ -10211,14 +9531,6 @@
     {
       "url": "https://www.sciencedaily.com/releases/2018/07/180717094705.htm",
       "text": "How does the sun's rotational cycle influence lightning activity on earth?"
-    },
-    {
-      "url": "",
-      "text": "How morale changes as a startup grows](undefined)"
-    },
-    {
-      "url": "http://togelius.blogspot.com/2018/05/empiricism-and-limits-of-gradient.html",
-      "text": "How philosophy helps us see what evolutionary algorithms can do, backprop cannot"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2018/06/180620170954.htm",
@@ -10389,10 +9701,6 @@
       "text": "Humans could survive underground, but it would take a lot more than shovels"
     },
     {
-      "url": "",
-      "text": "Humans vs. Machines: When to Hire and When to Automate [video]"
-    },
-    {
       "url": "https://www.newscientist.com/article/2148882-hundreds-of-japanese-species-floated-to-the-us-on-tsunami-debris/?utm_campaign=RSS|NSNS",
       "text": "Hundreds of Japanese species floated to the US on tsunami debris"
     },
@@ -10451,14 +9759,6 @@
     {
       "url": "https://www.washingtonpost.com/opinions/i-used-to-think-gun-control-was-the-answer-my-research-told-me-otherwise/2017/10/03/d33edca6-a851-11e7-92d1-58c702d2d975_story.html?utm_term=.9d1a02fc9ef4",
       "text": "I used to think gun control was the answer. My research told me otherwise"
-    },
-    {
-      "url": "",
-      "text": "IBM To Hire 2,000 More Veterans, Expand Tech Training Schools](https://news.slashdot.org/story/17/03/17/1845242/ibm-to-hire-2000-more-veterans-expand-tech-training-schools?utm_source=rss1.0mainlinkanon&utm_medium=feed)"
-    },
-    {
-      "url": "",
-      "text": "IBM Unveils Blockchain As a Service Based On Open Source Hyperledger Fabric Technology](undefined)"
     },
     {
       "url": "https://www.nextbigfuture.com/2018/06/ibm-overcomes-von-neumann-bottleneck-for-ai-hundreds-of-time-faster-using-hundreds-of-times-less-energy.html",
@@ -10547,10 +9847,6 @@
     {
       "url": "https://www.nextbigfuture.com/2017/08/improved-ion-thruster.html",
       "text": "Improved ion thruster"
-    },
-    {
-      "url": "",
-      "text": "In 18 Years, A College Degree Could Cost About $500,000](https://news.slashdot.org/story/17/03/20/1333228/in-18-years-a-college-degree-could-cost-about-500000?utm_source=rss1.0mainlinkanon&utm_medium=feed)"
     },
     {
       "url": "https://www.aei.org/publication/chart-of-the-day-in-2017-us-had-largest-decline-in-co2-emissions-in-the-world-for-9th-time-this-century/",
@@ -10673,10 +9969,6 @@
       "text": "Ink: React for interactive command-line apps"
     },
     {
-      "url": "",
-      "text": "Inside China's High-Tech Space-Based Laser Arsenal](http://www.spacewar.com/reports/Inside_Chinas_High_Tech_Space_Based_Laser_Arsenal_999.html)"
-    },
-    {
       "url": "https://phys.org/news/2017-09-insights-atomic-next-generation-superconductors.html",
       "text": "Insights into atomic structure of next-generation superconductors"
     },
@@ -10733,10 +10025,6 @@
       "text": "Introducing Neom, the 500 billion-dollar, ultra-high tech future megacity of Saudi Arabia"
     },
     {
-      "url": "",
-      "text": "Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178)"
-    },
-    {
       "url": "https://github.com/blog/2470-introducing-security-alerts-on-github",
       "text": "Introducing security alerts on GitHub"
     },
@@ -10775,10 +10063,6 @@
     {
       "url": "http://slatestarcodex.com/2017/08/01/is-it-possible-to-have-coherent-principles-around-free-speech-norms/",
       "text": "Is It Possible To Have Coherent Principles Around Free Speech Norms?"
-    },
-    {
-      "url": "",
-      "text": "Is Martian moon Phobos locked in a cycle of destruction and rebirth?](undefined)"
     },
     {
       "url": "http://slatestarcodex.com/2017/06/05/is-pharma-research-worse-than-chance/",
@@ -10949,10 +10233,6 @@
       "text": "Keri Wright – “Many Are Introducing Carbon Fiber Into Aerospace Manufacturing”"
     },
     {
-      "url": "",
-      "text": "Kernel, a startup working on brain implants to link thoughts to computers](https://www.technologyreview.com/s/603771/the-entrepreneur-with-the-100-million-plan-to-link-brains-to-computers/)"
-    },
-    {
       "url": "https://keybase.io/blog/encrypted-git-for-everyone",
       "text": "Keybase launches Encrypted Git"
     },
@@ -11093,16 +10373,8 @@
       "text": "Lead Exposure Kills Hundreds of Thousands of Adults Every Year in the US, Study Finds"
     },
     {
-      "url": "",
-      "text": "Lead Poisoning Afflicts Neighborhoods Across California](undefined)"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2018/08/180803103257.htm",
       "text": "Lead or follow: What sets leaders apart?"
-    },
-    {
-      "url": "",
-      "text": "Leaf Classification Competition: 1st Place Winner's Interview, Ivan Sosnovik](undefined)"
     },
     {
       "url": "https://www.scribd.com/document/390521673/The-Good-Censor-GOOGLE-LEAK",
@@ -11265,10 +10537,6 @@
       "text": "LinkedIn Says It's Illegal To Scrape Its Website Without Permission"
     },
     {
-      "url": "",
-      "text": "[Liquid spacetime: What if spacetime were a kind of fluid?](https://www.sciencedaily.com/releases/2014/04/140423095208.htm)"
-    },
-    {
       "url": "http://slatestarcodex.com/2017/11/15/list-of-passages-i-highlighted-in-my-copy-of-legal-systems-very-different-from-ours/",
       "text": "List Of Passages I Highlighted In My Copy Of Legal Systems Very Different From Ours"
     },
@@ -11323,10 +10591,6 @@
     {
       "url": "http://spacenews.com/loft-orbital-raises-3-2-million-to-build-condo-constellation-for-those-who-dont-want-to-own-satellites/",
       "text": "Loft Orbital raises $3.2 million to build condo constellation for those who don’t want to own satellites"
-    },
-    {
-      "url": "",
-      "text": "Logic is Metaphysics (2011) [pdf]"
     },
     {
       "url": "http://www.washington.edu/news/2017/09/13/uw-team-shatters-long-range-communication-barrier-for-devices-that-consume-almost-no-power/",
@@ -11461,10 +10725,6 @@
       "text": "Machine learning environment setup within 10 minutes"
     },
     {
-      "url": "",
-      "text": "Machine learning lets scientists reverse-engineer cellular control networks](undefined)"
-    },
-    {
       "url": "https://blog.primer.ai/technology/2018/08/03/Quicksilver.html",
       "text": "Machine-Generated Knowledge Bases"
     },
@@ -11545,10 +10805,6 @@
       "text": "Mars has ice sheets 130 metres thick hiding below its red dust"
     },
     {
-      "url": "",
-      "text": "Mars volcano, Earth's dinosaurs went extinct about the same time](undefined)"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2017/12/171207140513.htm",
       "text": "Mars' atmosphere well protected from the solar wind"
     },
@@ -11587,10 +10843,6 @@
     {
       "url": "https://www.quantamagazine.org/mathematics-shows-how-to-ensure-evolution-20180626/",
       "text": "Mathematics Shows How to Ensure Evolution"
-    },
-    {
-      "url": "",
-      "text": "Mathematics for Physics [pdf]"
     },
     {
       "url": "http://spacenews.com/mattis-sees-need-for-new-space-programs/",
@@ -11781,10 +11033,6 @@
       "text": "Molecular oxygen in comet's atmosphere not created on its surface"
     },
     {
-      "url": "",
-      "text": "Molecule Kills Elderly Cells, Reduces Signs of Aging In Mice](undefined)"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2017/11/molten-salt-nuclear-reactor-that-will-make-nuclear-as-cheap-as-natural-gas-passes-first-certification-hurdle.html",
       "text": "Molten Salt Nuclear Reactor that will make nuclear as cheap as natural gas passes first certification hurdle"
     },
@@ -11843,10 +11091,6 @@
     {
       "url": "https://blog.acolyer.org/2017/05/30/mosaic-processing-a-trillion-edge-graph-on-a-single-machine/",
       "text": "Mosaic: processing a trillion-edge graph on a single machine"
-    },
-    {
-      "url": "",
-      "text": "Most Cancer Cases Arise From \"Bad Luck\"](undefined)"
     },
     {
       "url": "https://www.newscientist.com/article/distant-quasar-ever-seen-way-big-universe/?utm_campaign=RSS|NSNS",
@@ -11957,10 +11201,6 @@
       "text": "NASA Seeks Nuclear Power for Mars"
     },
     {
-      "url": "",
-      "text": "NASA Spends 72 Cents of Every SLS Dollar On Overhead Costs, Says Report](undefined)"
-    },
-    {
       "url": "https://hardware.slashdot.org/story/18/05/04/0231257/nasa-successfully-tests-new-nuclear-reactor-for-future-space-travelers?utm_source=rss1.0mainlinkanon",
       "text": "NASA Successfully Tests New Nuclear Reactor For Future Space Travelers"
     },
@@ -12069,10 +11309,6 @@
       "text": "NRO aims to move fast by relying on commercial products, expanding internal research and development"
     },
     {
-      "url": "",
-      "text": "NSA Routinely Monitors Americans’ Communications Without Warrants](http://www.cryptogon.com/?p=50604)"
-    },
-    {
       "url": "http://thehill.com/policy/cybersecurity/344742-nsa-unlawfully-surveiled-kim-dotcom-in-new-zealand",
       "text": "NSA Unlawfully Surveiled Kim Dotcom in New Zealand: Report"
     },
@@ -12087,10 +11323,6 @@
     {
       "url": "https://www.aitp.org/blog/aitp-blog/2017/09/07/silicon-valley-isn-t-the-only-place-for-tech-jobs/",
       "text": "NYC and DC have more software dev jobs than San Jose"
-    },
-    {
-      "url": "",
-      "text": "Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age [pdf]"
     },
     {
       "url": "https://www.newscientist.com/article/2142693-nano-aluminium-offers-fuel-cells-on-demand-just-add-water/?utm_campaign=RSS|NSNS",
@@ -12187,10 +11419,6 @@
     {
       "url": "https://jakearchibald.com/2017/netflix-and-react/",
       "text": "Netflix functions without client-side React, and it's a good thing"
-    },
-    {
-      "url": "",
-      "text": "Netlify CMS – An open-source CMS for Git workflows](https://www.netlifycms.org/)"
     },
     {
       "url": "https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/",
@@ -12497,10 +11725,6 @@
       "text": "North Korea’s latest ICBM has 10,400 kilometer range or enough to reach New York"
     },
     {
-      "url": "",
-      "text": "Not even wrong: Why does nobody like pilot-wave theory? [pdf]"
-    },
-    {
       "url": "https://www.quora.com/Is-it-possible-to-beat-Google/answer/Mark-Nuzzolilo-II?share=1",
       "text": "Not only is it possible to beat Google, it could happen sooner than we think"
     },
@@ -12797,10 +12021,6 @@
       "text": "Papers for Teaching Undergraduate Data Science"
     },
     {
-      "url": "",
-      "text": "Parable of the Polygons](undefined)"
-    },
-    {
       "url": "http://www.instructables.com/id/Parametric-Chainmail-in-Fusion-360/",
       "text": "Parametric Chainmail in Fusion 360"
     },
@@ -12815,10 +12035,6 @@
     {
       "url": "https://www.nature.com/articles/s41598-018-28301-4",
       "text": "Parrots have evolved a primate-like telencephalic-midbrain-cerebellar circuit"
-    },
-    {
-      "url": "",
-      "text": "Patents Are a Big Part of Why We Can’t Own Nice Things](undefined)"
     },
     {
       "url": "https://armory3d.org/fund.html",
@@ -12921,10 +12137,6 @@
       "text": "Physicists demonstrate new way to violate local causality"
     },
     {
-      "url": "",
-      "text": "[Physicists discover flaws in superconductor theory](https://www.sciencedaily.com/releases/2016/04/160408102223.htm)"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2017/12/171221101356.htm",
       "text": "Physicists negate century-old assumption regarding neurons and brain activity"
     },
@@ -12939,10 +12151,6 @@
     {
       "url": "https://physicstravelguide.com/",
       "text": "Physics Travel Guide: a tool that makes learning physics easier"
-    },
-    {
-      "url": "",
-      "text": "Physics can predict wealth inequality](undefined)"
     },
     {
       "url": "https://picovoice.ai/#voice-control-demo",
@@ -13013,16 +12221,8 @@
       "text": "Podcast Transcription with Amazon Transcribe"
     },
     {
-      "url": "",
-      "text": "Podplayer - Podcast Addict web player](http://podplayer.net/)"
-    },
-    {
       "url": "https://www.bloomberg.com/view/articles/2018-02-23/poland-s-economic-experiment-starring-thomas-piketty",
       "text": "Poland's economic experiment based on Thomas Piketty"
-    },
-    {
-      "url": "",
-      "text": "Police ask for whole city's Google searches, and a judge says yes](http://www.citypages.com/news/edina-police-ask-for-whole-citys-google-searches-and-a-judge-says-yes/416319633)"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2018/09/180927145555.htm",
@@ -13337,10 +12537,6 @@
       "text": "Ray Kurzweil reveals plans for ‘linguistically fluent’ Google software"
     },
     {
-      "url": "",
-      "text": "Ray Kurzweil updates Singularity predicted arrival as 2029](http://www.nextbigfuture.com/2017/03/ray-kurzweil-updates-singularity.html)"
-    },
-    {
       "url": "https://singularityhub.com/2017/06/16/ray-kurzweil-will-technology-end-the-nation-state​​/",
       "text": "Ray Kurzweil: Will Technology End the Nation State​​?"
     },
@@ -13447,10 +12643,6 @@
     {
       "url": "https://techcrunch.com/2017/04/03/statcounter-android-windows/",
       "text": "Report: Android overtakes Windows as the internet’s most used operating system"
-    },
-    {
-      "url": "",
-      "text": "Research Debt](undefined)"
     },
     {
       "url": "https://science.slashdot.org/story/18/09/23/0343218/researchers-create-spray-on-2d-antennas?utm_source=rss1.0mainlinkanon",
@@ -13649,16 +12841,8 @@
       "text": "Russia and China each startup VVER-1000 nuclear reactors"
     },
     {
-      "url": "",
-      "text": "Russia and Venezuela are running out of cash](http://www.nextbigfuture.com/2017/03/russia-and-venezuela-are-running-out-of.html)"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2018/03/russia-claims-100-times-smaller-nuclear-reactor-than-submarine-reactors-but-with-more-power.html",
       "text": "Russia claims 100 times smaller nuclear reactor than submarine reactors but with more power"
-    },
-    {
-      "url": "",
-      "text": "Russia cuts military budget 25% from $65 billion to $48 billion](http://www.nextbigfuture.com/2017/03/russia-cuts-military-budget-25-from-65.html)"
     },
     {
       "url": "http://www.spacewar.com/reports/Russia_test-fires_ideal_hypersonic_missile_999.html",
@@ -13753,10 +12937,6 @@
       "text": "San Francisco is one of the worst-paying places in the US for software engineers"
     },
     {
-      "url": "",
-      "text": "San Jose and Oakland area job markets tumble](undefined)"
-    },
-    {
       "url": "https://yro.slashdot.org/story/18/05/18/1339246/satellite-data-strongly-suggests-that-china-russia-and-other-authoritarian-countries-are-fudging-their-gdp-reports?utm_source=rss1.0mainlinkanon",
       "text": "Satellite Data Strongly Suggests That China, Russia and Other Authoritarian Countries Are Fudging Their GDP Reports"
     },
@@ -13779,10 +12959,6 @@
     {
       "url": "http://www.nextbigfuture.com/2017/04/saving-up-to-10-billion-per-year-by-using-near-earth-asteroids.html",
       "text": "Saving up to $10 billion per year by using near earth asteroids"
-    },
-    {
-      "url": "",
-      "text": "Scaling Your Org with Microservices [slides]"
     },
     {
       "url": "https://medium.com/@elliot_f/scaling-your-static-site-to-a-global-market-for-a-fraction-of-the-cost-on-aws-12d23f30f877",
@@ -13885,20 +13061,12 @@
       "text": "Scientists remove one of the final barriers to making lifelike robots"
     },
     {
-      "url": "",
-      "text": "Scientists reverse aging in mice by repairing damaged DNA](undefined)"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2017/12/171226154041.htm",
       "text": "Scientists should be super modelers"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2018/09/180918082102.htm",
       "text": "Scientists use artificial neural networks to predict new stable materials"
-    },
-    {
-      "url": "",
-      "text": "Scientists win Memprize competition with best vocabulary learning method](https://www.sciencedaily.com/releases/2017/03/170312130257.htm)"
     },
     {
       "url": "https://stackoverflow.com/questions/50276043/scraping-articles-and-make-google-home-read-them",
@@ -14001,10 +13169,6 @@
       "text": "Seventy maxims of maximally effective mercenaries"
     },
     {
-      "url": "",
-      "text": "Several tech billionaires are openly or secretely funding broadband mind computer interfacing projects](http://www.nextbigfuture.com/2017/03/several-tech-billionaires-are-openly-or.html)"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2018/03/180308143118.htm",
       "text": "Sewing atomic lattices seamlessly together"
     },
@@ -14067,10 +13231,6 @@
     {
       "url": "https://www.csvexplorer.com/",
       "text": "Show HN: CSV Explorer (YC F1) - Explore CSVs with Millions of Rows"
-    },
-    {
-      "url": "",
-      "text": "Show HN: Calibre Test Profiles – Test your sites under real world conditions](undefined)"
     },
     {
       "url": "https://cloudbackend.appdrag.com/",
@@ -14151,10 +13311,6 @@
     {
       "url": "https://keygen.sh",
       "text": "Show HN: Keygen – A dead-simple software licensing API built for developers"
-    },
-    {
-      "url": "",
-      "text": "Show HN: Kite, copilot for programmers, available for Python](undefined)"
     },
     {
       "url": "https://www.levels.fyi/",
@@ -14329,10 +13485,6 @@
       "text": "Simulation Suggests 68 Percent of the Universe May Not Actually Exist"
     },
     {
-      "url": "",
-      "text": "Singapore spends three times less the USA on healthcare and gets better results](http://www.nextbigfuture.com/2017/03/singapore-spends-three-times-less-usa.html)"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2018/03/singapores-400-billion-fund-sees-companies-with-world-changing-technology-from-both-china-and-silicon-valley.html",
       "text": "Singapore’s $400 billion fund sees companies with World Changing technology from both China and Silicon Valley"
     },
@@ -14409,10 +13561,6 @@
       "text": "Snarky: A new programming language for zk-SNARKs"
     },
     {
-      "url": "",
-      "text": "Sneaky beetles evolved disguise to look like ants, then eat them](https://www.newscientist.com/article/2124050-sneaky-beetles-evolved-disguise-to-look-like-ants-then-eat-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&campaign_id=RSS%7CNSNS-)"
-    },
-    {
       "url": "https://github.com/inconvergent/snek",
       "text": "Snek: An experimental system for writing generative systems"
     },
@@ -14479,10 +13627,6 @@
     {
       "url": "http://cafehayek.com/2017/10/some-links-1060.html",
       "text": "Some Links"
-    },
-    {
-      "url": "",
-      "text": "Some More Thoughts on Automating Populism](http://globalguerrillas.typepad.com/globalguerrillas/2017/03/some-more-thoughts-on-automating-populism.html)"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2018/02/180221091334.htm",
@@ -14669,10 +13813,6 @@
       "text": "Spacex reusable rockets will start saving significant money in 2018 and Ariane is doomed"
     },
     {
-      "url": "",
-      "text": "Spacex scheduled relaunch of a recovered booster is scheduled for this Thursday](undefined)"
-    },
-    {
       "url": "https://www.nextbigfuture.com/2017/10/spacex-targets-2024-for-manned-mars-mission.html",
       "text": "Spacex targets 2024 for manned Mars mission"
     },
@@ -14747,10 +13887,6 @@
     {
       "url": "https://www.nextbigfuture.com/2017/11/startup-blue-frontiers-is-building-seastead-in-french-polynesia.html",
       "text": "Startup Blue Frontiers is building Seastead in French Polynesia"
-    },
-    {
-      "url": "",
-      "text": "Startup School 18: How to Raise Money and How to Succeed Long-Term [video]"
     },
     {
       "url": "http://spacenews.com/startup-announces-plans-for-low-cost-commercial-space-station/",
@@ -15137,10 +14273,6 @@
       "text": "The Bay Area Is Separating into Red and Green Zones"
     },
     {
-      "url": "",
-      "text": "The BeagleBone Blue – Perfect For Robots](http://hackaday.com/2017/03/15/the-beaglebone-blue-perfect-for-robots)"
-    },
-    {
       "url": "https://singularityhub.com/2017/09/28/the-best-leaders-know-a-complex-world-demands-an-improvised-response/",
       "text": "The Best Leaders Know a Complex World Demands an Improvised Response"
     },
@@ -15191,10 +14323,6 @@
     {
       "url": "https://singularityhub.com/2018/07/13/the-earths-carrying-capacity-for-human-life-is-not-fixed/",
       "text": "The Earth’s Carrying Capacity for Human Life Is Not Fixed"
-    },
-    {
-      "url": "",
-      "text": "The Effect of Atmospheric Nuclear Testing on American Mortality Patterns [pdf]"
     },
     {
       "url": "https://motherboard.vice.com/en_us/article/9kgxjp/ebay-organized-crime-and-evangelical-christians-the-ethical-minefield-of-studying-ancient-civilizations-hobby-lobby-irisagrig-iraq",
@@ -15545,10 +14673,6 @@
       "text": "The Unreasonable Effectiveness  of Quasirandom Sequences"
     },
     {
-      "url": "",
-      "text": "The Unreasonable Effectiveness of Dynamic Typing for Practical Programs [video]"
-    },
-    {
       "url": "https://makezine.com/2018/02/06/via-libris-treasure-book/",
       "text": "The Via Libris is a Book that Leads You to Treasure"
     },
@@ -15603,10 +14727,6 @@
     {
       "url": "https://stanmed.stanford.edu/2017spring/how-mens-and-womens-brains-are-different.html",
       "text": "The cognitive differences between men and women"
-    },
-    {
-      "url": "",
-      "text": "The conceptual origins of Maxwell's equations and gauge theory, by C.N. Yang [pdf]"
     },
     {
       "url": "https://medium.com/s/story/is-the-price-of-bitcoin-based-on-anything-at-all-8989790678e9",
@@ -15731,10 +14851,6 @@
     {
       "url": "https://www.newscientist.com/article/2158462-the-universe-still-seems-to-be-expanding-faster-than-it-ought-to/?utm_campaign=RSS|NSNS",
       "text": "The universe still seems to be expanding faster than it ought to"
-    },
-    {
-      "url": "",
-      "text": "The unsolved secret of David Jones' perpetual motion machine [video]"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2017/06/170628131352.htm",
@@ -15949,10 +15065,6 @@
       "text": "Too Clever by Half"
     },
     {
-      "url": "",
-      "text": "Too much structured knowledge hurts creativity, shows study](undefined)"
-    },
-    {
       "url": "https://www.newscientist.com/article/mg23531441-900-toolwielding-monkeys-push-local-shellfish-to-edge-of-extinction/?utm_campaign=RSS|NSNS",
       "text": "Tool-wielding monkeys push local shellfish to edge of extinction"
     },
@@ -16105,10 +15217,6 @@
       "text": "Two Sigma Financial Modeling Challenge, Winner's Interview: 2nd Place, Nima Shahbazi, Chahhou Mohamed"
     },
     {
-      "url": "",
-      "text": "Two separate breakthroughs will combine for unlimited youthful blood for antiaging and immune system boosting transfusions](undefined)"
-    },
-    {
       "url": "https://tech.slashdot.org/story/18/04/09/1616223/two-thirds-of-tweeted-links-come-from-bots-report-says?utm_source=rss1.0mainlinkanon",
       "text": "Two-Thirds of Tweeted Links Come From Bots, Report Says"
     },
@@ -16143,10 +15251,6 @@
     {
       "url": "http://www.spacewar.com/reports/US_Concerned_With_Abnormal_Russian_Satellite_999.html",
       "text": "US 'concerned' with 'abnormal' Russian satellite"
-    },
-    {
-      "url": "",
-      "text": "US BE-4 Rocket Engines to Replace Russian RD-180 on Atlas Carrier Rockets](http://www.spacedaily.com/reports/US_BE_4_Rocket_Engines_to_Replace_Russian_RD_180_on_Atlas_Carrier_Rockets_999.html)"
     },
     {
       "url": "https://www.nextbigfuture.com/2018/04/us-defense-worries-about-chinas-hypersonic-and-long-range-missiles.html",
@@ -16657,10 +15761,6 @@
       "text": "When You’re Hot, You’re Hot: Career Successes Come in Clusters"
     },
     {
-      "url": "",
-      "text": "When helium behaves like a black hole](undefined)"
-    },
-    {
       "url": "http://www.rationaloptimist.com/blog/douglas-carswells-rebel/",
       "text": "When populism falters and the elite strikes back"
     },
@@ -16713,10 +15813,6 @@
       "text": "Who do we think we are?"
     },
     {
-      "url": "",
-      "text": "Why American Farmers Are Hacking Their Tractors With Ukrainian Firmware](undefined)"
-    },
-    {
       "url": "https://www.linkedin.com/pulse/why-data-science-leaders-running-exit-edward-chenard",
       "text": "Why Are Data Science Leaders Running for the Exit?"
     },
@@ -16727,10 +15823,6 @@
     {
       "url": "https://www.wired.co.uk/article/artificial-intelligence-weapons-warfare-project-maven-google-china",
       "text": "Why China will beat the West in the deadly race for AI weapons UK"
-    },
-    {
-      "url": "",
-      "text": "Why Complexity is Different](undefined)"
     },
     {
       "url": "https://judithcurry.com/2018/04/30/why-dessler-et-al-s-critique-of-energy-budget-climate-sensitivity-estimation-is-mistaken/",
@@ -16771,10 +15863,6 @@
     {
       "url": "https://www.smashingmagazine.com/2017/09/ideal-sketch-setup-ui-design/",
       "text": "Why I Switched To Sketch For UI Design (And Never Looked Back)"
-    },
-    {
-      "url": "",
-      "text": "Why I like Vim so much [video]"
     },
     {
       "url": "https://singularityhub.com/2017/06/18/why-interstellar-travel-will-be-possible-sooner-than-you-think/",
@@ -16889,10 +15977,6 @@
       "text": "Why successful startups stumble at 40 employees"
     },
     {
-      "url": "https://thinkgrowth.org/why-successful-startups-stumble-at-40-employees-66312ac70fba",
-      "text": "Why successful startups stumble at 40+ employees"
-    },
-    {
       "url": "https://singularityhub.com/2018/05/13/the-search-for-high-temperature-superconductors/",
       "text": "Why the Discovery of Room-Temperature Superconductors Would Unleash Amazing Technologies"
     },
@@ -16969,10 +16053,6 @@
       "text": "Wolfram Alpha Shows its Work"
     },
     {
-      "url": "",
-      "text": "Wolfram blocked publication of a mathematical proof with a court order](undefined)"
-    },
-    {
       "url": "https://www.bloomberg.com/graphics/2018-women-professional-inequality-college/",
       "text": "Women Lose Out to Men Even Before They Graduate College"
     },
@@ -17001,10 +16081,6 @@
       "text": "World changing dense metal 3d printing with 100 times faster speed and 20 times lower cost"
     },
     {
-      "url": "",
-      "text": "World will blow through Two Degree CO2 and have to look at Geoengineering even if all electricity went solar and all cars are electric](http://www.nextbigfuture.com/2017/03/world-will-blow-through-two-degree-co2.html)"
-    },
-    {
       "url": "https://newatlas.com/tropicalia-coldefy-associates/53972/",
       "text": "World's largest single-domed tropical greenhouse planned for France"
     },
@@ -17027,10 +16103,6 @@
     {
       "url": "https://blog.ycombinator.com/ycs-essential-startup-advice/",
       "text": "YC’s Essential Startup Advice"
-    },
-    {
-      "url": "",
-      "text": "YIR V: ‘Planet Nine’ – Pushing the boundaries of the solar system](undefined)"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2017/10/171026085804.htm",
@@ -17073,10 +16145,6 @@
       "text": "Yubico announces tiny, cheap YubiHSM 2"
     },
     {
-      "url": "",
-      "text": "Zener diodes have coupled quantum noise that travels at c [pdf]"
-    },
-    {
       "url": "https://openzeppelin.org/",
       "text": "Zeppelin"
     },
@@ -17103,14 +16171,6 @@
     {
       "url": "https://www.nextbigfuture.com/2018/07/zubrin-describes-how-dipole-drives-can-be-built-and-they-would-be-better-than-other-space-propulsion.html",
       "text": "Zubrin describes how Dipole Drives can be built and they would be better than other space propulsion"
-    },
-    {
-      "url": "",
-      "text": "[Jeri] Builds a Magnetic Loop Antenna"
-    },
-    {
-      "url": "",
-      "text": "[Whitepaper] a decentralised Universal Basic Income platform on blockchain"
     },
     {
       "url": "https://www.sciencedaily.com/releases/2018/06/180627160240.htm",
@@ -17163,10 +16223,6 @@
     {
       "url": "https://github.com/librosa/librosa",
       "text": "cannoneyed starred librosa/librosa"
-    },
-    {
-      "url": "",
-      "text": "nTopology’s 3D Lattice Generation Tools](http://www.fabbaloo.com/blog/2017/3/16/ntopologys-3d-lattice-generation-tools)"
     },
     {
       "url": "https://github.com/segmentio/nightmare",
