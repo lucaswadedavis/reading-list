@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://graphdeeplearning.github.io/post/transformers-are-gnns/",
+      "text": "Transformers Are Graph Neural Networks"
+    },
+    {
       "url": "https://slatestarcodex.com/2020/03/06/socratic-grilling/",
       "text": "Socratic Grilling"
     },
