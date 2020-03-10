@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://salesforfounders.com",
+      "text": "Show HN: Sales for Founders"
+    },
+    {
       "url": "https://arxiv.org/abs/2002.00585",
       "text": "Proving the Lottery Ticket Hypothesis: Pruning is All You Need"
     },
