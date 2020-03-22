@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://nemocas.github.io/AbstractAlgebra.jl/latest/index.html",
+      "text": "AbstractAlgebra: Computer algebra package for Julia language"
+    },
+    {
       "url": "http://ballingt.com/rich-terminal-applications/",
       "text": "Two types of command-line interfaces (2016)"
     },
