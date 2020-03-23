@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openrefine.org",
+      "text": "OpenRefine – free, open source, powerful tool for working with messy data"
+    },
+    {
       "url": "https://nemocas.github.io/AbstractAlgebra.jl/latest/index.html",
       "text": "AbstractAlgebra: Computer algebra package for Julia language"
     },
