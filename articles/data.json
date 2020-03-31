@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.zerohedge.com/geopolitical/hydroxychloroquine-demand-triples-overnight-following-fda-approval",
+      "text": "Hydroxychloroquine Prescriptions Triple Overnight Following FDA Approval"
+    },
+    {
       "url": "https://github.com/microsoft/nlp-recipes/releases/tag/2.2.0",
       "text": "Recipes for automatic text summarization using Google BERT and Microsoft UniLM"
     },
