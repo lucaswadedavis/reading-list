@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/microsoft/nlp-recipes/releases/tag/2.2.0",
+      "text": "Recipes for automatic text summarization using Google BERT and Microsoft UniLM"
+    },
+    {
       "url": "https://hackaday.com/2020/03/26/two-perspectives-on-james-clerk-maxwell-and-his-equations/",
       "text": "Two Perspectives on James Clerk Maxwell and His Equations"
     },
