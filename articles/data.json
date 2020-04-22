@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/microscope/",
+      "text": "OpenAI Microscope"
+    },
+    {
       "url": "https://hackaday.com/2020/04/22/program-guesses-your-regular-expression/",
       "text": "Program Guesses Your Regular Expression"
     },
