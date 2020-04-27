@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.sciencedaily.com/releases/2020/04/200427102544.htm",
+      "text": "New findings suggest laws of nature not as constant as previously thought"
+    },
+    {
       "url": "https://leimao.github.io/blog/PyTorch-Distributed-Training/",
       "text": "PyTorch Distributed Training"
     },
