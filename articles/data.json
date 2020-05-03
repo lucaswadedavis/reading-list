@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.planetary.org/explore/space-topics/venus/venus.html",
+      "text": "A young Venus had water for 2B years, habitable for longer than Mars"
+    },
+    {
       "url": "https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html",
       "text": "Show HN: Rendering One Million Datapoints with D3 and WebGL"
     },
