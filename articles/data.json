@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html",
+      "text": "Show HN: Rendering One Million Datapoints with D3 and WebGL"
+    },
+    {
       "url": "https://crunchskills.com/most-common-interview-question-at-google/",
       "text": "Most common phone interview question at Google"
     },
