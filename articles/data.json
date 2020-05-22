@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://kirstenhacker.wordpress.com/2020/05/17/dirac-penrose-and-wolfram/",
+      "text": "Dirac, Penrose, and Wolfram"
+    },
+    {
       "url": "https://github.com/versatica/mediasoup",
       "text": "Mediasoup – WebRTC video conferencing"
     },
