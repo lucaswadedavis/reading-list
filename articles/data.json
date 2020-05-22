@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://twitter.com/i/broadcasts/1OyKAYWPRrWKb",
+      "text": "Demo of an OpenAI language model applied to code generation [video]"
+    },
+    {
       "url": "https://github.com/BuilderIO/builder",
       "text": "bcbcb starred BuilderIO/builder"
     },
