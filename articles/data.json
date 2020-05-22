@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/versatica/mediasoup",
+      "text": "Mediasoup – WebRTC video conferencing"
+    },
+    {
       "url": "https://twitter.com/i/broadcasts/1OyKAYWPRrWKb",
       "text": "Demo of an OpenAI language model applied to code generation [video]"
     },
