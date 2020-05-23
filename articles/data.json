@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://ai.facebook.com/blog/a-highly-efficient-real-time-text-to-speech-system-deployed-on-cpus/",
+      "text": "A highly efficient, real-time text-to-speech system deployed on CPUs"
+    },
+    {
       "url": "https://desert.glass/archive/notes-from-the-quest-factory/#text",
       "text": "Notes from the Quest Factory (2019)"
     },
