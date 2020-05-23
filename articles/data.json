@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://builtin.com/software-engineering-perspectives/virtual-assistants-alexa-siri",
+      "text": "Next-Generation Virtual Assistants Will Be Far Sexier Than Alexa and Siri"
+    },
+    {
       "url": "https://news.mit.edu/2020/foolproof-way-shrink-deep-learning-models-0430",
       "text": "Researchers unveil a pruning algorithm to shrink deep learning models"
     },
