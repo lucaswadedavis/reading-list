@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/yemount/pose-animator/",
+      "text": "Pose Animator: SVG animation tool using real-time TensorFlow.js models"
+    },
+    {
       "url": "https://ai.facebook.com/blog/a-highly-efficient-real-time-text-to-speech-system-deployed-on-cpus/",
       "text": "A highly efficient, real-time text-to-speech system deployed on CPUs"
     },
