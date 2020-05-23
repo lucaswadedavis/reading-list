@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://news.mit.edu/2020/foolproof-way-shrink-deep-learning-models-0430",
+      "text": "Researchers unveil a pruning algorithm to shrink deep learning models"
+    },
+    {
       "url": "https://github.com/yemount/pose-animator/",
       "text": "Pose Animator: SVG animation tool using real-time TensorFlow.js models"
     },
