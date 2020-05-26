@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://realpython.com/courses/what-is-pip/",
+      "text": "A Beginner's Guide to Pip"
+    },
+    {
       "url": "https://hackaday.com/2020/05/26/aluminium-pucks-fuel-hydrogen-trucks/",
       "text": "Aluminium Pucks Fuel Hydrogen Trucks"
     },
