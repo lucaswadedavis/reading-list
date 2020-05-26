@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://news.ycombinator.com/item?id=23283551",
+      "text": "Ask HN: Best practices (and examples) for designing client libraries for APIs?"
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Two_capacitor_paradox",
       "text": "Two capacitor paradox"
     },
