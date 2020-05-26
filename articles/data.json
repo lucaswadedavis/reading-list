@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://en.wikipedia.org/wiki/Two_capacitor_paradox",
+      "text": "Two capacitor paradox"
+    },
+    {
       "url": "https://amitness.com/2020/05/self-supervised-learning-nlp/",
       "text": "Self Supervised Learning in NLP"
     },
