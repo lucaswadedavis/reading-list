@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://bentsukun.ch/posts/pinebook-pro/",
+      "text": "Pinebook Pro, First Impressions"
+    },
+    {
       "url": "https://github.com/ryansolid/solid",
       "text": "Solid – A declarative JavaScript library for building user interfaces"
     },
