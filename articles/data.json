@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/",
+      "text": "Book Review: Origin Of Consciousness In The Breakdown Of The Bicameral Mind"
+    },
+    {
       "url": "https://as-ideas.github.io/TransformerTTS/",
       "text": "Forward Transformer TTS – a non-autoregressive Transformer for text to speech"
     },
