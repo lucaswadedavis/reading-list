@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://as-ideas.github.io/TransformerTTS/",
+      "text": "Forward Transformer TTS – a non-autoregressive Transformer for text to speech"
+    },
+    {
       "url": "https://www.npr.org/2019/07/26/745731839/new-study-says-white-police-officers-are-not-more-likely-to-shoot-minority-suspe",
       "text": "Study: White Police Officers Not More Likely to Shoot Minority Suspects (2019)"
     },
