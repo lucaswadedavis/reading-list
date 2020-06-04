@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.nature.com/articles/s41386-020-0718-8",
+      "text": "Alterations in glutamate and the experience of ego dissolution with psilocybin"
+    },
+    {
       "url": "http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html",
       "text": "REPL Driven Design"
     },
