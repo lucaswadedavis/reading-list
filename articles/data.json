@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/deepmind/acme",
+      "text": "Acme – A framework for distributed reinforcement learning"
+    },
+    {
       "url": "http://nautil.us/issue/86/energy/the-road-less-traveled-to-fusion-energy",
       "text": "The Road Less Traveled to Fusion Energy"
     },
