@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://fuchsia.dev/fuchsia-src/concepts",
+      "text": "Fuchsia overview"
+    },
+    {
       "url": "https://newatlas.com/health-wellbeing/diet-exercise-reverses-diabetes-remission-lancet-trial-reports/",
       "text": "Diet and exercise reverses diabetes in 61% of patients, new trial reports"
     },
