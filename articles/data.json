@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.cybercoastal.com/aws-guide-introduction-to-machine-learning/",
+      "text": "Machine Learning Guide for Beginners"
+    },
+    {
       "url": "https://fuchsia.dev/fuchsia-src/concepts",
       "text": "Fuchsia overview"
     },
