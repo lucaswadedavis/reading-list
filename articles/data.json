@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.gutenberg.org/files/30688/30688-h/30688-h.htm",
+      "text": "Letters of a Radio-Engineer to His Son (1922)"
+    },
+    {
       "url": "http://roberthodgin.com/project/meander",
       "text": "Meander: a procedural system for generating maps of rivers that never existed"
     },
