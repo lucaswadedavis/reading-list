@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html",
+      "text": "REPL Driven Design"
+    },
+    {
       "url": "https://www.cybercoastal.com/u-s-police-shootings-breaking-down-the-data-by-race/",
       "text": "U.S. Police Shootings: Breaking Down the Data by Race"
     },
