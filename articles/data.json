@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.tensorflow.org/js/",
+      "text": "Tensorflow.js: Machine Learning in JavaScript"
+    },
+    {
       "url": "https://gsuite.google.com/products/currents/",
       "text": "Currents: Have Meaningful Discussions at Work"
     },
