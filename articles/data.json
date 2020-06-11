@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.prisma.io/blog/n0v98rzc8br1/",
+      "text": "Prisma 2.0 – Type-safe and auto-generated database client"
+    },
+    {
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147617",
       "text": "The “Majority Illusion” in Social Networks (2016)"
     },
