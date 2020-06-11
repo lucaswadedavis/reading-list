@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://syncedreview.com/2020/06/09/deepmind-introduces-eats-an-adversarial-end-to-end-approach-to-tts/",
+      "text": "DeepMind introduces ‘EATS’: adversarial, end-to-end approach to text-to-speech"
+    },
+    {
       "url": "https://www.prisma.io/blog/n0v98rzc8br1/",
       "text": "Prisma 2.0 – Type-safe and auto-generated database client"
     },
