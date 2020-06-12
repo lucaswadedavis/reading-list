@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.yangvincent.com/resources/personality-vectors/",
+      "text": "Personality Vectors (2019)"
+    },
+    {
       "url": "https://github.com/midas-research/audino",
       "text": "Show HN: Audino – Open-Source Audio and Speech Annotation Tool"
     },
