@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/openai-api/",
+      "text": "OpenAI API"
+    },
+    {
       "url": "https://www.yangvincent.com/resources/personality-vectors/",
       "text": "Personality Vectors (2019)"
     },
