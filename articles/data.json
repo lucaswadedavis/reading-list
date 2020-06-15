@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://realpython.com/python-keywords/",
+      "text": "Python Keywords: An Introduction"
+    },
+    {
       "url": "https://newatlas.com/robotics/ascento-wheeled-legged-robot/",
       "text": "Two-wheeled, two-legged robot rolls and jumps"
     },
