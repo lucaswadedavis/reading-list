@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.gwern.net/newsletter/2020/05#gpt-3",
+      "text": "GPT-3"
+    },
+    {
       "url": "https://www.judiciary.senate.gov/press/rep/releases/graham-cotton-blackburn-introduce-balanced-solution-to-bolster-national-security-end-use-of-warrant-proof-encryption-that-shields-criminal-activity",
       "text": "Bill Proposed to Outlaw End to End Encryption"
     },
