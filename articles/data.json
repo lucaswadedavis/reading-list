@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://github.com/photonlines/Intuitive-Guide-to-Maxwells-Equations",
+      "text": "Intuitive Guide to Maxwell's Equations"
+    },
+    {
       "url": "https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing",
       "text": "The Reformer – Pushing the limits of language modeling"
     },
