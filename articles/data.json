@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://firebase.googleblog.com/2020/06/enhance-your-tensorflow-lite-deployment-with-firebase.html",
+      "text": "Enhance your TensorFlow Lite deployment with Firebase"
+    },
+    {
       "url": "https://infrequently.org/2020/06/platform-adjacency-theory/",
       "text": "Platform Adjacency Theory"
     },
