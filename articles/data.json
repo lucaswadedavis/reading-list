@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://www.rationaloptimist.com/blog/a-dominant-character-by-samanth-subramanian/",
+      "text": "Book Review: A Dominant Character by Samanth Subramanian — the stupidity of a brilliant mind"
+    },
+    {
       "url": "https://realpython.com/pytorch-vs-tensorflow/",
       "text": "PyTorch vs Tensorflow for Your Python Deep Learning Project"
     },
