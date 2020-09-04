@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://realpython.com/pytorch-vs-tensorflow/",
+      "text": "PyTorch vs Tensorflow for Your Python Deep Learning Project"
+    },
+    {
       "url": "https://www.sciencedaily.com/releases/2020/08/200831112101.htm",
       "text": "Sea level rise from ice sheets track worst-case climate change scenario"
     },
