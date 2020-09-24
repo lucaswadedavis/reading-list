@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://pytorch.org/hub/snakers4_silero-models_stt/",
+      "text": "Silero Speech-To-Text models"
+    },
+    {
       "url": "https://www.zerohedge.com/markets/wisconsin-authorities-investigate-absentee-ballots-found-ditch-fbi-probes-discarded-pro",
       "text": "Wisconsin Authorities Investigate Absentee Ballots Found In Ditch, As FBI Probes Discarded Pro-Trump Ballots In PA"
     },
