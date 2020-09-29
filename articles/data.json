@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.jessfraz.com/post/the-art-of-automation/",
+      "text": "The Art of Automation"
+    },
+    {
       "url": "https://github.com/ossia/score",
       "text": "Ossia score – a sequencer designed to create interactive audio-visual shows"
     },
