@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www1.grc.nasa.gov/space/science/lattice-confinement-fusion/",
+      "text": "Lattice Confinement Fusion"
+    },
+    {
       "url": "https://syncedreview.com/2020/09/23/google-approaches-bert-level-performance-using-300x-fewer-parameters-with-extension-of-its-new-nlp-model-prado/",
       "text": "Google Approaches Bert-Level Performance Using 300x Fewer Parameters"
     },
