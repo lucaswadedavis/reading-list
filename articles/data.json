@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://blog.quickchat.ai/post/knowledge-base-chat-bot/",
+      "text": "Show HN: Chat bot powered by GPT-3"
+    },
+    {
       "url": "https://openreview.net/forum?id=PdauS7wZBfC",
       "text": "Predictive Coding Approximates Backprop Along Arbitrary Computation Graphs"
     },
