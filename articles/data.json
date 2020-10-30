@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://www.mpg.de/research/sun-activity-high",
+      "text": "The Sun is more active now than over the last 8000 years (2004)"
+    },
+    {
       "url": "https://academic.oup.com/nc/article/2020/1/niaa016/5909853",
       "text": "EM Information Theory of Consciousness"
     },
