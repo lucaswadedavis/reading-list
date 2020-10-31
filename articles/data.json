@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://tyrrrz.me/blog/fakes-over-mocks",
+      "text": "Prefer Fakes over Mocks"
+    },
+    {
       "url": "http://blog.rlmflores.me/2020/10/14/what_is_expected_of_an_engineering_manager/",
       "text": "What is expected of a engineering manager?"
     },
