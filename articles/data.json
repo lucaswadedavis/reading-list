@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://arxiv.org/abs/2002.12327",
+      "text": "A Primer in BERTology: What We Know About How Bert Works"
+    },
+    {
       "url": "https://stopa.io/post/269",
       "text": "What Gödel Discovered"
     },
