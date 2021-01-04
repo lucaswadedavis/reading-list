@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
+      "text": "A half-hour to learn Rust"
+    },
+    {
       "url": "https://alarmingdevelopment.org/?p=1475",
       "text": "The Great Software Stagnation"
     },
