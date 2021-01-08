@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://www.scipy-lectures.org/index.html",
+      "text": "Scipy Lecture Notes"
+    },
+    {
       "url": "https://deepmind.com/blog/article/using-jax-to-accelerate-our-research",
       "text": "Using JAX to Accelerate Research"
     },
