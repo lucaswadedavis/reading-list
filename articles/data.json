@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://deepmind.com/blog/article/using-jax-to-accelerate-our-research",
+      "text": "Using JAX to Accelerate Research"
+    },
+    {
       "url": "https://www.sciencedaily.com/releases/2021/01/210105104832.htm",
       "text": "Magnets dim natural glow of human cells, may shed light on how animals migrate"
     },
