@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://clarity-lang.org/",
+      "text": "Clarity Smart Contract Language"
+    },
+    {
       "url": "https://timdaub.github.io/2021/01/16/web-principles/",
       "text": "How I Build Web Apps As A Freelancer"
     },
