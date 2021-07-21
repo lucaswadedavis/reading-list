@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "http://offconvex.github.io/2021/07/08/imp-reg-tf/",
+      "text": "Implicit Regularization in Tensor Factorization: Can Tensor Rank Shed Light on Generalization in Deep Learning?"
+    },
+    {
       "url": "https://newatlas.com/materials/desalination-membrane-coaxial-electrospinning-nanofibers/",
       "text": "Mixed up membrane desalinates water with 99.99 percent efficiency"
     },
