@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "url": "https://openai.com/blog/openai-codex/",
+      "text": "OpenAI Codex"
+    },
+    {
       "url": "https://www.spacedaily.com/reports/Metallic_glass_gears_up_for_Cobots_Coatings_and_More_999.html",
       "text": "Metallic glass gears up for 'Cobots,' Coatings, and More"
     },
